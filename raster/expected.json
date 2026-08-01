@@ -1,0 +1,250 @@
+{
+  "crs": "EPSG:7850",
+  "generated_files": [
+    "README.md",
+    "conversion/surface.asc",
+    "conversion/surface.flt",
+    "conversion/surface.flt.aux.xml",
+    "conversion/surface.hdr",
+    "conversion/surface.prj",
+    "conversion/surface.xyz",
+    "grouped_mosaic/01_X143_DEV_d_HR_Max.tif",
+    "grouped_mosaic/01_X144_DEV_d_HR_Max.tif",
+    "maintenance/Synthetic_EXG_01p_060m_TP01_d_HR_Max.tif",
+    "maintenance/four_band_depth.tif",
+    "maintenance/nodata_regions.tif",
+    "merge/adjacent/tile_east.tif",
+    "merge/adjacent/tile_west.tif",
+    "merge/overlap/tile_high.tif",
+    "merge/overlap/tile_low.tif",
+    "merge/select_west.gpkg",
+    "square_cells/non_square_cells.tif",
+    "tuflow_statistics/max_search/DEV/PMP/grids/Synthetic+modelB+DEV+PMP+00030m+PMF+Dummy+08M_V_Max.tif",
+    "tuflow_statistics/max_search/DEV/PMP/grids/Synthetic+modelB+DEV+PMP+00030m+PMF+Dummy+08M_d_HR_Max.tif",
+    "tuflow_statistics/max_search/DEV/PMP/grids/Synthetic+modelB+DEV+PMP+00030m+PMF+Dummy+08M_h_HR_Max.tif",
+    "tuflow_statistics/max_search/DEV/PMP/grids/Synthetic+modelB+DEV+PMP+00060m+PMF+Dummy+08M_V_Max.tif",
+    "tuflow_statistics/max_search/DEV/PMP/grids/Synthetic+modelB+DEV+PMP+00060m+PMF+Dummy+08M_d_HR_Max.tif",
+    "tuflow_statistics/max_search/DEV/PMP/grids/Synthetic+modelB+DEV+PMP+00060m+PMF+Dummy+08M_h_HR_Max.tif",
+    "tuflow_statistics/max_search/EXG/PMP/grids/Synthetic_modelB_EXG_PMP_00030m_PMF_Dummy_08M_V_Max.tif",
+    "tuflow_statistics/max_search/EXG/PMP/grids/Synthetic_modelB_EXG_PMP_00030m_PMF_Dummy_08M_d_HR_Max.tif",
+    "tuflow_statistics/max_search/EXG/PMP/grids/Synthetic_modelB_EXG_PMP_00030m_PMF_Dummy_08M_h_HR_Max.tif",
+    "tuflow_statistics/max_search/EXG/PMP/grids/Synthetic_modelB_EXG_PMP_00060m_PMF_Dummy_08M_V_Max.tif",
+    "tuflow_statistics/max_search/EXG/PMP/grids/Synthetic_modelB_EXG_PMP_00060m_PMF_Dummy_08M_d_HR_Max.tif",
+    "tuflow_statistics/max_search/EXG/PMP/grids/Synthetic_modelB_EXG_PMP_00060m_PMF_Dummy_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP01_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP01_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP01_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP02_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP02_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP02_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP03_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP03_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP03_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP04_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP04_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP04_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP05_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP05_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP05_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP06_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP06_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP06_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP07_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP07_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP07_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP08_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP08_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP08_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP09_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP09_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP09_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP10_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP10_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00030m_Ensemble_TP10_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP01_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP01_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP01_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP02_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP02_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP02_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP03_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP03_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP03_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP04_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP04_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP04_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP05_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP05_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP05_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP06_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP06_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP06_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP07_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP07_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP07_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP08_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP08_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP08_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP09_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP09_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP09_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP10_08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP10_08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_alpha/results/grids/Synthetic_05_modelA_EXG_01.00p_00060m_Ensemble_TP10_08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP01+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP01+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP01+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP02+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP02+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP02+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP03+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP03+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP03+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP04+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP04+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP04+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP05+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP05+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP05+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP06+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP06+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP06+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP07+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP07+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP07+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP08+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP08+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP08+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP09+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP09+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP09+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP10+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP10+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00030m+Ensemble+TP10+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP01+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP01+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP01+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP02+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP02+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP02+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP03+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP03+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP03+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP04+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP04+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP04+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP05+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP05+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP05+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP06+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP06+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP06+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP07+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP07+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP07+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP08+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP08+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP08+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP09+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP09+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP09+08M_h_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP10+08M_V_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP10+08M_d_HR_Max.tif",
+    "tuflow_statistics/mean_then_max/layout_beta/nested/model_outputs/grids/Synthetic+05+modelA+DEV+01.00p+00060m+Ensemble+TP10+08M_h_HR_Max.tif",
+    "tuflow_statistics/separator_cases/plus/Synthetic+modelC+EXG+01.00p+00030m+TP01+08M_d_HR_Max.tif",
+    "tuflow_statistics/separator_cases/underscore/Synthetic_modelC_EXG_01.00p_00030m_TP01_08M_d_HR_Max.tif",
+    "velocity_masker/Synthetic_EXG_01p_060m_TP01_V_Max.tif",
+    "velocity_masker/Synthetic_EXG_01p_060m_TP01_d_HR_Max.tif"
+  ],
+  "nodata": -9999.0,
+  "origin": [
+    400000.0,
+    6500000.0
+  ],
+  "tuflow_statistics": {
+    "DEV/V_Max": {
+      "00030m": {
+        "cell_0_0_mean": 125.5,
+        "cell_3_3_mean": 125.65
+      },
+      "00060m": {
+        "cell_0_0_mean": 145.5,
+        "cell_3_3_mean": 145.65
+      },
+      "maximum_of_duration_means": {
+        "cell_0_0": 145.5,
+        "cell_3_3": 145.65
+      }
+    },
+    "DEV/d_HR_Max": {
+      "00030m": {
+        "cell_0_0_mean": 105.5,
+        "cell_3_3_mean": 105.65
+      },
+      "00060m": {
+        "cell_0_0_mean": 125.5,
+        "cell_3_3_mean": 125.65
+      },
+      "maximum_of_duration_means": {
+        "cell_0_0": 125.5,
+        "cell_3_3": 125.65
+      }
+    },
+    "DEV/h_HR_Max": {
+      "00030m": {
+        "cell_0_0_mean": 115.5,
+        "cell_3_3_mean": 115.65
+      },
+      "00060m": {
+        "cell_0_0_mean": 135.5,
+        "cell_3_3_mean": 135.65
+      },
+      "maximum_of_duration_means": {
+        "cell_0_0": 135.5,
+        "cell_3_3": 135.65
+      }
+    },
+    "EXG/V_Max": {
+      "00030m": {
+        "cell_0_0_mean": 25.5,
+        "cell_3_3_mean": 25.65
+      },
+      "00060m": {
+        "cell_0_0_mean": 45.5,
+        "cell_3_3_mean": 45.65
+      },
+      "maximum_of_duration_means": {
+        "cell_0_0": 45.5,
+        "cell_3_3": 45.65
+      }
+    },
+    "EXG/d_HR_Max": {
+      "00030m": {
+        "cell_0_0_mean": 5.5,
+        "cell_3_3_mean": 5.65
+      },
+      "00060m": {
+        "cell_0_0_mean": 25.5,
+        "cell_3_3_mean": 25.65
+      },
+      "maximum_of_duration_means": {
+        "cell_0_0": 25.5,
+        "cell_3_3": 25.65
+      }
+    },
+    "EXG/h_HR_Max": {
+      "00030m": {
+        "cell_0_0_mean": 15.5,
+        "cell_3_3_mean": 15.65
+      },
+      "00060m": {
+        "cell_0_0_mean": 35.5,
+        "cell_3_3_mean": 35.65
+      },
+      "maximum_of_duration_means": {
+        "cell_0_0": 35.5,
+        "cell_3_3": 35.65
+      }
+    }
+  }
+}

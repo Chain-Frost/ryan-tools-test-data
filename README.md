@@ -24,5 +24,9 @@ git submodule update --init --recursive
 The Python tests remain in `ryan-tools`. Running them without this repository populated at
 `tests/test_data` is unsupported and fails during pytest startup.
 
+Small synthetic raster fixtures used by the GDAL, raster, and TUFLOW utilities
+live under [`raster`](raster/README.md). Regenerate them with
+`python generate_raster_fixtures.py`.
+
 Historical branches under `archive/` preserve test-data changes that were not reachable from the source
 repository's `main` branch. XLSX files were intentionally removed from all history during extraction.

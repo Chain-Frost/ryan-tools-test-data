@@ -14,3 +14,10 @@ The extraction deliberately excluded every XLSX path from all refs. The source t
 compared byte-for-byte before publication: 7,432 files and 147,063,632 bytes matched.
 
 Before adding or redistributing third-party datasets, confirm their licensing and record their source here.
+
+## Synthetic raster data
+
+The `raster` directory is generated locally by `generate_raster_fixtures.py`.
+It contains no third-party source data: all pixel values, names, transforms,
+and vector geometry are deterministic synthetic examples created for testing
+the raster utilities in `ryan-tools`.
