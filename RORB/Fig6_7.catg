@@ -1,0 +1,110 @@
+fIGURE 6.7                                                           
+C RORB_GE 002
+C 
+C fIGURE 6.7                                                           
+C 
+C #FILE COMMENTS
+C   0
+C 
+C #SUB-AREA AREA COMMENTS
+C   0
+C 
+C #IMPERVIOUS FRACTION COMMENTS
+C   0
+C 
+C #BACKGROUND IMAGE
+C  T  F                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
+C 
+C #NODES
+C     10
+C      1         58.928         69.397          1.000 1 0     2 A                            30.000          0.000  0  0
+C                                                   
+C      2         49.412         58.904          1.000 0 0     5                               0.000          0.000  0  0
+C                                                   
+C      3         47.430         77.823          1.000 1 0     2 B                            28.000          0.000  0  0
+C                                                   
+C      4         55.855         46.185          1.000 1 0     5 C                            25.000          0.000  0  0
+C                                                   
+C      5         42.573         50.796          1.000 0 0     6                               0.000          0.000  0  0
+C                                                   
+C      6         35.932         42.051          1.000 0 0     8                               0.000          0.000  0  0
+C                                                   
+C      7         48.223         34.420          1.000 1 0     6 E                            35.000          0.000  0  0
+C                                                   
+C      8         32.264         37.759          1.000 0 0    10                               0.000          0.000  0  0
+C                                                   
+C      9         29.291         59.063          1.000 1 0     8 D                            40.000          0.000  0  0
+C                                                   
+C     10         27.903         31.876          1.000 0 1     0                               0.000          0.000 70  0
+C                                                   
+C 
+C #REACHES
+C      9
+C      1                          1     2              0 1 0          5.000          0.000     1  0
+C          54.170
+C          64.150
+C      2                          3     2              0 1 0          4.000          0.000     1  0
+C          48.421
+C          68.363
+C      3                          2     5              0 1 0          2.500          0.000     1  0
+C          45.993
+C          54.850
+C      4                          4     5              0 1 0          4.500          0.000     1  0
+C          49.214
+C          48.490
+C      5                          5     6              0 1 0          2.500          0.000     1  0
+C          39.252
+C          46.423
+C      6                          7     6              0 1 0          4.500          0.000     1  0
+C          42.077
+C          38.236
+C      7                          6     8              0 1 0          1.000          0.000     1  0
+C          34.098
+C          39.905
+C      8                          9     8              0 1 0          4.500          0.000     1  0
+C          30.777
+C          48.411
+C      9                          8    10              0 1 0          1.500          0.000     1  0
+C          30.084
+C          34.818
+C 
+C #STORAGES
+C      0
+C 
+C #INFLOW/OUTFLOW
+C      0
+C 
+C END RORB_GE
+C 
+1
+1, 5.000,  -99                                   ,Reach 1 node 1                    Sub-area A - Generate rainfall excess h'graph and route downstream
+3                                                ,                                  Store running hydrograph
+1, 4.000,  -99                                   ,Reach 2 node 3                    Sub-area B - Generate rainfall excess h'graph and route downstream
+4                                                ,                                  Add running h'graph to last stored h'graph
+5, 2.500,  -99                                   ,Reach 3                           Route running h'graph downstream
+3                                                ,                                  Store running hydrograph
+1, 4.500,  -99                                   ,Reach 4 node 4                    Sub-area C - Generate rainfall excess h'graph and route downstream
+4                                                ,                                  Add running h'graph to last stored h'graph
+5, 2.500,  -99                                   ,Reach 5                           Route running h'graph downstream
+3                                                ,                                  Store running hydrograph
+1, 4.500,  -99                                   ,Reach 6 node 7                    Sub-area E - Generate rainfall excess h'graph and route downstream
+4                                                ,                                  Add running h'graph to last stored h'graph
+5, 1.000,  -99                                   ,Reach 7                           Route running h'graph downstream
+3                                                ,                                  Store running hydrograph
+1, 4.500,  -99                                   ,Reach 8 node 9                    Sub-area D - Generate rainfall excess h'graph and route downstream
+4                                                ,                                  Add running h'graph to last stored h'graph
+5, 1.500,  -99                                   ,Reach 9                           Route running h'graph downstream
+7                                                ,                                  PRINT                                                                                                                                                 
+                                                  
+0
+C Sub Area Data
+C Areas, km**2, of subareas A,B...
+  30.000,   28.000,   25.000,   35.000,   40.000, 
+ -99
+C Impervious Fraction Data
+0,  -99                                          ,No impervious areas in system                                                                                                                         
+ 
+ 
+ 
+ 
+ 

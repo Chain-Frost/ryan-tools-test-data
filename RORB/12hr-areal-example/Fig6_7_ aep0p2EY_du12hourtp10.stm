@@ -1,0 +1,26 @@
+fIGURE 6.7: 12 hour 0.2EY Design Storm No.* Temporal Pattern
+DESIGN
+C  
+C  Date run           : 08 Aug 2026 22:30
+C  Catchment file     : E:\Library\Automation\ryan-tools\tests\test_data\RORB\Fig6_7.catg
+C  Storm area (km²)   :     158.00
+C  Storm ARI (yr)     : 0.2EY
+C  Storm duration     : 12 hour
+C  Temporal pattern   : ARR2016 pattern 10 (areal temporal patterns, standard area = 200 km²)
+C  Spatial pattern    : Uniform
+C  Burst depth (mm)   :    54.60
+C  Areal Red. Fact.   :     0.92 (ARR2016 approach)
+C  ARF*BurDepth(mm)   :    50.44
+C  Pre-burst depth(mm):     0.79
+C  
+   0.50000,300, 1,  1, 1, -99
+ 0,  72
+Temporal pattern (% of depth)
+  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.01,
+  0.01,  0.01,  0.01,  0.01,  0.01,  0.06,  0.06,  0.06,  0.06,  0.06,  0.06,  0.02,  0.02,
+  0.02,  0.02,  0.02,  0.02,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,  0.03,
+  0.03,  0.03,  0.03,  0.04,  0.04,  0.04,  0.04,  0.04,  0.04,  3.17,  3.96,  4.77,  5.07,
+  3.71,  2.95,  3.39,  3.40,  3.76,  2.60,  2.87,  5.88,  6.52,  6.00,  5.41,  4.67,  5.26,
+  3.17,  3.12,  4.21,  4.24,  7.78,  2.38,  1.71,-99.00
+C  Sub-area rainfall depths (areally weighted average depth =      51.23 mm)
+  51.23,  51.23,  51.23,  51.23,  51.23, -99.00

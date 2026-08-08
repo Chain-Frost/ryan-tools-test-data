@@ -1,0 +1,123 @@
+ RORBWin Batch Run Summary
+ *************************
+ 
+ Program version 6.52 (last updated 1st June 2023)
+ Copyright Monash University and Hydrology and Risk Consulting
+ 
+ Date run: 08 Aug 2026 22:30
+
+ Catchment file   : E:\Library\Automation\ryan-tools\tests\test_data\RORB\Fig6_7.catg
+ Rainfall location: User defined
+ Temporal pattern : ARR2016 areal temporal patterns, 200 km² standard area
+ Spatial pattern  : Uniform
+ Areal Red. Fact. : Based on ARR 2016 (Book 2 Chapter 4)
+ Loss factors     : Constant with ARI
+ 
+
+ Parameters:  kc =    10.00    m = 0.80
+
+ Loss parameters     Initial loss (mm)   Cont. loss (mm/h)
+                           12.00              1.90
+
+ Peak  Description
+   01  Calculated hydrograph:
+ 
+ Run        Duration             AEP   TPat  Rain(mm)     ARF  PbDepth  Peak0001
+   1         12 hour             50%      1     40.20    0.93     0.30   55.3175 
+   1         12 hour             50%      2     40.20    0.93     0.30   83.7055 
+   1         12 hour             50%      3     40.20    0.93     0.30   85.5341 
+   1         12 hour             50%      4     40.20    0.93     0.30   67.1539 
+   1         12 hour             50%      5     40.20    0.93     0.30   57.6887 
+   1         12 hour             50%      6     40.20    0.93     0.30   41.2541 
+   1         12 hour             50%      7     40.20    0.93     0.30   91.6734 
+   1         12 hour             50%      8     40.20    0.93     0.30   48.8057 
+   1         12 hour             50%      9     40.20    0.93     0.30   49.5627 
+   1         12 hour             50%     10     40.20    0.93     0.30   53.4779 
+   2         12 hour           0.5EY      1     44.60    0.93     0.30   72.3005 
+   2         12 hour           0.5EY      2     44.60    0.93     0.30   102.213 
+   2         12 hour           0.5EY      3     44.60    0.93     0.30   104.415 
+   2         12 hour           0.5EY      4     44.60    0.93     0.30   85.6070 
+   2         12 hour           0.5EY      5     44.60    0.93     0.30   73.1372 
+   2         12 hour           0.5EY      6     44.60    0.93     0.30   57.7133 
+   2         12 hour           0.5EY      7     44.60    0.93     0.30   112.938 
+   2         12 hour           0.5EY      8     44.60    0.93     0.30   63.5631 
+   2         12 hour           0.5EY      9     44.60    0.93     0.30   66.7408 
+   2         12 hour           0.5EY     10     44.60    0.93     0.30   69.2939 
+   3         12 hour             20%      1     53.50    0.92     0.79   104.187 
+   3         12 hour             20%      2     53.50    0.92     0.79   143.327 
+   3         12 hour             20%      3     53.50    0.92     0.79   151.553 
+   3         12 hour             20%      4     53.50    0.92     0.79   123.635 
+   3         12 hour             20%      5     53.50    0.92     0.79   117.820 
+   3         12 hour             20%      6     53.50    0.92     0.79   91.9336 
+   3         12 hour             20%      7     53.50    0.92     0.79   152.707 
+   3         12 hour             20%      8     53.50    0.92     0.79   98.8035 
+   3         12 hour             20%      9     53.50    0.92     0.79   99.5581 
+   3         12 hour             20%     10     53.50    0.92     0.79   103.158 
+   4         12 hour           0.2EY      1     54.60    0.92     0.79   108.501 
+   4         12 hour           0.2EY      2     54.60    0.92     0.79   148.090 
+   4         12 hour           0.2EY      3     54.60    0.92     0.79   157.365 
+   4         12 hour           0.2EY      4     54.60    0.92     0.79   128.423 
+   4         12 hour           0.2EY      5     54.60    0.92     0.79   121.721 
+   4         12 hour           0.2EY      6     54.60    0.92     0.79   96.3183 
+   4         12 hour           0.2EY      7     54.60    0.92     0.79   157.543 
+   4         12 hour           0.2EY      8     54.60    0.92     0.79   103.238 
+   4         12 hour           0.2EY      9     54.60    0.92     0.79   103.500 
+   4         12 hour           0.2EY     10     54.60    0.92     0.79   106.918 
+   5         12 hour             10%      1     63.50    0.92     1.11   141.637 
+   5         12 hour             10%      2     63.50    0.92     1.11   188.489 
+   5         12 hour             10%      3     63.50    0.92     1.11   202.834 
+   5         12 hour             10%      4     63.50    0.92     1.11   164.938 
+   5         12 hour             10%      5     63.50    0.92     1.11   161.599 
+   5         12 hour             10%      6     63.50    0.92     1.11   129.276 
+   5         12 hour             10%      7     63.50    0.92     1.11   199.253 
+   5         12 hour             10%      8     63.50    0.92     1.11   137.640 
+   5         12 hour             10%      9     63.50    0.92     1.11   136.803 
+   5         12 hour             10%     10     63.50    0.92     1.11   139.409 
+   6         12 hour              5%      1     73.90    0.91     1.42   179.473 
+   6         12 hour              5%      2     73.90    0.91     1.42   235.966 
+   6         12 hour              5%      3     73.90    0.91     1.42   254.557 
+   6         12 hour              5%      4     73.90    0.91     1.42   206.913 
+   6         12 hour              5%      5     73.90    0.91     1.42   211.499 
+   6         12 hour              5%      6     73.90    0.91     1.42   168.258 
+   6         12 hour              5%      7     73.90    0.91     1.42   248.651 
+   6         12 hour              5%      8     73.90    0.91     1.42   177.294 
+   6         12 hour              5%      9     73.90    0.91     1.42   175.083 
+   6         12 hour              5%     10     73.90    0.91     1.42   176.937 
+   7         12 hour              2%      1     89.40    0.91     4.71   236.542 
+   7         12 hour              2%      2     89.40    0.91     4.71   309.200 
+   7         12 hour              2%      3     89.40    0.91     4.71   337.807 
+   7         12 hour              2%      4     89.40    0.91     4.71   272.760 
+   7         12 hour              2%      5     89.40    0.91     4.71   288.988 
+   7         12 hour              2%      6     89.40    0.91     4.71   233.929 
+   7         12 hour              2%      7     89.40    0.91     4.71   323.824 
+   7         12 hour              2%      8     89.40    0.91     4.71   244.911 
+   7         12 hour              2%      9     89.40    0.91     4.71   233.174 
+   7         12 hour              2%     10     89.40    0.91     4.71   234.300 
+   8         12 hour              1%      1    102.00    0.90     7.10   281.677 
+   8         12 hour              1%      2    102.00    0.90     7.10   365.968 
+   8         12 hour              1%      3    102.00    0.90     7.10   404.793 
+   8         12 hour              1%      4    102.00    0.90     7.10   324.205 
+   8         12 hour              1%      5    102.00    0.90     7.10   352.539 
+   8         12 hour              1%      6    102.00    0.90     7.10   284.599 
+   8         12 hour              1%      7    102.00    0.90     7.10   385.609 
+   8         12 hour              1%      8    102.00    0.90     7.10   296.406 
+   8         12 hour              1%      9    102.00    0.90     7.10   278.569 
+   8         12 hour              1%     10    102.00    0.90     7.10   280.742 
+ Run,    Representative hydrograph
+  1     dur12hour_aep50tp5.out                                                                              
+ Run,    Representative hydrograph
+  2     dur12hour_aep0p5EYtp5.out                                                                           
+ Run,    Representative hydrograph
+  3     dur12hour_aep20tp5.out                                                                              
+ Run,    Representative hydrograph
+  4     dur12hour_aep0p2EYtp5.out                                                                           
+ Run,    Representative hydrograph
+  5     dur12hour_aep10tp5.out                                                                              
+ Run,    Representative hydrograph
+  6     dur12hour_aep5tp4.out                                                                               
+ Run,    Representative hydrograph
+  7     dur12hour_aep2tp4.out                                                                               
+ Run,    Representative hydrograph
+  8     dur12hour_aep1tp4.out                                                                               
+
+Elapsed Run Time (hh:mm:ss) = 00:00:01

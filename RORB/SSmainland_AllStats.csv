@@ -1,0 +1,785 @@
+Event ID,Region,Region (source),Burst Duration (min),Burst Loading,Original Burst Depth (mm),AEP Window,AEP (source) (%),Burst Start Date,Burst End Date,DB Event Reference No.,DB Pluviograph Reference No.,Offical Gauge,Lat,Long
+5792,Southern Slopes (mainland),Southern Slopes (mainland),10,1,18.86,frequent,14.4483,1/18/1972 15:00,1/18/1972 15:05,42958,557,qcd_068117,-34.59,150.6085
+5793,Southern Slopes (mainland),Southern Slopes (mainland),10,1,12.87,frequent,14.486,2/24/1977 15:35,2/24/1977 15:40,52099,666,qcd_086224,-37.9764,145.2247
+5794,Southern Slopes (mainland),Southern Slopes (mainland),10,1,16.2,frequent,14.4895,2/10/2007 20:30,2/10/2007 20:35,49609,636,qcd_084122,-37.4772,149.6386
+5796,Southern Slopes (mainland),Southern Slopes (mainland),10,2,11.4,frequent,20.1144,8/3/2008 15:40,8/3/2008 15:45,65168,1060,qcd_228228_151,-38.119,145.4017
+5797,Southern Slopes (mainland),Southern Slopes (mainland),10,2,10.6,frequent,23.8427,10/16/1995 15:10,10/16/1995 15:15,70140,1136,qcd_232210_74,-37.6432,144.0422
+5798,Southern Slopes (mainland),Southern Slopes (mainland),10,2,10.6,frequent,27.966,7/5/1977 10:10,7/5/1977 10:15,67470,1095,qcd_229621_151,-37.8315,145.0036
+5799,Southern Slopes (mainland),Southern Slopes (mainland),10,2,10.4,frequent,28.0963,6/30/2004 19:50,6/30/2004 19:55,65534,1067,qcd_228366_151,-37.8657,145.2426
+5800,Southern Slopes (mainland),Southern Slopes (mainland),10,2,9.2,frequent,32.4406,7/18/2002 13:40,7/18/2002 13:45,69757,1129,qcd_231104_151,-37.7651,144.7661
+5801,Southern Slopes (mainland),Southern Slopes (mainland),10,3,12.4,frequent,14.4447,11/4/1995 19:15,11/4/1995 19:20,69375,1123,qcd_230105_151,-37.7271,144.8361
+5802,Southern Slopes (mainland),Southern Slopes (mainland),10,3,12.28,frequent,14.4631,12/3/1985 19:30,12/3/1985 19:35,52168,667,qcd_086234,-37.7869,145.2847
+5779,Southern Slopes (mainland),Southern Slopes (mainland),10,1,14.12,intermediate,9.9858,2/18/1993 16:15,2/18/1993 16:20,52653,672,qcd_086351,-37.7163,145.0453
+5780,Southern Slopes (mainland),Southern Slopes (mainland),10,1,26.5,intermediate,6.9636,3/2/1997 21:10,3/2/1997 21:15,121287,1959,qcd_568186_233,-34.581,150.718
+5782,Southern Slopes (mainland),Southern Slopes (mainland),10,1,15.51,intermediate,10.4119,12/20/1991 16:35,12/20/1991 16:40,49937,640,qcd_085034,-37.9085,146.8046
+5784,Southern Slopes (mainland),Southern Slopes (mainland),10,2,15.8,intermediate,7.6856,12/31/2008 10:05,12/31/2008 10:10,63774,1024,qcd_224213_74,-37.4951,147.2687
+5785,Southern Slopes (mainland),Southern Slopes (mainland),10,2,12.8,intermediate,10.3065,10/30/2000 0:10,10/30/2000 0:15,65131,1059,qcd_228213_151,-38.1285,145.6858
+5786,Southern Slopes (mainland),Southern Slopes (mainland),10,3,23.5,intermediate,10.8673,2/23/2009 18:30,2/23/2009 18:35,120035,1937,qcd_568136_233,-34.4409,150.8974
+5787,Southern Slopes (mainland),Southern Slopes (mainland),10,3,13,intermediate,5.5665,2/11/1999 13:05,2/11/1999 13:10,55306,703,qcd_090135,-37.5908,141.4129
+5788,Southern Slopes (mainland),Southern Slopes (mainland),10,1,12.9,intermediate,11.867,4/27/1982 22:55,4/27/1982 23:00,52183,667,qcd_086234,-37.7869,145.2847
+5789,Southern Slopes (mainland),Southern Slopes (mainland),10,3,13.9,intermediate,9.7009,12/25/1966 20:05,12/25/1966 20:10,50328,646,qcd_085170,-38.2211,146.5233
+5790,Southern Slopes (mainland),Southern Slopes (mainland),10,3,30,intermediate,4.0949,8/17/1998 19:55,8/17/1998 20:00,121051,1953,qcd_568172_233,-34.3319,150.9134
+5769,Southern Slopes (mainland),Southern Slopes (mainland),10,1,21.55,rare,2.7299,1/24/2008 16:05,1/24/2008 16:10,63737,1022,qcd_224203_74,-37.7684,147.3713
+5770,Southern Slopes (mainland),Southern Slopes (mainland),10,1,21,rare,1.3249,1/13/1998 16:20,1/13/1998 16:25,131780,2073,qcd_586375_151,-38.1286,145.2671
+5771,Southern Slopes (mainland),Southern Slopes (mainland),10,1,26.16,rare,1.1974,2/21/2007 14:30,2/21/2007 14:35,63528,1017,qcd_222209_74,-37.0836,148.4133
+5772,Southern Slopes (mainland),Southern Slopes (mainland),10,2,47.5,rare,0.2857,9/19/2000 9:40,9/19/2000 9:45,135492,2170,qcd_darkesroad_58,-34.469,150.7947
+5773,Southern Slopes (mainland),Southern Slopes (mainland),10,2,21,rare,1.8755,4/12/2005 12:05,4/12/2005 12:10,51270,658,qcd_086071,-37.8075,144.97
+5774,Southern Slopes (mainland),Southern Slopes (mainland),10,2,20.8,rare,1.954,9/1/2004 13:20,9/1/2004 13:25,51269,658,qcd_086071,-37.8075,144.97
+5775,Southern Slopes (mainland),Southern Slopes (mainland),10,2,20.8,rare,2.3519,4/5/2005 15:40,4/5/2005 15:45,50029,641,qcd_085072,-38.1156,147.1322
+5776,Southern Slopes (mainland),Southern Slopes (mainland),10,2,30.81,rare,0.2102,2/11/1999 11:15,2/11/1999 11:20,63657,1021,qcd_224201c_102,-37.49,147.1664
+5777,Southern Slopes (mainland),Southern Slopes (mainland),10,3,20.06,rare,1.9622,1/23/1991 8:20,1/23/1991 8:25,58216,1131,qcd_231107_151,-37.8195,144.8256
+5778,Southern Slopes (mainland),Southern Slopes (mainland),10,3,22.5,rare,2.1244,1/15/2002 17:35,1/15/2002 17:40,122739,1980,qcd_570347_231,-35.1906,149.945
+5825,Southern Slopes (mainland),Southern Slopes (mainland),15,1,15.41,frequent,14.4785,12/14/1989 4:05,12/14/1989 4:15,68302,1107,qcd_229645_151,-37.7423,144.979
+5827,Southern Slopes (mainland),Southern Slopes (mainland),15,1,15,frequent,14.5541,2/4/2011 19:40,2/4/2011 19:50,54946,699,qcd_089111,-37.5174,143.7791
+5828,Southern Slopes (mainland),Southern Slopes (mainland),15,1,15.37,frequent,14.595,12/27/1993 18:00,12/27/1993 18:10,68304,1107,qcd_229645_151,-37.7423,144.979
+5829,Southern Slopes (mainland),Southern Slopes (mainland),15,2,19.27,frequent,14.4307,2/27/1995 21:20,2/27/1995 21:30,63257,1009,qcd_221209_74,-37.3554,149.207
+5830,Southern Slopes (mainland),Southern Slopes (mainland),15,2,14.93,frequent,14.452,12/30/2003 21:45,12/30/2003 21:55,131991,2078,qcd_587026_151,-37.233,144.7016
+5831,Southern Slopes (mainland),Southern Slopes (mainland),15,2,11.1,frequent,14.4531,3/2/1999 11:05,3/2/1999 11:15,70674,1153,qcd_234209_74,-38.3385,143.5582
+5832,Southern Slopes (mainland),Southern Slopes (mainland),15,2,21.4,frequent,14.5047,2/28/1977 23:05,2/28/1977 23:15,43149,559,qcd_068195,-34.6368,150.4026
+5833,Southern Slopes (mainland),Southern Slopes (mainland),15,2,17.75,frequent,14.5114,12/22/1992 19:55,12/22/1992 20:05,121749,1970,qcd_569005_231,-35.5536,149.8569
+5834,Southern Slopes (mainland),Southern Slopes (mainland),15,3,26.5,frequent,14.5758,1/4/1995 7:30,1/4/1995 7:40,120429,1942,qcd_568153_233,-34.3674,150.9098
+5836,Southern Slopes (mainland),Southern Slopes (mainland),15,3,15.4,frequent,14.6149,1/22/1999 20:50,1/22/1999 21:00,67056,1090,qcd_229615_151,-37.6863,145.1023
+5815,Southern Slopes (mainland),Southern Slopes (mainland),15,1,16.7,intermediate,9.6267,12/5/1992 14:05,12/5/1992 14:15,69761,1129,qcd_231104_151,-37.7651,144.7661
+5816,Southern Slopes (mainland),Southern Slopes (mainland),15,1,17.06,intermediate,5.6941,12/5/1963 19:05,12/5/1963 19:15,53551,682,qcd_087097,-37.7,144.3167
+5817,Southern Slopes (mainland),Southern Slopes (mainland),15,1,22.5,intermediate,10.9876,1/17/1982 15:10,1/17/1982 15:20,119154,1923,qcd_568082_231,-34.6189,150.38
+5818,Southern Slopes (mainland),Southern Slopes (mainland),15,2,27.61,intermediate,4.2326,2/4/1994 13:45,2/4/1994 13:55,43417,565,qcd_069127,-35.6864,149.8386
+5819,Southern Slopes (mainland),Southern Slopes (mainland),15,2,18.86,intermediate,3.4645,11/17/1993 17:20,11/17/1993 17:30,50516,648,qcd_085227,-38.5215,146.2041
+5820,Southern Slopes (mainland),Southern Slopes (mainland),15,2,22.57,intermediate,11.9051,1/21/1981 14:20,1/21/1981 14:30,43146,559,qcd_068195,-34.6368,150.4026
+5821,Southern Slopes (mainland),Southern Slopes (mainland),15,2,17.21,intermediate,8.5458,3/23/1985 17:50,3/23/1985 18:00,69590,1126,qcd_230108_151,-37.2543,144.6868
+5822,Southern Slopes (mainland),Southern Slopes (mainland),15,2,19.78,intermediate,3.9554,1/14/1998 15:40,1/14/1998 15:50,70246,1140,qcd_233215_74,-37.8107,143.9184
+5823,Southern Slopes (mainland),Southern Slopes (mainland),15,3,25.78,intermediate,7.6881,2/2/2004 14:05,2/2/2004 14:15,43470,566,qcd_069148,-35.9004,150.1437
+5824,Southern Slopes (mainland),Southern Slopes (mainland),15,3,19.25,intermediate,9.1622,3/21/1985 16:25,3/21/1985 16:35,121567,1965,qcd_569000_231,-35.4497,149.7217
+5803,Southern Slopes (mainland),Southern Slopes (mainland),15,1,30.84,rare,1.6994,2/13/2007 16:35,2/13/2007 16:45,64166,1032,qcd_225230_74,-37.9137,146.6561
+5804,Southern Slopes (mainland),Southern Slopes (mainland),15,1,27.55,rare,1.8767,11/25/1976 16:25,11/25/1976 16:35,51880,663,qcd_086142,-37.572,145.5014
+5805,Southern Slopes (mainland),Southern Slopes (mainland),15,1,16.83,rare,2.6589,10/23/2005 17:20,10/23/2005 17:30,70758,1155,qcd_234616_74,-38.2765,143.6199
+5806,Southern Slopes (mainland),Southern Slopes (mainland),15,2,25.27,rare,2.4672,2/28/1995 5:20,2/28/1995 5:30,50053,641,qcd_085072,-38.1156,147.1322
+5808,Southern Slopes (mainland),Southern Slopes (mainland),15,2,24.74,rare,0.4827,8/15/1995 11:35,8/15/1995 11:45,70442,1144,qcd_233224a_102,-38.3252,143.8334
+5810,Southern Slopes (mainland),Southern Slopes (mainland),15,2,47.83,rare,0.1775,3/21/1978 0:05,3/21/1978 0:15,42846,557,qcd_068117,-34.59,150.6085
+5811,Southern Slopes (mainland),Southern Slopes (mainland),15,2,38.71,rare,0.403,1/26/2001 16:50,1/26/2001 17:00,63578,1018,qcd_222219_74,-37.4991,148.2736
+5812,Southern Slopes (mainland),Southern Slopes (mainland),15,2,27.6,rare,2.1787,1/20/2010 19:40,1/20/2010 19:50,43531,567,qcd_070012,-34.8996,149.9709
+5813,Southern Slopes (mainland),Southern Slopes (mainland),15,3,24.39,rare,2.6,3/16/1982 17:00,3/16/1982 17:10,50390,647,qcd_085176,-37.8283,146.18
+5814,Southern Slopes (mainland),Southern Slopes (mainland),15,3,67,rare,0.007,7/12/2007 16:05,7/12/2007 16:15,52553,671,qcd_086314,-38.1992,145.4933
+5859,Southern Slopes (mainland),Southern Slopes (mainland),20,1,19.45,frequent,14.6072,1/29/2004 13:35,1/29/2004 13:50,63955,1030,qcd_225221_74,-37.7694,146.6677
+5860,Southern Slopes (mainland),Southern Slopes (mainland),20,1,18.87,frequent,15.1437,1/3/1992 13:45,1/3/1992 14:00,49298,630,qcd_084015,-37.3757,147.8373
+5861,Southern Slopes (mainland),Southern Slopes (mainland),20,1,25.8,frequent,15.8507,10/24/1999 10:15,10/24/1999 10:30,42997,557,qcd_068117,-34.59,150.6085
+5862,Southern Slopes (mainland),Southern Slopes (mainland),20,2,17.75,frequent,14.4497,2/11/1964 7:40,2/11/1964 7:55,51992,664,qcd_086147,-38.0333,145.1
+5865,Southern Slopes (mainland),Southern Slopes (mainland),20,2,30.5,frequent,14.5156,12/5/1989 8:20,12/5/1989 8:35,120416,1942,qcd_568153_233,-34.3674,150.9098
+5866,Southern Slopes (mainland),Southern Slopes (mainland),20,2,17.37,frequent,14.5169,12/27/1999 6:20,12/27/1999 6:35,66545,1084,qcd_229402_151,-37.7162,144.9523
+5867,Southern Slopes (mainland),Southern Slopes (mainland),20,2,17.63,frequent,14.5365,4/13/2003 15:40,4/13/2003 15:55,131151,2057,qcd_586176_151,-37.8264,145.1075
+5868,Southern Slopes (mainland),Southern Slopes (mainland),20,2,17.13,frequent,14.5445,3/26/2002 9:15,3/26/2002 9:30,69335,1123,qcd_230105_151,-37.7271,144.8361
+5869,Southern Slopes (mainland),Southern Slopes (mainland),20,3,23.48,frequent,15.2809,3/24/2008 15:05,3/24/2008 15:20,119832,1934,qcd_568132_231,-34.7761,150.3739
+5870,Southern Slopes (mainland),Southern Slopes (mainland),20,3,15.81,frequent,17.1267,12/14/1993 16:25,12/14/1993 16:40,131660,2069,qcd_586201_151,-37.997,145.492
+5848,Southern Slopes (mainland),Southern Slopes (mainland),20,1,31.6,intermediate,4.8383,1/27/1997 15:35,1/27/1997 15:50,63200,1007,qcd_221001_74,-37.1387,149.3173
+5849,Southern Slopes (mainland),Southern Slopes (mainland),20,1,24.49,intermediate,5.603,11/3/2007 17:35,11/3/2007 17:50,70183,1137,qcd_232223a_32,-37.5077,144.0122
+5850,Southern Slopes (mainland),Southern Slopes (mainland),20,1,21.46,intermediate,7.1013,12/14/1989 2:40,12/14/1989 2:55,67519,1095,qcd_229621_151,-37.8315,145.0036
+5851,Southern Slopes (mainland),Southern Slopes (mainland),20,2,16.32,intermediate,11.6962,5/14/1974 20:55,5/14/1974 21:10,54970,700,qcd_090058,-38.0853,142.79
+5852,Southern Slopes (mainland),Southern Slopes (mainland),20,2,24.8,intermediate,4.4588,11/16/2000 11:30,11/16/2000 11:45,51062,655,qcd_085278,-37.7196,146.3888
+5853,Southern Slopes (mainland),Southern Slopes (mainland),20,2,33.5,intermediate,13.9515,11/27/1985 16:00,11/27/1985 16:15,140935,2280,qcd_yellowrockr_58,-34.6142,150.74
+5855,Southern Slopes (mainland),Southern Slopes (mainland),20,2,22.51,intermediate,7.2464,8/15/1980 14:50,8/15/1980 15:05,50397,647,qcd_085176,-37.8283,146.18
+5856,Southern Slopes (mainland),Southern Slopes (mainland),20,2,33.5,intermediate,4.66,12/21/1992 15:35,12/21/1992 15:50,118960,1922,qcd_568081_231,-34.6056,150.5261
+5857,Southern Slopes (mainland),Southern Slopes (mainland),20,3,23,intermediate,5.1245,12/22/2006 20:30,12/22/2006 20:45,132349,2084,qcd_587126_151,-37.3779,144.5967
+5858,Southern Slopes (mainland),Southern Slopes (mainland),20,3,19.81,intermediate,12.8096,12/2/1990 17:05,12/2/1990 17:20,51895,663,qcd_086142,-37.572,145.5014
+5837,Southern Slopes (mainland),Southern Slopes (mainland),20,1,36.4,rare,2.0844,12/6/2004 14:50,12/6/2004 15:05,63101,1006,qcd_219033_77,-36.5703,149.4554
+5838,Southern Slopes (mainland),Southern Slopes (mainland),20,1,25.4,rare,2.501,1/25/2001 17:40,1/25/2001 17:55,54888,698,qcd_089085,-37.2772,142.9808
+5839,Southern Slopes (mainland),Southern Slopes (mainland),20,1,34,rare,2.435,12/27/2002 15:15,12/27/2002 15:30,43272,562,qcd_069049,-35.1165,150.0847
+5840,Southern Slopes (mainland),Southern Slopes (mainland),20,2,30.27,rare,2.3912,12/11/2004 16:50,12/11/2004 17:05,70186,1137,qcd_232223a_32,-37.5077,144.0122
+5841,Southern Slopes (mainland),Southern Slopes (mainland),20,2,33.2,rare,1.0524,1/1/2007 18:40,1/1/2007 18:55,52727,673,qcd_087017,-37.4701,144.3069
+5842,Southern Slopes (mainland),Southern Slopes (mainland),20,2,27.4,rare,2.09,4/7/1977 16:10,4/7/1977 16:25,52943,675,qcd_087031,-37.8565,144.7566
+5844,Southern Slopes (mainland),Southern Slopes (mainland),20,2,35.93,rare,0.7085,1/25/1998 2:05,1/25/1998 2:20,68218,1106,qcd_229643_151,-37.7814,144.9386
+5845,Southern Slopes (mainland),Southern Slopes (mainland),20,2,31.5,rare,1.1489,1/24/1998 13:05,1/24/1998 13:20,121572,1965,qcd_569000_231,-35.4497,149.7217
+5846,Southern Slopes (mainland),Southern Slopes (mainland),20,3,151.42,rare,0,2/1/1993 19:25,2/1/1993 19:40,63255,1009,qcd_221209_74,-37.3554,149.207
+5847,Southern Slopes (mainland),Southern Slopes (mainland),20,3,28.17,rare,1.2454,1/3/1987 5:45,1/3/1987 6:00,53627,683,qcd_087104,-37.9767,144.6317
+5892,Southern Slopes (mainland),Southern Slopes (mainland),25,1,16.77,frequent,14.4318,3/15/1966 14:20,3/15/1966 14:40,53663,684,qcd_087105,-37.95,144.6167
+5894,Southern Slopes (mainland),Southern Slopes (mainland),25,1,17.37,frequent,14.7454,4/14/1985 17:40,4/14/1985 18:00,55175,702,qcd_090087,-38.6636,143.4495
+5895,Southern Slopes (mainland),Southern Slopes (mainland),25,1,34,frequent,14.7462,4/4/2004 1:00,4/4/2004 1:20,120865,1950,qcd_568169_233,-34.4763,150.9065
+5896,Southern Slopes (mainland),Southern Slopes (mainland),25,2,20.51,frequent,14.4361,2/1/1993 16:35,2/1/1993 16:55,68812,1116,qcd_229804_74,-37.6277,145.8021
+5897,Southern Slopes (mainland),Southern Slopes (mainland),25,2,21.72,frequent,14.4427,4/22/2001 13:45,4/22/2001 14:05,64230,1034,qcd_225231a_102,-37.975,146.625
+5898,Southern Slopes (mainland),Southern Slopes (mainland),25,2,22.06,frequent,14.4582,2/7/2008 16:00,2/7/2008 16:20,122454,1976,qcd_570343_231,-35.0028,149.8222
+5899,Southern Slopes (mainland),Southern Slopes (mainland),25,2,16.33,frequent,14.4642,1/29/2006 20:55,1/29/2006 21:15,64712,1044,qcd_226209_74,-38.2057,146.0021
+5900,Southern Slopes (mainland),Southern Slopes (mainland),25,2,19.6,frequent,14.4944,4/11/1996 7:10,4/11/1996 7:30,68434,1109,qcd_229660_151,-37.8928,145.002
+5901,Southern Slopes (mainland),Southern Slopes (mainland),25,3,15,frequent,14.9313,1/25/2001 16:20,1/25/2001 16:40,55307,703,qcd_090135,-37.5908,141.4129
+5902,Southern Slopes (mainland),Southern Slopes (mainland),25,3,20.97,frequent,15.5197,1/2/1999 13:25,1/2/1999 13:45,63731,1022,qcd_224203_74,-37.7684,147.3713
+5878,Southern Slopes (mainland),Southern Slopes (mainland),25,1,26.4,intermediate,5.4972,12/31/2009 21:15,12/31/2009 21:35,51888,663,qcd_086142,-37.572,145.5014
+5879,Southern Slopes (mainland),Southern Slopes (mainland),25,1,21.86,intermediate,11.2213,1/27/2006 13:40,1/27/2006 14:00,70182,1137,qcd_232223a_32,-37.5077,144.0122
+5880,Southern Slopes (mainland),Southern Slopes (mainland),25,1,21.75,intermediate,13.5596,11/22/2000 18:15,11/22/2000 18:35,122530,1977,qcd_570344_231,-35.6917,149.6331
+5881,Southern Slopes (mainland),Southern Slopes (mainland),25,2,25.74,intermediate,4.9262,11/20/2003 13:15,11/20/2003 13:35,65219,1061,qcd_228231a_151,-38.0205,145.2563
+5883,Southern Slopes (mainland),Southern Slopes (mainland),25,2,32.75,intermediate,5.4285,2/15/1994 17:45,2/15/1994 18:05,119156,1923,qcd_568082_231,-34.6189,150.38
+5885,Southern Slopes (mainland),Southern Slopes (mainland),25,2,37,intermediate,10.7581,10/31/2002 8:45,10/31/2002 9:05,138595,2236,qcd_portkembla_58,-34.48,150.8937
+5886,Southern Slopes (mainland),Southern Slopes (mainland),25,2,16.18,intermediate,11.4682,11/27/1977 14:25,11/27/1977 14:45,55331,703,qcd_090135,-37.5908,141.4129
+5888,Southern Slopes (mainland),Southern Slopes (mainland),25,2,20.34,intermediate,13.2576,1/28/1999 23:20,1/28/1999 23:40,131348,2061,qcd_586184_151,-37.9618,145.0354
+5889,Southern Slopes (mainland),Southern Slopes (mainland),25,3,22,intermediate,9.9572,3/11/1968 17:50,3/11/1968 18:10,50610,649,qcd_085236,-38.3181,146.5645
+5890,Southern Slopes (mainland),Southern Slopes (mainland),25,3,36.2,intermediate,3.7327,12/7/2004 8:10,12/7/2004 8:30,63011,1003,qcd_218008_77,-36.1289,150.0032
+5781,Southern Slopes (mainland),Southern Slopes (mainland),25,2,57,rare,1.7959,3/2/1997 21:05,3/2/1997 21:25,121287,1959,qcd_568186_233,-34.581,150.718
+5807,Southern Slopes (mainland),Southern Slopes (mainland),25,1,33.04,rare,1.9671,2/28/1995 5:20,2/28/1995 5:40,50053,641,qcd_085072,-38.1156,147.1322
+5809,Southern Slopes (mainland),Southern Slopes (mainland),25,2,39.13,rare,0.1089,8/15/1995 11:25,8/15/1995 11:45,70442,1144,qcd_233224a_102,-38.3252,143.8334
+5871,Southern Slopes (mainland),Southern Slopes (mainland),25,1,28.4,rare,2.1318,12/3/2007 11:40,12/3/2007 12:00,51648,660,qcd_086085,-37.9897,145.3356
+5872,Southern Slopes (mainland),Southern Slopes (mainland),25,1,29.8,rare,2.2078,2/8/2001 22:20,2/8/2001 22:40,65187,1060,qcd_228228_151,-38.119,145.4017
+5873,Southern Slopes (mainland),Southern Slopes (mainland),25,2,34.65,rare,1.3972,12/10/2004 13:35,12/10/2004 13:55,64952,1054,qcd_226819_74,-38.3182,146.566
+5874,Southern Slopes (mainland),Southern Slopes (mainland),25,2,41.6,rare,0.5064,1/29/2006 19:10,1/29/2006 19:30,51887,663,qcd_086142,-37.572,145.5014
+5875,Southern Slopes (mainland),Southern Slopes (mainland),25,2,34.7,rare,2.454,12/12/2004 14:30,12/12/2004 14:50,63589,1018,qcd_222219_74,-37.4991,148.2736
+5876,Southern Slopes (mainland),Southern Slopes (mainland),25,3,120.91,rare,1.00E-04,4/29/1982 11:15,4/29/1982 11:35,65246,1062,qcd_228352_151,-37.9278,145.2301
+5877,Southern Slopes (mainland),Southern Slopes (mainland),25,3,37.81,rare,2.9226,12/25/1988 15:10,12/25/1988 15:30,49716,637,qcd_084123,-37.3475,149.4806
+5921,Southern Slopes (mainland),Southern Slopes (mainland),30,1,21.06,frequent,14.5412,2/20/1984 19:55,2/20/1984 20:20,66056,1077,qcd_228603_151,-37.9347,145.1135
+5922,Southern Slopes (mainland),Southern Slopes (mainland),30,1,19.8,frequent,14.6837,12/21/2007 19:35,12/21/2007 20:00,66425,1083,qcd_229270_151,-37.695,145.3195
+5923,Southern Slopes (mainland),Southern Slopes (mainland),30,1,18.8,frequent,15.8768,11/10/1997 19:45,11/10/1997 20:10,53475,681,qcd_087075,-37.4964,144.5028
+5924,Southern Slopes (mainland),Southern Slopes (mainland),30,2,19.52,frequent,14.4213,6/27/2007 12:30,6/27/2007 12:55,64457,1038,qcd_225809_74,-37.4961,146.8576
+5931,Southern Slopes (mainland),Southern Slopes (mainland),30,2,20.6,frequent,14.4223,1/2/1984 6:50,1/2/1984 7:15,68104,1104,qcd_229638_151,-37.8464,145.1384
+5932,Southern Slopes (mainland),Southern Slopes (mainland),30,2,26.6,frequent,14.4373,10/22/2005 13:10,10/22/2005 13:35,49638,636,qcd_084122,-37.4772,149.6386
+5933,Southern Slopes (mainland),Southern Slopes (mainland),30,2,19.69,frequent,14.4478,3/18/1975 15:50,3/18/1975 16:15,54455,693,qcd_089002,-37.5127,143.7911
+5934,Southern Slopes (mainland),Southern Slopes (mainland),30,2,16.02,frequent,14.5282,4/19/1989 13:40,4/19/1989 14:05,55354,704,qcd_090153,-38.255,143.1256
+5935,Southern Slopes (mainland),Southern Slopes (mainland),30,3,19.39,frequent,14.6747,4/1/1985 19:10,4/1/1985 19:35,132193,2082,qcd_587117_151,-37.3636,144.7677
+5936,Southern Slopes (mainland),Southern Slopes (mainland),30,3,30.66,frequent,15.0401,3/21/1983 17:30,3/21/1983 17:55,43000,557,qcd_068117,-34.59,150.6085
+5783,Southern Slopes (mainland),Southern Slopes (mainland),30,2,30.83,intermediate,5.2887,12/20/1991 16:20,12/20/1991 16:45,49937,640,qcd_085034,-37.9085,146.8046
+5835,Southern Slopes (mainland),Southern Slopes (mainland),30,3,39.5,intermediate,10.7428,1/4/1995 7:20,1/4/1995 7:45,120429,1942,qcd_568153_233,-34.3674,150.9098
+5854,Southern Slopes (mainland),Southern Slopes (mainland),30,2,40,intermediate,13.7341,11/27/1985 15:55,11/27/1985 16:20,140935,2280,qcd_yellowrockr_58,-34.6142,150.74
+5882,Southern Slopes (mainland),Southern Slopes (mainland),30,1,28.9,intermediate,3.9863,11/20/2003 13:20,11/20/2003 13:45,65219,1061,qcd_228231a_151,-38.0205,145.2563
+5893,Southern Slopes (mainland),Southern Slopes (mainland),30,2,19.6,intermediate,10.7233,3/15/1966 14:20,3/15/1966 14:45,53663,684,qcd_087105,-37.95,144.6167
+5915,Southern Slopes (mainland),Southern Slopes (mainland),30,1,26.5,intermediate,12.4414,2/7/1989 17:05,2/7/1989 17:30,121662,1966,qcd_569001_231,-35.2789,150.0314
+5916,Southern Slopes (mainland),Southern Slopes (mainland),30,1,20.59,intermediate,12.0718,3/22/1970 14:45,3/22/1970 15:10,52354,669,qcd_086251,-37.9144,145.3317
+5917,Southern Slopes (mainland),Southern Slopes (mainland),30,2,24.63,intermediate,7.8989,1/24/1993 16:10,1/24/1993 16:35,131357,2061,qcd_586184_151,-37.9618,145.0354
+5918,Southern Slopes (mainland),Southern Slopes (mainland),30,2,26.88,intermediate,4.9028,2/25/2006 14:45,2/25/2006 15:10,68116,1104,qcd_229638_151,-37.8464,145.1384
+5919,Southern Slopes (mainland),Southern Slopes (mainland),30,3,48.5,intermediate,4.7216,3/10/1975 19:40,3/10/1975 20:05,43093,558,qcd_068131,-34.4674,150.8813
+5795,Southern Slopes (mainland),Southern Slopes (mainland),30,2,41.8,rare,2.3314,2/10/2007 20:20,2/10/2007 20:45,49609,636,qcd_084122,-37.4772,149.6386
+5903,Southern Slopes (mainland),Southern Slopes (mainland),30,1,34,rare,0.8383,11/18/1993 15:05,11/18/1993 15:30,68696,1114,qcd_229690_151,-37.7958,145.3759
+5904,Southern Slopes (mainland),Southern Slopes (mainland),30,1,50.2,rare,0.6174,2/4/2001 16:55,2/4/2001 17:20,43277,562,qcd_069049,-35.1165,150.0847
+5905,Southern Slopes (mainland),Southern Slopes (mainland),30,1,25.8,rare,2.8292,2/12/1999 16:00,2/12/1999 16:25,46139,597,qcd_079052,-37.23,141.9609
+5906,Southern Slopes (mainland),Southern Slopes (mainland),30,2,26.1,rare,2.938,4/19/1980 13:05,4/19/1980 13:30,55170,702,qcd_090087,-38.6636,143.4495
+5907,Southern Slopes (mainland),Southern Slopes (mainland),30,2,42.17,rare,1.0331,2/23/1999 15:20,2/23/1999 15:45,63732,1022,qcd_224203_74,-37.7684,147.3713
+5908,Southern Slopes (mainland),Southern Slopes (mainland),30,2,47.8,rare,0.4088,12/27/1999 16:05,12/27/1999 16:30,66817,1087,qcd_229612_151,-37.6959,145.0469
+5910,Southern Slopes (mainland),Southern Slopes (mainland),30,2,56.36,rare,0.1729,2/5/1994 15:00,2/5/1994 15:25,63584,1018,qcd_222219_74,-37.4991,148.2736
+5911,Southern Slopes (mainland),Southern Slopes (mainland),30,3,43.5,rare,1.6942,3/2/1999 21:55,3/2/1999 22:20,63368,1011,qcd_222004_77,-36.9954,149.0937
+5913,Southern Slopes (mainland),Southern Slopes (mainland),30,3,63,rare,1.4743,10/24/1999 9:35,10/24/1999 10:00,135500,2170,qcd_darkesroad_58,-34.469,150.7947
+5956,Southern Slopes (mainland),Southern Slopes (mainland),45,1,25.08,frequent,14.6144,11/1/1969 18:30,11/1/1969 19:10,49830,639,qcd_085026,-37.9743,146.3735
+5957,Southern Slopes (mainland),Southern Slopes (mainland),45,1,17.47,frequent,14.6916,12/10/2004 19:00,12/10/2004 19:40,70835,1157,qcd_235237_74,-38.448,142.9889
+5958,Southern Slopes (mainland),Southern Slopes (mainland),45,1,24.38,frequent,14.7332,10/15/1992 15:25,10/15/1992 16:05,63672,1021,qcd_224201c_102,-37.49,147.1664
+5959,Southern Slopes (mainland),Southern Slopes (mainland),45,2,31.58,frequent,14.4792,2/4/2001 20:55,2/4/2001 21:35,63201,1007,qcd_221001_74,-37.1387,149.3173
+5960,Southern Slopes (mainland),Southern Slopes (mainland),45,2,24.48,frequent,14.5437,4/3/2009 16:50,4/3/2009 17:30,63681,1021,qcd_224201c_102,-37.49,147.1664
+5961,Southern Slopes (mainland),Southern Slopes (mainland),45,2,43,frequent,14.6446,2/26/2006 19:50,2/26/2006 20:30,121354,1960,qcd_568187_233,-34.6407,150.7662
+5962,Southern Slopes (mainland),Southern Slopes (mainland),45,2,22.47,frequent,14.6609,11/8/1987 14:10,11/8/1987 14:50,69778,1129,qcd_231104_151,-37.7651,144.7661
+5963,Southern Slopes (mainland),Southern Slopes (mainland),45,2,41.5,frequent,14.9476,4/5/2004 5:50,4/5/2004 6:30,121083,1954,qcd_568173_233,-34.483,150.8473
+5964,Southern Slopes (mainland),Southern Slopes (mainland),45,3,22.67,frequent,14.7012,11/12/2006 20:30,11/12/2006 21:10,66349,1082,qcd_229249_151,-37.7823,145.3065
+5965,Southern Slopes (mainland),Southern Slopes (mainland),45,3,26,frequent,14.9969,12/3/2010 18:10,12/3/2010 18:50,49431,633,qcd_084078,-37.7513,147.7301
+5937,Southern Slopes (mainland),Southern Slopes (mainland),45,3,36.75,intermediate,14.1381,3/21/1983 17:20,3/21/1983 18:00,43000,557,qcd_068117,-34.59,150.6085
+5947,Southern Slopes (mainland),Southern Slopes (mainland),45,1,28,intermediate,7.8721,12/27/1993 16:35,12/27/1993 17:15,51450,658,qcd_086071,-37.8075,144.97
+5948,Southern Slopes (mainland),Southern Slopes (mainland),45,1,21.7,intermediate,12.9416,11/12/2006 20:10,11/12/2006 20:50,69868,1130,qcd_231106_151,-37.6395,144.6563
+5949,Southern Slopes (mainland),Southern Slopes (mainland),45,1,52.5,intermediate,6.8156,4/11/2003 9:40,4/11/2003 10:20,120433,1942,qcd_568153_233,-34.3674,150.9098
+5950,Southern Slopes (mainland),Southern Slopes (mainland),45,2,27.6,intermediate,4.7097,4/14/2000 3:00,4/14/2000 3:40,54671,695,qcd_089019,-37.4043,142.3843
+5951,Southern Slopes (mainland),Southern Slopes (mainland),45,2,30.21,intermediate,5.3141,1/12/1998 14:00,1/12/1998 14:40,64021,1029,qcd_225219_74,-37.5162,146.5665
+5952,Southern Slopes (mainland),Southern Slopes (mainland),45,2,33.49,intermediate,3.4049,1/23/1991 7:55,1/23/1991 8:35,68284,1129,qcd_231104_151,-37.7651,144.7661
+5953,Southern Slopes (mainland),Southern Slopes (mainland),45,2,20,intermediate,11.2288,2/14/2010 22:45,2/14/2010 23:25,55405,704,qcd_090153,-38.255,143.1256
+5954,Southern Slopes (mainland),Southern Slopes (mainland),45,2,22.49,intermediate,5.6734,2/12/1999 7:35,2/12/1999 8:15,70552,1147,qcd_233251_74,-38.1383,143.885
+5955,Southern Slopes (mainland),Southern Slopes (mainland),45,3,24.2,intermediate,11.8597,5/26/2008 21:45,5/26/2008 22:25,70607,1149,qcd_233802_74,-38.6242,143.7311
+5884,Southern Slopes (mainland),Southern Slopes (mainland),45,2,47.25,rare,2.4537,2/15/1994 17:35,2/15/1994 18:15,119156,1923,qcd_568082_231,-34.6189,150.38
+5912,Southern Slopes (mainland),Southern Slopes (mainland),45,2,54,rare,1.0256,3/2/1999 21:50,3/2/1999 22:30,63368,1011,qcd_222004_77,-36.9954,149.0937
+5938,Southern Slopes (mainland),Southern Slopes (mainland),45,1,41.5,rare,1.3432,12/31/1991 16:50,12/31/1991 17:30,69328,1123,qcd_230105_151,-37.7271,144.8361
+5939,Southern Slopes (mainland),Southern Slopes (mainland),45,1,50.32,rare,0.2901,1/12/1998 14:55,1/12/1998 15:35,64530,1040,qcd_225811a_151,-37.7552,146.1611
+5941,Southern Slopes (mainland),Southern Slopes (mainland),45,1,53.09,rare,3.1706,4/9/1978 9:05,4/9/1978 9:45,42883,555,qcd_068076,-34.9449,150.545
+5942,Southern Slopes (mainland),Southern Slopes (mainland),45,2,68.2,rare,0.6939,3/9/2000 13:40,3/9/2000 14:20,43381,564,qcd_069066,-36.9296,149.646
+5943,Southern Slopes (mainland),Southern Slopes (mainland),45,2,63.69,rare,0.0982,1/1/1988 6:50,1/1/1988 7:30,67212,1092,qcd_229617_151,-37.5172,145.1363
+5944,Southern Slopes (mainland),Southern Slopes (mainland),45,2,36.6,rare,2.5209,1/25/1998 1:30,1/25/1998 2:10,130898,2053,qcd_586100_151,-37.8223,144.9486
+5945,Southern Slopes (mainland),Southern Slopes (mainland),45,3,48.27,rare,0.7323,2/25/2006 14:40,2/25/2006 15:20,66220,1080,qcd_229149_151,-37.7781,144.9901
+5946,Southern Slopes (mainland),Southern Slopes (mainland),45,3,35.8,rare,2.4841,11/3/2007 16:15,11/3/2007 16:55,54944,699,qcd_089111,-37.5174,143.7791
+5982,Southern Slopes (mainland),Southern Slopes (mainland),60,1,24.2,frequent,14.9262,11/22/2009 7:45,11/22/2009 8:40,54952,699,qcd_089111,-37.5174,143.7791
+5983,Southern Slopes (mainland),Southern Slopes (mainland),60,1,24.65,frequent,15.2492,2/1/1993 12:55,2/1/1993 13:50,52351,669,qcd_086251,-37.9144,145.3317
+5984,Southern Slopes (mainland),Southern Slopes (mainland),60,1,24.38,frequent,15.3971,11/3/1996 11:55,11/3/1996 12:50,65672,1069,qcd_228369_151,-37.8258,145.331
+5985,Southern Slopes (mainland),Southern Slopes (mainland),60,2,35,frequent,14.4913,2/5/2010 13:50,2/5/2010 14:45,43437,565,qcd_069127,-35.6864,149.8386
+5986,Southern Slopes (mainland),Southern Slopes (mainland),60,2,25.82,frequent,14.4973,12/22/2000 15:20,12/22/2000 16:15,130157,2040,qcd_586010_151,-37.7837,145.1107
+5987,Southern Slopes (mainland),Southern Slopes (mainland),60,2,26.97,frequent,14.5614,2/13/2007 13:20,2/13/2007 14:15,63769,1023,qcd_224206_74,-37.4093,147.087
+5988,Southern Slopes (mainland),Southern Slopes (mainland),60,2,23.95,frequent,14.7097,12/13/2008 4:20,12/13/2008 5:15,64790,1046,qcd_226218_74,-38.2719,146.1865
+5990,Southern Slopes (mainland),Southern Slopes (mainland),60,2,23.83,frequent,14.7405,12/1/1987 18:25,12/1/1987 19:20,53518,681,qcd_087075,-37.4964,144.5028
+5992,Southern Slopes (mainland),Southern Slopes (mainland),60,3,22.6,frequent,15.1086,1/23/1991 6:35,1/23/1991 7:30,69872,1130,qcd_231106_151,-37.6395,144.6563
+5993,Southern Slopes (mainland),Southern Slopes (mainland),60,3,24.8,frequent,15.4624,1/5/1995 17:25,1/5/1995 18:20,69345,1123,qcd_230105_151,-37.7271,144.8361
+5920,Southern Slopes (mainland),Southern Slopes (mainland),60,2,62.58,intermediate,4.5913,3/10/1975 23:10,3/11/1975 0:05,43093,558,qcd_068131,-34.4674,150.8813
+5972,Southern Slopes (mainland),Southern Slopes (mainland),60,1,24.83,intermediate,12.2189,1/14/1977 15:35,1/14/1977 16:30,69264,1122,qcd_230104_151,-37.5833,144.7423
+5974,Southern Slopes (mainland),Southern Slopes (mainland),60,1,35.94,intermediate,3.2775,12/3/2003 1:40,12/3/2003 2:35,130512,2046,qcd_586037_151,-37.7777,145.1609
+5975,Southern Slopes (mainland),Southern Slopes (mainland),60,1,26.23,intermediate,12.3413,1/25/1998 6:40,1/25/1998 7:35,66624,1085,qcd_229603_151,-37.6458,144.9729
+5976,Southern Slopes (mainland),Southern Slopes (mainland),60,2,34.5,intermediate,6.8661,12/18/2000 15:55,12/18/2000 16:50,122204,1976,qcd_570343_231,-35.0028,149.8222
+5977,Southern Slopes (mainland),Southern Slopes (mainland),60,2,23.92,intermediate,8.612,2/14/1966 1:55,2/14/1966 2:50,53574,682,qcd_087097,-37.7,144.3167
+5978,Southern Slopes (mainland),Southern Slopes (mainland),60,2,36.8,intermediate,5.4339,12/11/2006 16:50,12/11/2006 17:45,43530,567,qcd_070012,-34.8996,149.9709
+5979,Southern Slopes (mainland),Southern Slopes (mainland),60,2,33.51,intermediate,5.3745,12/25/1933 16:35,12/25/1933 17:30,51329,658,qcd_086071,-37.8075,144.97
+5980,Southern Slopes (mainland),Southern Slopes (mainland),60,3,26.67,intermediate,9.8739,3/21/1989 0:15,3/21/1989 1:10,69074,1120,qcd_230101_151,-37.4991,144.7635
+5981,Southern Slopes (mainland),Southern Slopes (mainland),60,3,27.4,intermediate,10.7124,2/20/2002 16:05,2/20/2002 17:00,67317,1093,qcd_229619_151,-37.6376,145.1913
+5891,Southern Slopes (mainland),Southern Slopes (mainland),60,3,58,rare,1.9756,12/7/2004 7:45,12/7/2004 8:40,63011,1003,qcd_218008_77,-36.1289,150.0032
+5909,Southern Slopes (mainland),Southern Slopes (mainland),60,1,68.39,rare,0.1764,12/27/1999 16:05,12/27/1999 17:00,66817,1087,qcd_229612_151,-37.6959,145.0469
+5914,Southern Slopes (mainland),Southern Slopes (mainland),60,2,100,rare,0.3184,10/24/1999 9:20,10/24/1999 10:15,135500,2170,qcd_darkesroad_58,-34.469,150.7947
+5940,Southern Slopes (mainland),Southern Slopes (mainland),60,2,62.82,rare,0.1239,1/12/1998 14:55,1/12/1998 15:50,64530,1040,qcd_225811a_151,-37.7552,146.1611
+5966,Southern Slopes (mainland),Southern Slopes (mainland),60,1,68.99,rare,0.1177,12/28/1980 17:50,12/28/1980 18:45,50398,647,qcd_085176,-37.8283,146.18
+5967,Southern Slopes (mainland),Southern Slopes (mainland),60,1,34.4,rare,1.8362,3/2/1999 11:15,3/2/1999 12:10,55311,703,qcd_090135,-37.5908,141.4129
+5968,Southern Slopes (mainland),Southern Slopes (mainland),60,2,59.29,rare,0.1845,2/14/2007 16:55,2/14/2007 17:50,64532,1040,qcd_225811a_151,-37.7552,146.1611
+5969,Southern Slopes (mainland),Southern Slopes (mainland),60,2,67.5,rare,0.882,5/8/2002 10:00,5/8/2002 10:55,63039,1004,qcd_219025_77,-36.6185,149.8817
+5970,Southern Slopes (mainland),Southern Slopes (mainland),60,2,88.23,rare,0.8321,10/16/1972 17:35,10/16/1972 18:30,43058,558,qcd_068131,-34.4674,150.8813
+5971,Southern Slopes (mainland),Southern Slopes (mainland),60,3,41.5,rare,3.1804,1/28/1999 17:45,1/28/1999 18:40,122874,1981,qcd_570348_231,-35.0147,149.9764
+6018,Southern Slopes (mainland),Southern Slopes (mainland),90,1,29.51,frequent,14.4232,4/5/1989 19:30,4/5/1989 20:55,67815,1099,qcd_229632_151,-37.835,145.1681
+6019,Southern Slopes (mainland),Southern Slopes (mainland),90,1,29.5,frequent,14.4305,9/9/2005 23:55,9/10/2005 1:20,70187,1137,qcd_232223a_32,-37.5077,144.0122
+6020,Southern Slopes (mainland),Southern Slopes (mainland),90,1,28.77,frequent,14.8228,1/26/2001 14:50,1/26/2001 16:15,64419,1037,qcd_225802_74,-37.4651,146.6896
+6021,Southern Slopes (mainland),Southern Slopes (mainland),90,2,30.2,frequent,14.5419,10/27/2004 3:30,10/27/2004 4:55,55209,702,qcd_090087,-38.6636,143.4495
+6022,Southern Slopes (mainland),Southern Slopes (mainland),90,2,28.99,frequent,14.5977,1/23/1991 6:35,1/23/1991 8:00,131308,2060,qcd_586182_151,-37.724,144.9044
+6023,Southern Slopes (mainland),Southern Slopes (mainland),90,2,42.86,frequent,14.7491,4/30/1988 4:25,4/30/1988 5:50,43155,559,qcd_068195,-34.6368,150.4026
+6024,Southern Slopes (mainland),Southern Slopes (mainland),90,2,30.47,frequent,14.7972,4/20/1984 20:05,4/20/1984 21:30,50092,641,qcd_085072,-38.1156,147.1322
+6025,Southern Slopes (mainland),Southern Slopes (mainland),90,2,32.75,frequent,15.1731,1/24/1999 11:20,1/24/1999 12:45,121590,1965,qcd_569000_231,-35.4497,149.7217
+6026,Southern Slopes (mainland),Southern Slopes (mainland),90,3,28.48,frequent,14.9047,3/21/1989 0:40,3/21/1989 2:05,130644,2048,qcd_586065_151,-37.796,145.254
+6027,Southern Slopes (mainland),Southern Slopes (mainland),90,3,24.17,frequent,14.9874,12/22/1992 6:45,12/22/1992 8:10,54761,696,qcd_089025,-37.6854,143.3654
+6005,Southern Slopes (mainland),Southern Slopes (mainland),90,1,37.6,intermediate,7.5097,1/26/2001 13:55,1/26/2001 15:20,51077,655,qcd_085278,-37.7196,146.3888
+6006,Southern Slopes (mainland),Southern Slopes (mainland),90,1,52.23,intermediate,4.7962,12/4/1960 7:20,12/4/1960 8:45,43233,561,qcd_069000,-35.65,149.8167
+6007,Southern Slopes (mainland),Southern Slopes (mainland),90,1,28.52,intermediate,5.6948,3/1/1972 14:25,3/1/1972 15:50,53769,686,qcd_087133,-38.1164,144.3667
+6008,Southern Slopes (mainland),Southern Slopes (mainland),90,2,39.55,intermediate,5.4968,1/27/1995 16:20,1/27/1995 17:45,49794,638,qcd_084125,-37.3811,147.1067
+6009,Southern Slopes (mainland),Southern Slopes (mainland),90,2,65.08,intermediate,4.3838,2/6/1971 1:45,2/6/1971 3:10,42894,555,qcd_068076,-34.9449,150.545
+6011,Southern Slopes (mainland),Southern Slopes (mainland),90,2,50.09,intermediate,3.6655,11/4/2007 5:50,11/4/2007 7:15,64243,1034,qcd_225231a_102,-37.975,146.625
+6012,Southern Slopes (mainland),Southern Slopes (mainland),90,2,32.6,intermediate,8.6689,11/10/1997 18:30,11/10/1997 19:55,52729,673,qcd_087017,-37.4701,144.3069
+6013,Southern Slopes (mainland),Southern Slopes (mainland),90,2,35.21,intermediate,4.409,4/23/1980 0:15,4/23/1980 1:40,54672,695,qcd_089019,-37.4043,142.3843
+6014,Southern Slopes (mainland),Southern Slopes (mainland),90,3,32.9,intermediate,8.1884,10/2/1977 12:35,10/2/1977 14:00,54573,694,qcd_089016,-37.711,142.8395
+6015,Southern Slopes (mainland),Southern Slopes (mainland),90,3,32.96,intermediate,7.1475,4/7/1977 17:00,4/7/1977 18:25,69277,1122,qcd_230104_151,-37.5833,144.7423
+5863,Southern Slopes (mainland),Southern Slopes (mainland),90,2,46.66,rare,1.616,2/11/1964 7:10,2/11/1964 8:35,51992,664,qcd_086147,-38.0333,145.1
+5925,Southern Slopes (mainland),Southern Slopes (mainland),90,3,42.65,rare,2.7326,6/27/2007 11:35,6/27/2007 13:00,64457,1038,qcd_225809_74,-37.4961,146.8576
+5994,Southern Slopes (mainland),Southern Slopes (mainland),90,1,45.2,rare,2.5122,12/16/2011 4:05,12/16/2011 5:30,51912,663,qcd_086142,-37.572,145.5014
+5995,Southern Slopes (mainland),Southern Slopes (mainland),90,1,47.39,rare,1.147,12/26/1999 17:35,12/26/1999 19:00,66283,1081,qcd_229200b_151,-37.7397,145.2121
+5996,Southern Slopes (mainland),Southern Slopes (mainland),90,1,42.2,rare,2.5494,1/1/1988 6:05,1/1/1988 7:30,132295,2083,qcd_587118_151,-37.4175,144.5592
+5997,Southern Slopes (mainland),Southern Slopes (mainland),90,2,50.09,rare,3.1254,11/4/2007 5:50,11/4/2007 7:15,64311,1033,qcd_225231_74,-37.9751,146.6263
+5999,Southern Slopes (mainland),Southern Slopes (mainland),90,2,179.5,rare,0.0193,2/18/1984 5:20,2/18/1984 6:45,140713,2274,qcd_wongawilli_58,-34.4813,150.7482
+6002,Southern Slopes (mainland),Southern Slopes (mainland),90,2,49.43,rare,1.7319,1/12/1980 9:30,1/12/1980 10:55,69413,1124,qcd_230106_151,-37.7652,144.8957
+6003,Southern Slopes (mainland),Southern Slopes (mainland),90,2,51.8,rare,1.8745,3/26/2002 14:10,3/26/2002 15:35,63405,1012,qcd_222008_77,-36.9045,149.0345
+6004,Southern Slopes (mainland),Southern Slopes (mainland),90,3,92.99,rare,0.1109,12/24/1992 12:15,12/24/1992 13:40,64293,1033,qcd_225231_74,-37.9751,146.6263
+6048,Southern Slopes (mainland),Southern Slopes (mainland),120,1,29.88,frequent,14.4719,12/15/1973 9:35,12/15/1973 11:30,53484,681,qcd_087075,-37.4964,144.5028
+6049,Southern Slopes (mainland),Southern Slopes (mainland),120,1,31.58,frequent,14.6028,12/2/2005 12:10,12/2/2005 14:05,64680,1042,qcd_226205_74,-37.8933,146
+6050,Southern Slopes (mainland),Southern Slopes (mainland),120,1,37.09,frequent,14.745,11/26/2002 15:50,11/26/2002 17:45,64060,1030,qcd_225221_74,-37.7694,146.6677
+6051,Southern Slopes (mainland),Southern Slopes (mainland),120,2,44.57,frequent,14.4633,10/23/1985 19:00,10/23/1985 20:55,49649,636,qcd_084122,-37.4772,149.6386
+6052,Southern Slopes (mainland),Southern Slopes (mainland),120,2,25.06,frequent,14.4913,7/31/1994 11:10,7/31/1994 13:05,70464,1144,qcd_233224a_102,-38.3252,143.8334
+6055,Southern Slopes (mainland),Southern Slopes (mainland),120,2,61.5,frequent,14.5682,5/17/1995 19:50,5/17/1995 21:45,121053,1953,qcd_568172_233,-34.3319,150.9134
+6056,Southern Slopes (mainland),Southern Slopes (mainland),120,2,27.3,frequent,14.5908,12/22/2007 13:20,12/22/2007 15:15,131726,2070,qcd_586202_151,-38.356,144.9487
+6057,Southern Slopes (mainland),Southern Slopes (mainland),120,2,35.37,frequent,14.6443,3/2/1999 15:35,3/2/1999 17:30,63976,1028,qcd_225218_74,-37.814,147.0886
+6058,Southern Slopes (mainland),Southern Slopes (mainland),120,3,35.13,frequent,14.4582,1/2/1970 2:25,1/2/1970 4:20,49863,639,qcd_085026,-37.9743,146.3735
+6059,Southern Slopes (mainland),Southern Slopes (mainland),120,3,53.8,frequent,14.4791,1/17/2001 23:15,1/18/2001 1:10,43479,566,qcd_069148,-35.9004,150.1437
+5989,Southern Slopes (mainland),Southern Slopes (mainland),120,3,35.63,intermediate,7.2118,12/13/2008 3:25,12/13/2008 5:20,64790,1046,qcd_226218_74,-38.2719,146.1865
+6039,Southern Slopes (mainland),Southern Slopes (mainland),120,1,33.92,intermediate,4.692,2/8/2002 0:45,2/8/2002 2:40,70409,1143,qcd_233223_74,-37.9286,143.8663
+6040,Southern Slopes (mainland),Southern Slopes (mainland),120,1,30.8,intermediate,13.7974,1/18/2008 19:25,1/18/2008 21:20,54580,694,qcd_089016,-37.711,142.8395
+6041,Southern Slopes (mainland),Southern Slopes (mainland),120,1,42.22,intermediate,3.4571,2/6/1973 2:15,2/6/1973 4:10,53489,681,qcd_087075,-37.4964,144.5028
+6042,Southern Slopes (mainland),Southern Slopes (mainland),120,2,28.58,intermediate,14.2717,12/22/1992 5:20,12/22/1992 7:15,54665,695,qcd_089019,-37.4043,142.3843
+6043,Southern Slopes (mainland),Southern Slopes (mainland),120,2,67.21,intermediate,6.2105,2/23/1977 3:00,2/23/1977 4:55,42887,555,qcd_068076,-34.9449,150.545
+6044,Southern Slopes (mainland),Southern Slopes (mainland),120,2,46.33,intermediate,5.4756,2/20/1987 20:55,2/20/1987 22:50,122541,1977,qcd_570344_231,-35.6917,149.6331
+6045,Southern Slopes (mainland),Southern Slopes (mainland),120,2,32.2,intermediate,9.4638,10/23/1985 16:50,10/23/1985 18:45,69879,1130,qcd_231106_151,-37.6395,144.6563
+6046,Southern Slopes (mainland),Southern Slopes (mainland),120,2,56.09,intermediate,3.7504,2/2/2005 21:25,2/2/2005 23:20,64930,1053,qcd_226818_74,-38.4302,146.5412
+6047,Southern Slopes (mainland),Southern Slopes (mainland),120,3,40.41,intermediate,4.5892,12/20/2007 13:35,12/20/2007 15:30,70652,1151,qcd_233815_74,-37.6728,143.9432
+5864,Southern Slopes (mainland),Southern Slopes (mainland),120,2,51.96,rare,1.2984,2/11/1964 7:05,2/11/1964 9:00,51992,664,qcd_086147,-38.0333,145.1
+6028,Southern Slopes (mainland),Southern Slopes (mainland),120,1,88.79,rare,0.0909,3/27/1993 18:00,3/27/1993 19:55,63561,1017,qcd_222209_74,-37.0836,148.4133
+6029,Southern Slopes (mainland),Southern Slopes (mainland),120,1,47.62,rare,1.851,4/13/2003 15:35,4/13/2003 17:30,65468,1066,qcd_228365_151,-38.0636,145.4218
+6030,Southern Slopes (mainland),Southern Slopes (mainland),120,1,48.43,rare,2.551,12/3/1954 13:00,12/3/1954 14:55,51386,658,qcd_086071,-37.8075,144.97
+6033,Southern Slopes (mainland),Southern Slopes (mainland),120,2,51.61,rare,0.8586,1/24/1988 3:30,1/24/1988 5:25,130396,2044,qcd_586033_151,-37.9512,145.4033
+6034,Southern Slopes (mainland),Southern Slopes (mainland),120,2,37,rare,1.8987,12/21/2003 16:05,12/21/2003 18:00,70798,1156,qcd_235211_74,-38.5891,143.2565
+6035,Southern Slopes (mainland),Southern Slopes (mainland),120,2,88,rare,0.5674,10/24/1999 8:35,10/24/1999 10:30,119842,1934,qcd_568132_231,-34.7761,150.3739
+6036,Southern Slopes (mainland),Southern Slopes (mainland),120,2,45.9,rare,0.5455,4/22/2001 8:55,4/22/2001 10:50,135160,2161,qcd_bw703_13,-38.2333,143.9871
+6037,Southern Slopes (mainland),Southern Slopes (mainland),120,3,45.05,rare,2.4691,4/22/1970 2:30,4/22/1970 4:25,52285,668,qcd_086245,-38.1167,145.1797
+6038,Southern Slopes (mainland),Southern Slopes (mainland),120,3,76.62,rare,0.1395,2/4/1976 17:35,2/4/1976 19:30,44278,576,qcd_071042,-36.6022,148.4677
+6084,Southern Slopes (mainland),Southern Slopes (mainland),180,1,36.4,frequent,14.4617,11/30/1983 7:15,11/30/1983 10:10,67999,1102,qcd_229636_151,-37.8155,145.1452
+6085,Southern Slopes (mainland),Southern Slopes (mainland),180,1,37.38,frequent,14.4899,7/18/1990 0:50,7/18/1990 3:45,68183,1105,qcd_229640_151,-37.8922,145.1072
+6086,Southern Slopes (mainland),Southern Slopes (mainland),180,1,35.97,frequent,14.513,11/2/1993 1:40,11/2/1993 4:35,69344,1123,qcd_230105_151,-37.7271,144.8361
+6087,Southern Slopes (mainland),Southern Slopes (mainland),180,2,34.72,frequent,14.474,3/5/1947 3:55,3/5/1947 6:50,50160,642,qcd_085098,-38.2,146.4
+6089,Southern Slopes (mainland),Southern Slopes (mainland),180,2,46.87,frequent,14.4866,11/4/2007 9:55,11/4/2007 12:50,64121,1031,qcd_225224_74,-37.8018,146.8849
+6090,Southern Slopes (mainland),Southern Slopes (mainland),180,2,38.97,frequent,14.5817,1/20/1962 1:45,1/20/1962 4:40,50637,649,qcd_085236,-38.3181,146.5645
+6091,Southern Slopes (mainland),Southern Slopes (mainland),180,2,42.91,frequent,14.6288,2/20/1993 4:55,2/20/1993 7:50,64237,1034,qcd_225231a_102,-37.975,146.625
+6093,Southern Slopes (mainland),Southern Slopes (mainland),180,2,33.6,frequent,14.8769,2/12/1999 9:30,2/12/1999 12:25,54478,693,qcd_089002,-37.5127,143.7911
+6094,Southern Slopes (mainland),Southern Slopes (mainland),180,3,30.4,frequent,14.539,12/12/2008 21:00,12/12/2008 23:55,55340,703,qcd_090135,-37.5908,141.4129
+6095,Southern Slopes (mainland),Southern Slopes (mainland),180,3,34.82,frequent,14.7745,3/22/2001 10:40,3/22/2001 13:35,69082,1120,qcd_230101_151,-37.4991,144.7635
+6070,Southern Slopes (mainland),Southern Slopes (mainland),180,1,33.1,intermediate,12.3184,4/23/1961 1:05,4/23/1961 4:00,46201,597,qcd_079052,-37.23,141.9609
+6071,Southern Slopes (mainland),Southern Slopes (mainland),180,1,45.21,intermediate,6.0214,1/30/2004 2:50,1/30/2004 5:45,130947,2054,qcd_586115_151,-37.9018,145.0273
+6072,Southern Slopes (mainland),Southern Slopes (mainland),180,1,49.33,intermediate,4.0333,1/1/1996 9:55,1/1/1996 12:50,51370,658,qcd_086071,-37.8075,144.97
+6073,Southern Slopes (mainland),Southern Slopes (mainland),180,2,37,intermediate,5.1607,4/22/2001 9:05,4/22/2001 12:00,134995,2155,qcd_bw025_13,-38.1796,144.4556
+6074,Southern Slopes (mainland),Southern Slopes (mainland),180,2,109.25,intermediate,8.2058,2/10/1992 0:20,2/10/1992 3:15,119017,1920,qcd_568076_231,-34.6967,150.6894
+6078,Southern Slopes (mainland),Southern Slopes (mainland),180,2,40.37,intermediate,10.7935,11/12/1960 14:25,11/12/1960 17:20,52034,665,qcd_086219,-37.6886,145.5644
+6079,Southern Slopes (mainland),Southern Slopes (mainland),180,2,33.63,intermediate,11.5002,1/26/1993 21:05,1/27/1993 0:00,54843,697,qcd_089082,-37.5042,143.2792
+6080,Southern Slopes (mainland),Southern Slopes (mainland),180,2,43.01,intermediate,11.4902,3/14/1989 13:20,3/14/1989 16:15,122704,1979,qcd_570346_231,-35.1617,149.7608
+6082,Southern Slopes (mainland),Southern Slopes (mainland),180,3,64.75,intermediate,5.4228,3/9/2000 13:00,3/9/2000 15:55,63204,1007,qcd_221001_74,-37.1387,149.3173
+6083,Southern Slopes (mainland),Southern Slopes (mainland),180,3,106.75,intermediate,8.9328,7/27/1984 21:40,7/28/1984 0:35,118995,1920,qcd_568076_231,-34.6967,150.6894
+5791,Southern Slopes (mainland),Southern Slopes (mainland),180,3,152.5,rare,0.3537,8/17/1998 17:15,8/17/1998 20:10,121051,1953,qcd_568172_233,-34.3319,150.9134
+6031,Southern Slopes (mainland),Southern Slopes (mainland),180,1,55.94,rare,2.2182,12/3/1954 13:15,12/3/1954 16:10,51386,658,qcd_086071,-37.8075,144.97
+6060,Southern Slopes (mainland),Southern Slopes (mainland),180,1,81.99,rare,0.2868,11/7/1987 16:45,11/7/1987 19:40,122222,1973,qcd_570338_231,-35.2733,149.6014
+6061,Southern Slopes (mainland),Southern Slopes (mainland),180,1,65.6,rare,0.3762,12/21/2007 13:20,12/21/2007 16:15,55421,704,qcd_090153,-38.255,143.1256
+6062,Southern Slopes (mainland),Southern Slopes (mainland),180,2,107.67,rare,0.2131,1/29/1971 18:30,1/29/1971 21:25,49961,640,qcd_085034,-37.9085,146.8046
+6064,Southern Slopes (mainland),Southern Slopes (mainland),180,2,50.4,rare,2.9852,11/21/2009 18:50,11/21/2009 21:45,53520,681,qcd_087075,-37.4964,144.5028
+6065,Southern Slopes (mainland),Southern Slopes (mainland),180,2,61.75,rare,1.7955,12/27/1993 17:45,12/27/1993 20:40,66639,1085,qcd_229603_151,-37.6458,144.9729
+6066,Southern Slopes (mainland),Southern Slopes (mainland),180,2,126.18,rare,0.0024,1/30/2002 20:50,1/30/2002 23:45,127,756,qcd_00018_205,-36.3139,148.4806
+6068,Southern Slopes (mainland),Southern Slopes (mainland),180,2,41.73,rare,2.3467,1/18/1981 14:30,1/18/1981 17:25,53787,686,qcd_087133,-38.1164,144.3667
+6069,Southern Slopes (mainland),Southern Slopes (mainland),180,3,106.36,rare,0.0511,12/2/2003 23:45,12/3/2003 2:40,130166,2040,qcd_586010_151,-37.7837,145.1107
+6119,Southern Slopes (mainland),Southern Slopes (mainland),270,1,41.94,frequent,14.9458,11/18/1978 23:40,11/19/1978 4:05,131044,2055,qcd_586146_151,-37.4206,144.9825
+6120,Southern Slopes (mainland),Southern Slopes (mainland),270,1,40.55,frequent,15.3296,11/4/2007 2:15,11/4/2007 6:40,65750,1070,qcd_228371_151,-38.0873,145.1261
+6121,Southern Slopes (mainland),Southern Slopes (mainland),270,1,33.81,frequent,15.4455,9/14/1975 1:10,9/14/1975 5:35,54762,696,qcd_089025,-37.6854,143.3654
+6123,Southern Slopes (mainland),Southern Slopes (mainland),270,2,47.6,frequent,14.422,6/27/1997 4:40,6/27/1997 9:05,122083,1971,qcd_570336_231,-34.8461,149.9642
+6124,Southern Slopes (mainland),Southern Slopes (mainland),270,2,45.94,frequent,14.5049,5/24/1956 20:10,5/25/1956 0:35,52056,665,qcd_086219,-37.6886,145.5644
+6125,Southern Slopes (mainland),Southern Slopes (mainland),270,2,44.01,frequent,14.5685,12/25/1988 10:25,12/25/1988 14:50,131684,2069,qcd_586201_151,-37.997,145.492
+6126,Southern Slopes (mainland),Southern Slopes (mainland),270,2,41.8,frequent,14.5969,2/3/2005 0:50,2/3/2005 5:15,51484,658,qcd_086071,-37.8075,144.97
+6127,Southern Slopes (mainland),Southern Slopes (mainland),270,2,47.74,frequent,14.601,6/23/1998 11:55,6/23/1998 16:20,63843,1024,qcd_224213_74,-37.4951,147.2687
+6128,Southern Slopes (mainland),Southern Slopes (mainland),270,3,54.99,frequent,14.8143,4/23/2001 4:30,4/23/2001 8:55,64919,1052,qcd_226817_74,-38.3912,146.5151
+6129,Southern Slopes (mainland),Southern Slopes (mainland),270,3,33.44,frequent,15.1758,1/2/1970 4:30,1/2/1970 8:55,53126,677,qcd_087033,-37.991,144.4943
+5973,Southern Slopes (mainland),Southern Slopes (mainland),270,2,53.44,intermediate,5.0673,1/14/1977 14:05,1/14/1977 18:30,69264,1122,qcd_230104_151,-37.5833,144.7423
+6105,Southern Slopes (mainland),Southern Slopes (mainland),270,1,70.72,intermediate,4.3512,4/29/1988 7:10,4/29/1988 11:35,62982,1002,qcd_215008_77,-35.7888,149.6406
+6109,Southern Slopes (mainland),Southern Slopes (mainland),270,1,79.8,intermediate,9.9564,3/12/2000 19:30,3/12/2000 23:55,43383,564,qcd_069066,-36.9296,149.646
+6110,Southern Slopes (mainland),Southern Slopes (mainland),270,1,54.88,intermediate,5.0493,3/26/2002 8:15,3/26/2002 12:40,69968,1131,qcd_231107_151,-37.8195,144.8256
+6111,Southern Slopes (mainland),Southern Slopes (mainland),270,2,56.96,intermediate,7.7802,2/20/1993 4:00,2/20/1993 8:25,64305,1033,qcd_225231_74,-37.9751,146.6263
+6113,Southern Slopes (mainland),Southern Slopes (mainland),270,2,46.62,intermediate,8.6792,12/13/1989 23:25,12/14/1989 3:50,66179,1079,qcd_229143_151,-37.787,145.0258
+6114,Southern Slopes (mainland),Southern Slopes (mainland),270,2,55.64,intermediate,11.1482,10/23/1995 0:25,10/23/1995 4:50,64176,1032,qcd_225230_74,-37.9137,146.6561
+6115,Southern Slopes (mainland),Southern Slopes (mainland),270,2,43.3,intermediate,4.1216,10/24/2000 1:35,10/24/2000 6:00,135085,2158,qcd_bw073_13,-38.1902,144.3733
+6116,Southern Slopes (mainland),Southern Slopes (mainland),270,3,50.53,intermediate,9.5556,3/19/1985 0:50,3/19/1985 5:15,122463,1976,qcd_570343_231,-35.0028,149.8222
+6117,Southern Slopes (mainland),Southern Slopes (mainland),270,3,61.43,intermediate,3.2796,1/28/1963 11:20,1/28/1963 15:45,51783,661,qcd_086096,-37.7214,145.0059
+6000,Southern Slopes (mainland),Southern Slopes (mainland),270,1,402,rare,0.0004,2/18/1984 5:35,2/18/1984 10:00,140713,2274,qcd_wongawilli_58,-34.4813,150.7482
+6063,Southern Slopes (mainland),Southern Slopes (mainland),270,2,133.19,rare,0.1304,1/29/1971 17:45,1/29/1971 22:10,49961,640,qcd_085034,-37.9085,146.8046
+6096,Southern Slopes (mainland),Southern Slopes (mainland),270,1,173.62,rare,2.875,10/24/1999 6:30,10/24/1999 10:55,119051,1921,qcd_568078_231,-34.7042,150.6267
+6097,Southern Slopes (mainland),Southern Slopes (mainland),270,1,70.27,rare,3.0245,12/13/2004 13:20,12/13/2004 17:45,63798,1024,qcd_224213_74,-37.4951,147.2687
+6098,Southern Slopes (mainland),Southern Slopes (mainland),270,2,106.09,rare,1.067,11/4/2007 0:15,11/4/2007 4:40,70610,1149,qcd_233802_74,-38.6242,143.7311
+6099,Southern Slopes (mainland),Southern Slopes (mainland),270,2,154.5,rare,1.1296,6/11/1991 22:25,6/12/1991 2:50,121070,1953,qcd_568172_233,-34.3319,150.9134
+6101,Southern Slopes (mainland),Southern Slopes (mainland),270,2,135.43,rare,2.1826,4/30/1988 4:30,4/30/1988 8:55,43010,557,qcd_068117,-34.59,150.6085
+6102,Southern Slopes (mainland),Southern Slopes (mainland),270,2,107.72,rare,0.8507,4/11/1994 20:25,4/12/1994 0:50,63279,1009,qcd_221209_74,-37.3554,149.207
+6103,Southern Slopes (mainland),Southern Slopes (mainland),270,3,75.4,rare,1.571,2/27/2007 18:05,2/27/2007 22:30,50076,641,qcd_085072,-38.1156,147.1322
+6104,Southern Slopes (mainland),Southern Slopes (mainland),270,3,54.2,rare,1.3816,12/27/1999 8:35,12/27/1999 13:00,135020,2156,qcd_bw036_13,-38.0315,144.4043
+6122,Southern Slopes (mainland),Southern Slopes (mainland),360,1,37.42,frequent,14.6034,9/14/1975 1:10,9/14/1975 7:05,54762,696,qcd_089025,-37.6854,143.3654
+6147,Southern Slopes (mainland),Southern Slopes (mainland),360,1,36.87,frequent,14.9195,1/20/2007 4:00,1/20/2007 9:55,70807,1156,qcd_235211_74,-38.5891,143.2565
+6148,Southern Slopes (mainland),Southern Slopes (mainland),360,1,55.82,frequent,15.0517,6/23/1998 9:30,6/23/1998 15:25,63535,1016,qcd_222206_74,-37.4958,148.1732
+6149,Southern Slopes (mainland),Southern Slopes (mainland),360,2,45.82,frequent,14.5059,3/21/1989 0:20,3/21/1989 6:15,66440,1083,qcd_229270_151,-37.695,145.3195
+6150,Southern Slopes (mainland),Southern Slopes (mainland),360,2,46.62,frequent,14.5274,4/8/1964 9:35,4/8/1964 15:30,53218,678,qcd_087036,-37.4155,144.5569
+6151,Southern Slopes (mainland),Southern Slopes (mainland),360,2,134.5,frequent,14.5622,9/25/1995 0:05,9/25/1995 6:00,119060,1921,qcd_568078_231,-34.7042,150.6267
+6152,Southern Slopes (mainland),Southern Slopes (mainland),360,2,111,frequent,14.5803,2/4/2008 23:05,2/5/2008 5:00,121302,1959,qcd_568186_233,-34.581,150.718
+6153,Southern Slopes (mainland),Southern Slopes (mainland),360,2,98.5,frequent,14.5874,2/26/2007 21:10,2/27/2007 3:05,121143,1955,qcd_568180_233,-34.4998,150.801
+6154,Southern Slopes (mainland),Southern Slopes (mainland),360,3,45.58,frequent,14.4564,5/2/1983 11:40,5/2/1983 17:35,69610,1126,qcd_230108_151,-37.2543,144.6868
+6155,Southern Slopes (mainland),Southern Slopes (mainland),360,3,46.38,frequent,14.6054,2/2/2005 23:55,2/3/2005 5:50,68651,1113,qcd_229672_151,-37.7603,145.3529
+6136,Southern Slopes (mainland),Southern Slopes (mainland),360,1,120.41,intermediate,5.6825,2/11/2007 7:45,2/11/2007 13:40,119360,1926,qcd_568086_231,-35.0219,150.4631
+6137,Southern Slopes (mainland),Southern Slopes (mainland),360,1,61.16,intermediate,3.5957,12/27/1999 15:40,12/27/1999 21:35,65388,1065,qcd_228362_151,-37.9385,145.1525
+6138,Southern Slopes (mainland),Southern Slopes (mainland),360,1,61.65,intermediate,3.615,3/21/1989 0:05,3/21/1989 6:00,67010,1089,qcd_229614_151,-37.7299,145.107
+6139,Southern Slopes (mainland),Southern Slopes (mainland),360,2,64.89,intermediate,3.5721,4/21/1990 4:05,4/21/1990 10:00,50968,653,qcd_085256,-37.5125,146.5478
+6140,Southern Slopes (mainland),Southern Slopes (mainland),360,2,61.1,intermediate,3.8194,9/18/1984 14:50,9/18/1984 20:45,67880,1100,qcd_229633_151,-37.8339,145.1591
+6141,Southern Slopes (mainland),Southern Slopes (mainland),360,2,57.61,intermediate,6.2178,11/18/1978 21:05,11/19/1978 3:00,69083,1120,qcd_230101_151,-37.4991,144.7635
+6142,Southern Slopes (mainland),Southern Slopes (mainland),360,2,74.91,intermediate,6.6353,11/16/1988 16:35,11/16/1988 22:30,49570,635,qcd_084121,-37.7014,148.4569
+6143,Southern Slopes (mainland),Southern Slopes (mainland),360,2,75.9,intermediate,4.2441,6/7/1998 5:30,6/7/1998 11:25,63873,1025,qcd_224220_74,-37.6779,147.5499
+6145,Southern Slopes (mainland),Southern Slopes (mainland),360,3,61.6,intermediate,3.3643,2/5/2011 3:10,2/5/2011 9:05,52234,667,qcd_086234,-37.7869,145.2847
+6146,Southern Slopes (mainland),Southern Slopes (mainland),360,3,102.4,intermediate,3.289,4/21/2001 16:15,4/21/2001 22:10,49663,636,qcd_084122,-37.4772,149.6386
+5826,Southern Slopes (mainland),Southern Slopes (mainland),360,3,69.6,rare,2.5103,12/13/1989 23:25,12/14/1989 5:20,68302,1107,qcd_229645_151,-37.7423,144.979
+6010,Southern Slopes (mainland),Southern Slopes (mainland),360,2,147.8,rare,1.8516,2/6/1971 0:15,2/6/1971 6:10,42894,555,qcd_068076,-34.9449,150.545
+6016,Southern Slopes (mainland),Southern Slopes (mainland),360,2,91.38,rare,0.6722,4/7/1977 12:35,4/7/1977 18:30,69277,1122,qcd_230104_151,-37.5833,144.7423
+6032,Southern Slopes (mainland),Southern Slopes (mainland),360,1,86.12,rare,0.7482,12/3/1954 13:00,12/3/1954 18:55,51386,658,qcd_086071,-37.8075,144.97
+6130,Southern Slopes (mainland),Southern Slopes (mainland),360,1,71.6,rare,2.4489,12/26/1999 22:35,12/27/1999 4:30,69080,1120,qcd_230101_151,-37.4991,144.7635
+6131,Southern Slopes (mainland),Southern Slopes (mainland),360,1,68.4,rare,0.8631,2/4/2011 15:10,2/4/2011 21:05,53123,677,qcd_087033,-37.991,144.4943
+6132,Southern Slopes (mainland),Southern Slopes (mainland),360,2,76.6,rare,1.6494,3/22/2011 18:50,3/23/2011 0:45,50552,648,qcd_085227,-38.5215,146.2041
+6133,Southern Slopes (mainland),Southern Slopes (mainland),360,2,53.33,rare,2.7458,1/14/1974 1:20,1/14/1974 7:15,54775,696,qcd_089025,-37.6854,143.3654
+6134,Southern Slopes (mainland),Southern Slopes (mainland),360,2,149.22,rare,0.0132,5/30/1999 10:35,5/30/1999 16:30,66442,1083,qcd_229270_151,-37.695,145.3195
+6135,Southern Slopes (mainland),Southern Slopes (mainland),360,3,66.84,rare,2.0893,3/21/1970 15:25,3/21/1970 21:20,52213,667,qcd_086234,-37.7869,145.2847
+6183,Southern Slopes (mainland),Southern Slopes (mainland),540,1,61.73,frequent,14.5828,2/10/1994 15:10,2/11/1994 0:05,63908,1026,qcd_225201_74,-37.9686,147.076
+6184,Southern Slopes (mainland),Southern Slopes (mainland),540,1,124.63,frequent,15.3663,2/11/2007 9:40,2/11/2007 18:35,119698,1932,qcd_568124_231,-34.6567,150.4894
+6185,Southern Slopes (mainland),Southern Slopes (mainland),540,1,45.3,frequent,16.9419,4/7/1977 10:10,4/7/1977 19:05,53648,683,qcd_087104,-37.9767,144.6317
+6186,Southern Slopes (mainland),Southern Slopes (mainland),540,2,53.78,frequent,14.431,2/2/2005 21:05,2/3/2005 6:00,130475,2045,qcd_586036_151,-37.9374,145.0146
+6187,Southern Slopes (mainland),Southern Slopes (mainland),540,2,128.88,frequent,14.6543,2/4/2008 22:15,2/5/2008 7:10,135511,2170,qcd_darkesroad_58,-34.469,150.7947
+6188,Southern Slopes (mainland),Southern Slopes (mainland),540,2,54.07,frequent,14.6682,10/15/1983 17:35,10/16/1983 2:30,51157,656,qcd_086038,-37.7276,144.9066
+6189,Southern Slopes (mainland),Southern Slopes (mainland),540,2,42,frequent,14.6807,11/4/2007 0:25,11/4/2007 9:20,55574,706,qcd_090167,-38.243,143.9887
+6190,Southern Slopes (mainland),Southern Slopes (mainland),540,3,54.97,frequent,14.8177,5/5/1977 12:45,5/5/1977 21:40,67752,1098,qcd_229627_151,-37.5736,144.9652
+6192,Southern Slopes (mainland),Southern Slopes (mainland),540,3,50.77,frequent,15.0364,12/22/1985 12:20,12/22/1985 21:15,67338,1093,qcd_229619_151,-37.6376,145.1913
+6193,Southern Slopes (mainland),Southern Slopes (mainland),540,3,49.98,frequent,15.7961,9/15/1993 1:15,9/15/1993 10:10,69905,1130,qcd_231106_151,-37.6395,144.6563
+6088,Southern Slopes (mainland),Southern Slopes (mainland),540,3,56.84,intermediate,8.2654,3/4/1947 21:50,3/5/1947 6:45,50160,642,qcd_085098,-38.2,146.4
+6172,Southern Slopes (mainland),Southern Slopes (mainland),540,1,72.18,intermediate,3.6071,11/22/1988 0:35,11/22/1988 9:30,68132,1104,qcd_229638_151,-37.8464,145.1384
+6173,Southern Slopes (mainland),Southern Slopes (mainland),540,1,73.26,intermediate,4.4769,10/15/1983 15:35,10/16/1983 0:30,69273,1122,qcd_230104_151,-37.5833,144.7423
+6174,Southern Slopes (mainland),Southern Slopes (mainland),540,1,53.91,intermediate,13.2206,6/10/1999 16:15,6/11/1999 1:10,130173,2040,qcd_586010_151,-37.7837,145.1107
+6175,Southern Slopes (mainland),Southern Slopes (mainland),540,2,112.11,intermediate,5.3481,11/16/1988 15:45,11/17/1988 0:40,49741,637,qcd_084123,-37.3475,149.4806
+6177,Southern Slopes (mainland),Southern Slopes (mainland),540,2,116.23,intermediate,4.9565,4/3/1989 0:00,4/3/1989 8:55,49660,636,qcd_084122,-37.4772,149.6386
+6178,Southern Slopes (mainland),Southern Slopes (mainland),540,2,59.56,intermediate,9.12,9/9/1906 6:05,9/9/1906 15:00,51437,658,qcd_086071,-37.8075,144.97
+6179,Southern Slopes (mainland),Southern Slopes (mainland),540,2,63.55,intermediate,3.552,1/2/1970 0:15,1/2/1970 9:10,53589,682,qcd_087097,-37.7,144.3167
+6181,Southern Slopes (mainland),Southern Slopes (mainland),540,3,87.08,intermediate,3.4875,4/1/1978 20:10,4/2/1978 5:05,49314,630,qcd_084015,-37.3757,147.8373
+6182,Southern Slopes (mainland),Southern Slopes (mainland),540,3,124.85,intermediate,7.1757,4/29/1963 1:00,4/29/1963 9:55,43193,560,qcd_068203,-35.085,150.23
+5887,Southern Slopes (mainland),Southern Slopes (mainland),540,2,69.51,rare,2.3953,11/28/1977 10:00,11/28/1977 18:55,55331,703,qcd_090135,-37.5908,141.4129
+5926,Southern Slopes (mainland),Southern Slopes (mainland),540,2,171.22,rare,0.086,6/27/2007 9:50,6/27/2007 18:45,64457,1038,qcd_225809_74,-37.4961,146.8576
+5998,Southern Slopes (mainland),Southern Slopes (mainland),540,1,102.06,rare,1.8856,11/4/2007 3:40,11/4/2007 12:35,64311,1033,qcd_225231_74,-37.9751,146.6263
+6156,Southern Slopes (mainland),Southern Slopes (mainland),540,1,114.52,rare,1.4347,4/21/1990 3:25,4/21/1990 12:20,50002,640,qcd_085034,-37.9085,146.8046
+6163,Southern Slopes (mainland),Southern Slopes (mainland),540,1,76.2,rare,0.8627,5/30/2001 16:25,5/31/2001 1:20,135024,2156,qcd_bw036_13,-38.0315,144.4043
+6166,Southern Slopes (mainland),Southern Slopes (mainland),540,2,136.8,rare,2.2402,6/23/1998 8:45,6/23/1998 17:40,49538,634,qcd_084085,-37.4315,149.0003
+6167,Southern Slopes (mainland),Southern Slopes (mainland),540,2,115.07,rare,2.3305,3/21/1983 9:50,3/21/1983 18:45,62972,1002,qcd_215008_77,-35.7888,149.6406
+6168,Southern Slopes (mainland),Southern Slopes (mainland),540,3,80.2,rare,0.6403,4/22/2001 3:25,4/22/2001 12:20,135084,2158,qcd_bw073_13,-38.1902,144.3733
+6169,Southern Slopes (mainland),Southern Slopes (mainland),540,3,78.2,rare,0.7225,3/21/2001 22:45,3/22/2001 7:40,135083,2158,qcd_bw073_13,-38.1902,144.3733
+6170,Southern Slopes (mainland),Southern Slopes (mainland),540,3,224.5,rare,0.5478,8/17/1998 11:15,8/17/1998 20:10,120443,1942,qcd_568153_233,-34.3674,150.9098
+6208,Southern Slopes (mainland),Southern Slopes (mainland),720,1,58.07,frequent,14.7316,11/4/2007 4:05,11/4/2007 16:00,65490,1066,qcd_228365_151,-38.0636,145.4218
+6209,Southern Slopes (mainland),Southern Slopes (mainland),720,1,63.43,frequent,14.8121,8/7/1978 1:55,8/7/1978 13:50,53506,681,qcd_087075,-37.4964,144.5028
+6210,Southern Slopes (mainland),Southern Slopes (mainland),720,1,61.33,frequent,15.1292,5/15/1974 4:55,5/15/1974 16:50,52774,673,qcd_087017,-37.4701,144.3069
+6211,Southern Slopes (mainland),Southern Slopes (mainland),720,2,95.77,frequent,14.6884,11/28/2005 21:20,11/29/2005 9:15,64934,1053,qcd_226818_74,-38.4302,146.5412
+6212,Southern Slopes (mainland),Southern Slopes (mainland),720,2,60.43,frequent,14.7808,2/5/1973 23:00,2/6/1973 10:55,51589,659,qcd_086074,-37.8219,145.1906
+6213,Southern Slopes (mainland),Southern Slopes (mainland),720,2,65.66,frequent,14.8344,6/27/2007 8:05,6/27/2007 20:00,64689,1042,qcd_226205_74,-37.8933,146
+6214,Southern Slopes (mainland),Southern Slopes (mainland),720,2,57.21,frequent,14.9438,4/22/2001 1:25,4/22/2001 13:20,65234,1061,qcd_228231a_151,-38.0205,145.2563
+6215,Southern Slopes (mainland),Southern Slopes (mainland),720,3,144.5,frequent,14.4284,2/9/1992 15:05,2/10/1992 3:00,120997,1952,qcd_568171_233,-34.5703,150.7684
+6216,Southern Slopes (mainland),Southern Slopes (mainland),720,3,51.46,frequent,14.6185,1/20/1979 0:55,1/20/1979 12:50,54704,695,qcd_089019,-37.4043,142.3843
+6217,Southern Slopes (mainland),Southern Slopes (mainland),720,3,61.02,frequent,14.7387,2/2/2005 18:05,2/3/2005 6:00,66453,1083,qcd_229270_151,-37.695,145.3195
+6176,Southern Slopes (mainland),Southern Slopes (mainland),720,2,130.51,intermediate,4.9568,11/16/1988 15:40,11/17/1988 3:35,49741,637,qcd_084123,-37.3475,149.4806
+6191,Southern Slopes (mainland),Southern Slopes (mainland),720,3,63.53,intermediate,13.0509,5/5/1977 10:20,5/5/1977 22:15,67752,1098,qcd_229627_151,-37.5736,144.9652
+6198,Southern Slopes (mainland),Southern Slopes (mainland),720,1,56.63,intermediate,12.4798,1/20/1979 5:20,1/20/1979 17:15,54497,693,qcd_089002,-37.5127,143.7911
+6199,Southern Slopes (mainland),Southern Slopes (mainland),720,1,48.99,intermediate,11.6641,10/10/1990 23:45,10/11/1990 11:40,53814,686,qcd_087133,-38.1164,144.3667
+6200,Southern Slopes (mainland),Southern Slopes (mainland),720,1,59.14,intermediate,8.5784,11/9/1954 0:30,11/9/1954 12:25,53586,682,qcd_087097,-37.7,144.3167
+6201,Southern Slopes (mainland),Southern Slopes (mainland),720,2,84.52,intermediate,3.3902,5/13/1995 4:20,5/13/1995 16:15,143,756,qcd_00018_205,-36.3139,148.4806
+6202,Southern Slopes (mainland),Southern Slopes (mainland),720,2,94.67,intermediate,6.3339,4/7/1977 22:55,4/8/1977 10:50,50436,647,qcd_085176,-37.8283,146.18
+6203,Southern Slopes (mainland),Southern Slopes (mainland),720,2,109.02,intermediate,11.1333,10/3/1966 9:20,10/3/1966 21:15,49679,636,qcd_084122,-37.4772,149.6386
+6204,Southern Slopes (mainland),Southern Slopes (mainland),720,3,63.07,intermediate,13.3931,5/3/1983 4:20,5/3/1983 16:15,50562,648,qcd_085227,-38.5215,146.2041
+6205,Southern Slopes (mainland),Southern Slopes (mainland),720,3,116.8,intermediate,7.9463,3/21/2011 15:25,3/22/2011 3:20,49407,632,qcd_084040,-37.3721,149.474
+5991,Southern Slopes (mainland),Southern Slopes (mainland),720,3,99.92,rare,2.0397,12/1/1987 8:15,12/1/1987 20:10,53518,681,qcd_087075,-37.4964,144.5028
+6017,Southern Slopes (mainland),Southern Slopes (mainland),720,2,126.59,rare,0.5108,4/7/1977 12:25,4/8/1977 0:20,69277,1122,qcd_230104_151,-37.5833,144.7423
+6081,Southern Slopes (mainland),Southern Slopes (mainland),720,1,101.02,rare,1.9992,3/14/1989 12:45,3/15/1989 0:40,122704,1979,qcd_570346_231,-35.1617,149.7608
+6157,Southern Slopes (mainland),Southern Slopes (mainland),720,1,134.81,rare,0.9993,4/21/1990 3:30,4/21/1990 15:25,50002,640,qcd_085034,-37.9085,146.8046
+6171,Southern Slopes (mainland),Southern Slopes (mainland),720,3,254,rare,0.5151,8/17/1998 8:20,8/17/1998 20:15,120443,1942,qcd_568153_233,-34.3674,150.9098
+6180,Southern Slopes (mainland),Southern Slopes (mainland),720,2,73.86,rare,3.0876,1/1/1970 21:25,1/2/1970 9:20,53589,682,qcd_087097,-37.7,144.3167
+6194,Southern Slopes (mainland),Southern Slopes (mainland),720,1,147.35,rare,2.4179,11/12/1998 17:10,11/13/1998 5:05,70637,1150,qcd_233803_74,-38.5479,143.8602
+6195,Southern Slopes (mainland),Southern Slopes (mainland),720,2,103.73,rare,1.4203,12/27/1993 11:55,12/27/1993 23:50,66527,1084,qcd_229402_151,-37.7162,144.9523
+6196,Southern Slopes (mainland),Southern Slopes (mainland),720,2,132.64,rare,1.4096,4/23/2004 23:35,4/24/2004 11:30,63751,1022,qcd_224203_74,-37.7684,147.3713
+6197,Southern Slopes (mainland),Southern Slopes (mainland),720,3,97.83,rare,2.085,5/19/1978 7:35,5/19/1978 19:30,50097,641,qcd_085072,-38.1156,147.1322
+6230,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,82.8,frequent,14.5467,9/15/1993 2:35,9/15/1993 20:30,51035,654,qcd_085277,-37.9039,145.9719
+6231,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,64.43,frequent,14.6377,12/26/1999 12:50,12/27/1999 6:45,70166,1136,qcd_232210_74,-37.6432,144.0422
+6232,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,91.86,frequent,14.8914,6/1/1977 9:40,6/2/1977 3:35,50437,647,qcd_085176,-37.8283,146.18
+6233,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,92.56,frequent,14.489,4/12/1974 0:40,4/12/1974 18:35,50427,647,qcd_085176,-37.8283,146.18
+6234,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,159.76,frequent,14.5442,3/21/1983 1:00,3/21/1983 18:55,120208,1939,qcd_568146_231,-34.9325,150.3908
+6235,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,80.64,frequent,14.8812,12/15/1991 19:00,12/16/1991 12:55,131693,2069,qcd_586201_151,-37.997,145.492
+6236,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,95.01,frequent,14.9673,12/11/1985 4:00,12/11/1985 21:55,49240,629,qcd_084005,-37.5035,148.1692
+6237,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,70.23,frequent,14.4699,10/15/1983 6:35,10/16/1983 0:30,66543,1084,qcd_229402_151,-37.7162,144.9523
+6238,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,92.53,frequent,14.506,5/31/1969 9:45,6/1/1969 3:40,50460,647,qcd_085176,-37.8283,146.18
+6242,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,63.2,frequent,14.7658,1/13/2011 15:25,1/14/2011 9:20,54957,699,qcd_089111,-37.5174,143.7791
+6092,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,121.56,intermediate,4.3032,2/19/1993 18:50,2/20/1993 12:45,64237,1034,qcd_225231a_102,-37.975,146.625
+6206,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,161.2,intermediate,5.3026,3/21/2011 13:30,3/22/2011 7:25,49407,632,qcd_084040,-37.3721,149.474
+6220,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,134.86,intermediate,3.9395,9/15/1993 2:50,9/15/1993 20:45,64131,1031,qcd_225224_74,-37.8018,146.8849
+6221,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,161.94,intermediate,6.9455,9/15/1962 15:50,9/16/1962 9:45,43239,561,qcd_069000,-35.65,149.8167
+6222,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,108.46,intermediate,13.2591,9/18/1984 12:55,9/19/1984 6:50,55258,702,qcd_090087,-38.6636,143.4495
+6224,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,84.03,intermediate,8.4086,7/28/1984 9:25,7/29/1984 3:20,50570,648,qcd_085227,-38.5215,146.2041
+6226,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,203.78,intermediate,3.8274,9/5/1967 9:45,9/6/1967 3:40,43195,560,qcd_068203,-35.085,150.23
+6227,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,95.67,intermediate,8.739,8/27/1974 21:00,8/28/1974 14:55,43567,567,qcd_070012,-34.8996,149.9709
+6228,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,76.63,intermediate,9.5308,1/4/1991 21:05,1/5/1991 15:00,69909,1130,qcd_231106_151,-37.6395,144.6563
+6229,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,63,intermediate,11.2233,1/13/2011 12:10,1/14/2011 6:05,52615,698,qcd_089085,-37.2772,142.9808
+4215,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,238.57,rare,0.773,4/21/2001 13:00,4/22/2001 6:55,70617,1149,qcd_233802_74,-38.6242,143.7311
+5927,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,266.17,rare,0.0493,6/27/2007 8:40,6/28/2007 2:35,64457,1038,qcd_225809_74,-37.4961,146.8576
+6075,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,414.99,rare,2.7345,2/9/1992 12:05,2/10/1992 6:00,119017,1920,qcd_568076_231,-34.6967,150.6894
+6112,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,121.56,rare,2.8025,2/19/1993 18:50,2/20/1993 12:45,64305,1033,qcd_225231_74,-37.9751,146.6263
+6118,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,139.95,rare,0.616,1/28/1963 5:30,1/28/1963 23:25,51783,661,qcd_086096,-37.7214,145.0059
+6144,Southern Slopes (mainland),Southern Slopes (mainland),1080,1,169.06,rare,1.0024,6/7/1998 4:55,6/7/1998 22:50,63873,1025,qcd_224220_74,-37.6779,147.5499
+6158,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,161.8,rare,0.7754,4/20/1990 23:10,4/21/1990 17:05,50002,640,qcd_085034,-37.9085,146.8046
+6164,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,116.6,rare,0.3955,5/30/2001 16:25,5/31/2001 10:20,135024,2156,qcd_bw036_13,-38.0315,144.4043
+6218,Southern Slopes (mainland),Southern Slopes (mainland),1080,3,100.58,rare,3.0093,10/15/1983 6:50,10/16/1983 0:45,69707,1127,qcd_230109_151,-37.7792,144.8561
+6219,Southern Slopes (mainland),Southern Slopes (mainland),1080,2,100.89,rare,2.447,11/30/1934 2:50,11/30/1934 20:45,51474,658,qcd_086071,-37.8075,144.97
+6273,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,79.44,frequent,15.348,6/2/1978 16:55,6/3/1978 16:50,50112,641,qcd_085072,-38.1156,147.1322
+6274,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,71.13,frequent,15.493,11/21/1988 22:35,11/22/1988 22:30,69008,1119,qcd_230100_151,-37.4101,144.9024
+6276,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,67.07,frequent,15.5045,11/20/1954 5:05,11/21/1954 5:00,50215,643,qcd_085103,-38.1858,146.3317
+6277,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,74.8,frequent,14.5874,6/27/2007 2:55,6/28/2007 2:50,64350,1035,qcd_225709a_102,-38.1331,146.911
+6278,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,90.01,frequent,14.5919,11/5/1995 17:40,11/6/1995 17:35,70592,1148,qcd_233801_74,-38.5316,143.7189
+6279,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,119.1,frequent,14.6332,4/21/1960 23:55,4/22/1960 23:50,55254,702,qcd_090087,-38.6636,143.4495
+6281,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,107.32,frequent,14.7453,4/17/2002 13:15,4/18/2002 13:10,63877,1025,qcd_224220_74,-37.6779,147.5499
+6282,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,66.85,frequent,15.4177,1/4/1991 14:30,1/5/1991 14:25,70059,1132,qcd_231110_151,-37.8515,144.7127
+6283,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,71.26,frequent,15.7606,4/23/2001 8:35,4/24/2001 8:30,67365,1093,qcd_229619_151,-37.6376,145.1913
+6284,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,85.07,frequent,15.9603,10/21/1995 15:40,10/22/1995 15:35,158,756,qcd_00018_205,-36.3139,148.4806
+6207,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,190.4,intermediate,4.6756,3/21/2011 11:20,3/22/2011 11:15,49407,632,qcd_084040,-37.3721,149.474
+6261,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,130.66,intermediate,8.8622,4/21/1990 4:15,4/22/1990 4:10,64576,1040,qcd_225811a_151,-37.7552,146.1611
+6263,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,75.97,intermediate,13.5928,2/10/1994 14:05,2/11/1994 14:00,69438,1124,qcd_230106_151,-37.7652,144.8957
+6264,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,86.95,intermediate,7.9837,4/21/1901 18:45,4/22/1901 18:40,51505,658,qcd_086071,-37.8075,144.97
+6265,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,91.94,intermediate,13.8938,6/12/1993 4:15,6/13/1993 4:10,64312,1033,qcd_225231_74,-37.9751,146.6263
+6266,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,180.91,intermediate,3.994,10/24/1999 0:50,10/25/1999 0:45,121692,1966,qcd_569001_231,-35.2789,150.0314
+6267,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,107.32,intermediate,4.8043,8/30/1995 23:35,8/31/1995 23:30,150,756,qcd_00018_205,-36.3139,148.4806
+6268,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,96.2,intermediate,12.1993,2/14/2010 13:20,2/15/2010 13:15,44333,576,qcd_071042,-36.6022,148.4677
+6271,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,128.4,intermediate,3.5939,6/22/1998 17:50,6/23/1998 17:45,49822,638,qcd_084125,-37.3811,147.1067
+6272,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,95.88,intermediate,3.3771,2/2/2005 4:15,2/3/2005 4:10,65884,1072,qcd_228378_151,-38.1346,145.1496
+4230,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,205.36,rare,1.408,2/1/1990 4:55,2/2/1990 4:50,55273,702,qcd_090087,-38.6636,143.4495
+6053,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,96.58,rare,2.9171,7/29/1994 18:10,7/30/1994 18:05,70464,1144,qcd_233224a_102,-38.3252,143.8334
+6106,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,195.5,rare,2.4773,4/29/1988 2:15,4/30/1988 2:10,62982,1002,qcd_215008_77,-35.7888,149.6406
+6247,Southern Slopes (mainland),Southern Slopes (mainland),1440,1,132.09,rare,0.7555,2/18/1951 4:35,2/19/1951 4:30,50223,643,qcd_085103,-38.1858,146.3317
+6250,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,117.55,rare,2.3831,1/28/1963 0:15,1/29/1963 0:10,51838,662,qcd_086104,-37.871,145.2561
+6251,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,131.5,rare,3.0529,6/26/1997 15:15,6/27/1997 15:10,122170,1972,qcd_570337_231,-34.8264,149.8567
+6254,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,179.84,rare,2.1442,11/3/2007 20:50,11/4/2007 20:45,64389,1036,qcd_225801_74,-37.85,146.5563
+6255,Southern Slopes (mainland),Southern Slopes (mainland),1440,2,123.88,rare,2.5121,10/23/1985 9:05,10/24/1985 9:00,52778,673,qcd_087017,-37.4701,144.3069
+6256,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,166.59,rare,0.5078,2/2/2005 6:55,2/3/2005 6:50,66654,1085,qcd_229603_151,-37.6458,144.9729
+6258,Southern Slopes (mainland),Southern Slopes (mainland),1440,3,125.95,rare,0.7018,2/5/1973 5:25,2/6/1973 5:20,53707,684,qcd_087105,-37.95,144.6167
+6323,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,80.9,frequent,14.5747,11/21/1988 19:50,11/23/1988 1:45,67179,1091,qcd_229616_151,-37.6012,145.1052
+6324,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,142.56,frequent,15.9347,7/16/2006 6:45,7/17/2006 12:40,70613,1149,qcd_233802_74,-38.6242,143.7311
+6325,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,75.77,frequent,16.6132,7/29/1996 11:50,7/30/1996 17:45,50808,651,qcd_085240,-38.2456,145.9347
+6326,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,92.2,frequent,14.5319,9/14/1993 15:40,9/15/1993 21:35,132311,2083,qcd_587118_151,-37.4175,144.5592
+6327,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,211,frequent,14.6728,8/17/1998 12:10,8/18/1998 18:05,43133,558,qcd_068131,-34.4674,150.8813
+6328,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,83.95,frequent,14.8048,12/15/1991 17:35,12/16/1991 23:30,130526,2046,qcd_586037_151,-37.7777,145.1609
+6329,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,207.88,frequent,15.3945,8/26/1974 23:20,8/28/1974 5:15,43122,558,qcd_068131,-34.4674,150.8813
+6330,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,98.58,frequent,14.64,12/3/2001 11:15,12/4/2001 17:10,64317,1033,qcd_225231_74,-37.9751,146.6263
+6332,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,85.12,frequent,15.6696,1/18/1956 17:55,1/19/1956 23:50,50123,641,qcd_085072,-38.1156,147.1322
+6333,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,72.13,frequent,15.8285,7/8/2005 16:50,7/9/2005 22:45,63425,1012,qcd_222008_77,-36.9045,149.0345
+6239,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,121.64,intermediate,10.8764,5/30/1969 20:20,6/1/1969 2:15,50460,647,qcd_085176,-37.8283,146.18
+6262,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,152.08,intermediate,6.3166,4/21/1990 3:05,4/22/1990 9:00,64576,1040,qcd_225811a_151,-37.7552,146.1611
+6303,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,74.58,intermediate,10.7199,3/21/1983 11:00,3/22/1983 16:55,54722,695,qcd_089019,-37.4043,142.3843
+6305,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,84.79,intermediate,14.393,12/21/2007 14:40,12/22/2007 20:35,131495,2065,qcd_586196_151,-38.3643,145.8189
+6306,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,178.6,intermediate,4.0892,8/10/2010 17:30,8/11/2010 23:25,55239,702,qcd_090087,-38.6636,143.4495
+6307,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,310.63,intermediate,3.5292,7/31/1990 22:05,8/2/1990 4:00,119407,1926,qcd_568086_231,-35.0219,150.4631
+6312,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,420.22,intermediate,6.646,6/10/1991 4:20,6/11/1991 10:15,119080,1921,qcd_568078_231,-34.7042,150.6267
+6316,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,122.8,intermediate,8.4694,3/26/2000 7:40,3/27/2000 13:35,51098,655,qcd_085278,-37.7196,146.3888
+6321,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,207.71,intermediate,10.9246,2/9/1992 7:25,2/10/1992 13:20,119858,1934,qcd_568132_231,-34.7761,150.3739
+6322,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,91.42,intermediate,9.3823,4/23/2001 7:30,4/24/2001 13:25,67175,1091,qcd_229616_151,-37.6012,145.1052
+6076,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,604.45,rare,1.3202,2/9/1992 3:05,2/10/1992 9:00,119017,1920,qcd_568076_231,-34.6967,150.6894
+6159,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,196.51,rare,0.5912,4/20/1990 15:20,4/21/1990 21:15,50002,640,qcd_085034,-37.9085,146.8046
+6248,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,145.38,rare,0.6966,2/18/1951 4:10,2/19/1951 10:05,50223,643,qcd_085103,-38.1858,146.3317
+6252,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,162.38,rare,1.6526,6/26/1997 5:35,6/27/1997 11:30,122170,1972,qcd_570337_231,-34.8264,149.8567
+6285,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,173.03,rare,0.1291,2/5/1973 3:00,2/6/1973 8:55,53148,677,qcd_087033,-37.991,144.4943
+6289,Southern Slopes (mainland),Southern Slopes (mainland),1800,1,263.57,rare,0.2049,6/27/2007 5:15,6/28/2007 11:10,64493,1039,qcd_225810_74,-37.5421,147.0126
+6296,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,128.77,rare,2.3048,11/29/1934 16:15,11/30/1934 22:10,51788,661,qcd_086096,-37.7214,145.0059
+6297,Southern Slopes (mainland),Southern Slopes (mainland),1800,2,321.24,rare,1.161,6/20/1975 16:00,6/21/1975 21:55,43202,560,qcd_068203,-35.085,150.23
+6298,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,237.81,rare,1.0227,2/1/1990 4:35,2/2/1990 10:30,55263,702,qcd_090087,-38.6636,143.4495
+6302,Southern Slopes (mainland),Southern Slopes (mainland),1800,3,158.31,rare,0.7062,2/2/2005 1:55,2/3/2005 7:50,69913,1130,qcd_231106_151,-37.6395,144.6563
+6331,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,105.34,frequent,14.5425,12/3/2001 11:15,12/4/2001 23:10,64317,1033,qcd_225231_74,-37.9751,146.6263
+6351,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,71.8,frequent,14.6469,4/22/2001 2:35,4/23/2001 14:30,135028,2156,qcd_bw036_13,-38.0315,144.4043
+6352,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,70.85,frequent,15.9143,10/22/1985 21:05,10/24/1985 9:00,54719,695,qcd_089019,-37.4043,142.3843
+6353,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,74.42,frequent,17.2749,4/21/1960 16:55,4/23/1960 4:50,52625,671,qcd_086314,-38.1992,145.4933
+6355,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,92.46,frequent,14.5449,9/19/1959 7:00,9/20/1959 18:55,51598,659,qcd_086074,-37.8219,145.1906
+6356,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,143.71,frequent,14.5797,6/28/1980 1:25,6/29/1980 13:20,55089,701,qcd_090083,-38.6357,143.5127
+6357,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,120.46,frequent,14.931,9/15/1957 13:35,9/17/1957 1:30,52064,665,qcd_086219,-37.6886,145.5644
+6358,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,85.88,frequent,14.8124,1889-01-01 21:05:00,1889-01-03 09:00:00,51485,658,qcd_086071,-37.8075,144.97
+6359,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,88.38,frequent,14.8908,12/26/1993 10:15,12/27/1993 22:10,130260,2041,qcd_586011_151,-37.7216,145.0057
+6360,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,85.96,frequent,15.1071,12/26/1999 18:00,12/28/1999 5:55,69547,1125,qcd_230107_151,-37.5284,144.8557
+6225,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,115.22,intermediate,6.7853,7/28/1984 9:25,7/29/1984 21:20,50570,648,qcd_085227,-38.5215,146.2041
+6334,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,78.34,intermediate,14.1419,7/8/2005 13:20,7/10/2005 1:15,63425,1012,qcd_222008_77,-36.9045,149.0345
+6340,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,96.71,intermediate,9.562,11/21/1988 22:05,11/23/1988 10:00,131069,2055,qcd_586146_151,-37.4206,144.9825
+6341,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,136.98,intermediate,8.7255,12/25/1968 21:05,12/27/1968 9:00,50465,647,qcd_085176,-37.8283,146.18
+6343,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,166.06,intermediate,13.9617,4/5/1985 5:45,4/6/1985 17:40,49684,636,qcd_084122,-37.4772,149.6386
+6344,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,120.78,intermediate,3.2679,3/26/1902 13:55,3/28/1902 1:50,51486,658,qcd_086071,-37.8075,144.97
+6346,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,75.05,intermediate,13.7435,2/15/1972 15:35,2/17/1972 3:30,53708,684,qcd_087105,-37.95,144.6167
+6347,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,114.71,intermediate,5.3256,2/25/1939 9:10,2/26/1939 21:05,51802,661,qcd_086096,-37.7214,145.0059
+6348,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,132.91,intermediate,4.3707,11/6/1971 19:00,11/8/1971 6:55,51217,657,qcd_086070,-37.639,145.5497
+6350,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,90.6,intermediate,4.4886,11/2/2007 22:40,11/4/2007 10:35,55344,703,qcd_090135,-37.5908,141.4129
+4216,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,334.1,rare,0.4366,4/21/2001 12:45,4/23/2001 0:40,70617,1149,qcd_233802_74,-38.6242,143.7311
+6077,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,660.32,rare,1.2663,2/8/1992 22:55,2/10/1992 10:50,119017,1920,qcd_568076_231,-34.6967,150.6894
+6107,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,248.97,rare,2.1349,4/28/1988 21:10,4/30/1988 9:05,62982,1002,qcd_215008_77,-35.7888,149.6406
+6160,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,210.63,rare,0.5084,4/20/1990 14:25,4/22/1990 2:20,50002,640,qcd_085034,-37.9085,146.8046
+6253,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,178.1,rare,1.4792,6/26/1997 5:05,6/27/1997 17:00,122170,1972,qcd_570337_231,-34.8264,149.8567
+6290,Southern Slopes (mainland),Southern Slopes (mainland),2160,1,287.65,rare,0.1788,6/27/2007 2:05,6/28/2007 14:00,64493,1039,qcd_225810_74,-37.5421,147.0126
+6335,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,292.22,rare,1.3612,6/2/1978 4:55,6/3/1978 16:50,49681,636,qcd_084122,-37.4772,149.6386
+6336,Southern Slopes (mainland),Southern Slopes (mainland),2160,2,342.18,rare,2.2117,3/18/1978 17:35,3/20/1978 5:30,43161,559,qcd_068195,-34.6368,150.4026
+6338,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,117.88,rare,2.7095,2/4/1973 21:10,2/6/1973 9:05,52982,675,qcd_087031,-37.8565,144.7566
+6339,Southern Slopes (mainland),Southern Slopes (mainland),2160,3,110.3,rare,2.0962,2/1/2005 21:15,2/3/2005 9:10,135129,2160,qcd_bw390a_13,-38.2851,144.4129
+6354,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,84.33,frequent,14.6584,4/20/1960 14:00,4/22/1960 13:55,52625,671,qcd_086314,-38.1992,145.4933
+6372,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,146.42,frequent,15.0102,1/19/2008 17:20,1/21/2008 17:15,64494,1039,qcd_225810_74,-37.5421,147.0126
+6373,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,86.21,frequent,15.0838,4/22/2001 1:20,4/24/2001 1:15,65935,1074,qcd_228381_151,-38.013,145.19
+6374,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,87.57,frequent,17.3812,10/23/2000 10:35,10/25/2000 10:30,131980,2077,qcd_587024_151,-37.7927,144.8962
+6375,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,98.85,frequent,14.4818,11/6/1971 8:20,11/8/1971 8:15,52498,670,qcd_086282,-37.6655,144.8321
+6376,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,93.57,frequent,15.7648,12/26/1999 6:40,12/28/1999 6:35,66949,1088,qcd_229613_151,-37.6491,145.0341
+6377,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,91.3,frequent,15.9161,10/14/1983 15:35,10/16/1983 15:30,69541,1125,qcd_230107_151,-37.5284,144.8557
+6378,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,144.93,frequent,16.5028,4/25/1990 8:05,4/27/1990 8:00,64580,1040,qcd_225811a_151,-37.7552,146.1611
+6379,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,98.09,frequent,14.4693,12/12/2008 11:10,12/14/2008 11:05,69287,1122,qcd_230104_151,-37.5833,144.7423
+6380,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,97.72,frequent,14.9076,12/25/1993 23:35,12/27/1993 23:30,130533,2046,qcd_586037_151,-37.7777,145.1609
+6223,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,199.94,intermediate,5.0289,9/17/1984 7:45,9/19/1984 7:40,55258,702,qcd_090087,-38.6636,143.4495
+6240,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,157.09,intermediate,7.2375,5/30/1969 2:45,6/1/1969 2:40,50460,647,qcd_085176,-37.8283,146.18
+6304,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,108.54,intermediate,3.368,3/21/1983 10:40,3/23/1983 10:35,54722,695,qcd_089019,-37.4043,142.3843
+6317,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,160.4,intermediate,5.023,3/25/2000 12:25,3/27/2000 12:20,51098,655,qcd_085278,-37.7196,146.3888
+6342,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,160.74,intermediate,6.5244,12/25/1968 18:50,12/27/1968 18:45,50465,647,qcd_085176,-37.8283,146.18
+6361,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,100.82,intermediate,11.5047,12/26/1999 6:00,12/28/1999 5:55,69547,1125,qcd_230107_151,-37.5284,144.8557
+6367,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,128.57,intermediate,7.3041,12/4/1995 12:30,12/6/1995 12:25,155,756,qcd_00018_205,-36.3139,148.4806
+6368,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,161.09,intermediate,12.0571,5/24/1974 23:55,5/26/1974 23:50,43298,562,qcd_069049,-35.1165,150.0847
+6369,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,206.34,intermediate,5.0674,2/1/1990 0:05,2/3/1990 0:00,55099,701,qcd_090083,-38.6357,143.5127
+6371,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,99.67,intermediate,11.6615,12/25/1993 23:20,12/27/1993 23:15,68602,1112,qcd_229670_151,-37.872,144.9747
+4217,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,387.36,rare,0.2915,4/21/2001 10:50,4/23/2001 10:45,70617,1149,qcd_233802_74,-38.6242,143.7311
+6054,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,149.2,rare,0.8678,7/29/1994 18:10,7/31/1994 18:05,70464,1144,qcd_233224a_102,-38.3252,143.8334
+6100,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,441,rare,0.9103,6/10/1991 3:35,6/12/1991 3:30,121070,1953,qcd_568172_233,-34.3319,150.9134
+6108,Southern Slopes (mainland),Southern Slopes (mainland),2880,1,302.4,rare,1.5604,4/28/1988 21:10,4/30/1988 21:05,62982,1002,qcd_215008_77,-35.7888,149.6406
+6286,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,201.32,rare,0.1107,2/4/1973 9:00,2/6/1973 8:55,53148,677,qcd_087033,-37.991,144.4943
+6291,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,319.71,rare,0.1743,6/26/2007 22:05,6/28/2007 22:00,64493,1039,qcd_225810_74,-37.5421,147.0126
+6308,Southern Slopes (mainland),Southern Slopes (mainland),2880,2,385.27,rare,3.1841,7/31/1990 10:35,8/2/1990 10:30,119407,1926,qcd_568086_231,-35.0219,150.4631
+6349,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,161.54,rare,2.8118,11/6/1971 8:20,11/8/1971 8:15,51217,657,qcd_086070,-37.639,145.5497
+6362,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,136.59,rare,2.7351,4/21/1960 5:05,4/23/1960 5:00,51513,658,qcd_086071,-37.8075,144.97
+6365,Southern Slopes (mainland),Southern Slopes (mainland),2880,3,545.42,rare,0.144,3/19/1978 2:25,3/21/1978 2:20,43210,560,qcd_068203,-35.085,150.23
+6402,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,105.77,frequent,14.6374,12/15/1991 17:35,12/18/1991 17:30,68460,1109,qcd_229660_151,-37.8928,145.002
+6403,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,118.08,frequent,17.0284,3/19/1970 8:25,3/22/1970 8:20,53542,681,qcd_087075,-37.4964,144.5028
+6405,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,117.37,frequent,20.5477,12/13/1998 1:00,12/16/1998 0:55,64322,1033,qcd_225231_74,-37.9751,146.6263
+6406,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,107.05,frequent,14.8167,11/21/1988 20:30,11/24/1988 20:25,52500,670,qcd_086282,-37.6655,144.8321
+6407,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,100.32,frequent,15.3975,5/27/2000 14:25,5/30/2000 14:20,65517,1066,qcd_228365_151,-38.0636,145.4218
+6411,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,187.77,frequent,15.8438,6/8/1995 18:15,6/11/1995 18:10,300,760,qcd_00052_205,-36.3778,148.3722
+6412,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,116.24,frequent,16.0436,7/25/1977 11:25,7/28/1977 11:20,50576,648,qcd_085227,-38.5215,146.2041
+6413,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,102.03,frequent,15.1839,4/21/2001 14:25,4/24/2001 14:20,66200,1079,qcd_229143_151,-37.787,145.0258
+6414,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,96.24,frequent,15.6809,12/19/2007 21:15,12/22/2007 21:10,65151,1059,qcd_228213_151,-38.1285,145.6858
+6415,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,97.4,frequent,16.0391,1/11/2011 10:35,1/14/2011 10:30,53324,679,qcd_087039,-37.6649,144.5748
+6241,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,205.77,intermediate,3.3654,5/29/1969 16:40,6/1/1969 16:35,50460,647,qcd_085176,-37.8283,146.18
+6275,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,119.78,intermediate,4.6403,11/21/1988 22:10,11/24/1988 22:05,69008,1119,qcd_230100_151,-37.4101,144.9024
+6313,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,649.31,intermediate,4.1271,6/9/1991 7:20,6/12/1991 7:15,119080,1921,qcd_568078_231,-34.7042,150.6267
+6370,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,229.93,intermediate,4.8091,2/1/1990 2:20,2/4/1990 2:15,55099,701,qcd_090083,-38.6357,143.5127
+6393,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,100.52,intermediate,11.1901,5/13/1960 16:45,5/16/1960 16:40,50236,643,qcd_085103,-38.1858,146.3317
+6394,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,313.22,intermediate,11.162,3/18/1978 9:05,3/21/1978 9:00,43127,558,qcd_068131,-34.4674,150.8813
+6395,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,148.96,intermediate,14.4074,6/27/1980 12:15,6/30/1980 12:10,50463,647,qcd_085176,-37.8283,146.18
+6396,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,372,intermediate,5.8451,8/15/1998 21:25,8/18/1998 21:20,121113,1954,qcd_568173_233,-34.483,150.8473
+6398,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,143.64,intermediate,9.674,9/18/1959 4:55,9/21/1959 4:50,50726,650,qcd_085237,-37.8833,146
+6401,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,166.2,intermediate,3.594,1/11/2011 10:05,1/14/2011 10:00,52790,673,qcd_087017,-37.4701,144.3069
+4218,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,493.89,rare,0.0715,4/21/2001 4:15,4/24/2001 4:10,70617,1149,qcd_233802_74,-38.6242,143.7311
+4231,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,332.86,rare,0.6014,2/1/1990 3:00,2/4/1990 2:55,55273,702,qcd_090087,-38.6636,143.4495
+6243,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,149.6,rare,1.8298,1/11/2011 9:25,1/14/2011 9:20,54957,699,qcd_089111,-37.5174,143.7791
+6309,Southern Slopes (mainland),Southern Slopes (mainland),4320,1,450.75,rare,2.8302,7/31/1990 18:20,8/3/1990 18:15,119407,1926,qcd_568086_231,-35.0219,150.4631
+6318,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,214,rare,1.9888,3/24/2000 15:10,3/27/2000 15:05,51098,655,qcd_085278,-37.7196,146.3888
+6363,Southern Slopes (mainland),Southern Slopes (mainland),4320,3,171.72,rare,1.3534,4/20/1960 10:10,4/23/1960 10:05,51513,658,qcd_086071,-37.8075,144.97
+6382,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,487.5,rare,1.9253,6/9/1991 6:40,6/12/1991 6:35,121007,1952,qcd_568171_233,-34.5703,150.7684
+6388,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,137.35,rare,3.033,3/19/1970 8:20,3/22/1970 8:15,52618,671,qcd_086314,-38.1992,145.4933
+6389,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,224.15,rare,1.9271,3/18/1978 20:10,3/21/1978 20:05,43578,567,qcd_070012,-34.8996,149.9709
+6391,Southern Slopes (mainland),Southern Slopes (mainland),4320,2,432.5,rare,2.8611,8/15/1998 21:40,8/18/1998 21:35,121271,1958,qcd_568185_233,-34.479,150.7584
+6425,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,89.07,frequent,23.3341,9/15/1957 7:20,9/19/1957 7:15,50238,643,qcd_085103,-38.1858,146.3317
+6426,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,134.8,frequent,24.0299,10/2/1966 12:35,10/6/1966 12:30,49494,633,qcd_084078,-37.7513,147.7301
+6428,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,237.46,frequent,24.6545,10/15/1976 16:15,10/19/1976 16:10,43169,559,qcd_068195,-34.6368,150.4026
+6429,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,306,frequent,15.031,5/12/2003 14:50,5/16/2003 14:45,120049,1937,qcd_568136_233,-34.4409,150.8974
+6430,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,431.2,frequent,15.2736,8/15/1998 17:25,8/19/1998 17:20,43040,557,qcd_068117,-34.59,150.6085
+6431,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,119.98,frequent,16.2765,12/14/1991 14:55,12/18/1991 14:50,132333,2083,qcd_587118_151,-37.4175,144.5592
+6432,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,190.29,frequent,19.3114,2/21/1977 13:55,2/25/1977 13:50,62998,1002,qcd_215008_77,-35.7888,149.6406
+6433,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,108.71,frequent,16.2757,11/5/1954 20:20,11/9/1954 20:15,51806,661,qcd_086096,-37.7214,145.0059
+6434,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,104.04,frequent,16.4155,10/19/1995 13:50,10/23/1995 13:45,69923,1130,qcd_231106_151,-37.6395,144.6563
+6435,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,90.39,frequent,19.9266,3/19/1941 0:30,3/23/1941 0:25,50169,642,qcd_085098,-38.2,146.4
+6280,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,230.97,intermediate,5.4989,4/19/1960 18:10,4/23/1960 18:05,55254,702,qcd_090087,-38.6636,143.4495
+6314,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,725.38,intermediate,3.4769,6/8/1991 5:25,6/12/1991 5:20,119080,1921,qcd_568078_231,-34.7042,150.6267
+6397,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,421.5,intermediate,4.6438,8/15/1998 18:00,8/19/1998 17:55,121113,1954,qcd_568173_233,-34.483,150.8473
+6408,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,114.73,intermediate,11.7715,5/27/2000 13:50,5/31/2000 13:45,65517,1066,qcd_228365_151,-38.0636,145.4218
+6418,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,110.7,intermediate,14.2267,6/5/1995 16:55,6/9/1995 16:50,69655,1126,qcd_230108_151,-37.2543,144.6868
+6419,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,181.42,intermediate,11.2715,10/2/1966 20:45,10/6/1966 20:40,49259,629,qcd_084005,-37.5035,148.1692
+6421,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,262.45,intermediate,12.6493,4/18/1964 18:45,4/22/1964 18:40,43217,560,qcd_068203,-35.085,150.23
+6422,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,164.4,intermediate,10.9546,7/24/1977 16:45,7/28/1977 16:40,50293,644,qcd_085106,-38.4861,146.3233
+6423,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,111.51,intermediate,12.9528,12/15/1991 4:45,12/19/1991 4:40,67087,1090,qcd_229615_151,-37.6863,145.1023
+6424,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,101.89,intermediate,10.6651,4/19/1980 10:50,4/23/1980 10:45,55474,704,qcd_090153,-38.255,143.1256
+2621,Southern Slopes (mainland),Murray Basin,5760,2,183.8,rare,0.6736,1/10/2011 6:55,1/14/2011 6:50,47356,609,qcd_081038,-36.9422,143.4711
+2685,Southern Slopes (mainland),Murray Basin,5760,2,207.04,rare,0.6667,3/11/1989 12:50,3/15/1989 12:45,124956,2001,qcd_570904_75,-35.1615,149.1343
+4219,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,510.64,rare,0.0598,4/21/2001 0:05,4/25/2001 0:00,70617,1149,qcd_233802_74,-38.6242,143.7311
+4232,Southern Slopes (mainland),Southern Slopes (mainland),5760,1,348.56,rare,0.5206,1/31/1990 17:55,2/4/1990 17:50,55273,702,qcd_090087,-38.6636,143.4495
+6244,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,178,rare,0.926,1/10/2011 8:00,1/14/2011 7:55,54957,699,qcd_089111,-37.5174,143.7791
+6319,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,268.6,rare,0.7305,3/24/2000 7:55,3/28/2000 7:50,51098,655,qcd_085278,-37.7196,146.3888
+6383,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,583,rare,1.0505,6/8/1991 5:05,6/12/1991 5:00,121007,1952,qcd_568171_233,-34.5703,150.7684
+6392,Southern Slopes (mainland),Southern Slopes (mainland),5760,2,485.5,rare,2.1465,8/15/1998 18:40,8/19/1998 18:35,121271,1958,qcd_568185_233,-34.479,150.7584
+6416,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,219.26,rare,3.1745,7/25/1977 16:00,7/29/1977 15:55,50471,647,qcd_085176,-37.8283,146.18
+6417,Southern Slopes (mainland),Southern Slopes (mainland),5760,3,137.13,rare,3.1616,2/2/1973 9:55,2/6/1973 9:50,53740,685,qcd_087107,-37.9333,144.75
+6427,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,151.04,frequent,17.5399,10/2/1966 12:35,10/7/1966 12:30,49494,633,qcd_084078,-37.7513,147.7301
+6460,Southern Slopes (mainland),Southern Slopes (mainland),7200,1,103.14,frequent,23.9866,3/18/1970 18:15,3/23/1970 18:10,50132,641,qcd_085072,-38.1156,147.1322
+6461,Southern Slopes (mainland),Southern Slopes (mainland),7200,1,366.25,frequent,27.1009,3/19/1963 1:50,3/24/1963 1:45,43044,557,qcd_068117,-34.59,150.6085
+6462,Southern Slopes (mainland),Southern Slopes (mainland),7200,1,121.96,frequent,30.3373,5/23/1974 14:30,5/28/1974 14:25,49334,630,qcd_084015,-37.3757,147.8373
+6463,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,316,frequent,14.4971,5/12/2003 11:35,5/17/2003 11:30,121114,1954,qcd_568173_233,-34.483,150.8473
+6464,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,98.91,frequent,16.2042,3/18/1941 1:55,3/23/1941 1:50,50170,642,qcd_085098,-38.2,146.4
+6465,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,140.27,frequent,17.4779,11/2/2004 14:15,11/7/2004 14:10,68741,1114,qcd_229690_151,-37.7958,145.3759
+6467,Southern Slopes (mainland),Southern Slopes (mainland),7200,3,99.32,frequent,15.6267,2/12/1972 16:40,2/17/1972 16:35,52309,668,qcd_086245,-38.1167,145.1797
+6468,Southern Slopes (mainland),Southern Slopes (mainland),7200,3,124.6,frequent,21.2975,8/16/2001 12:35,8/21/2001 12:30,50577,648,qcd_085227,-38.5215,146.2041
+6470,Southern Slopes (mainland),Southern Slopes (mainland),7200,3,100.52,frequent,22.141,1893-05-27 14:10:00,1893-06-01 14:05:00,51528,658,qcd_086071,-37.8075,144.97
+2765,Southern Slopes (mainland),Murray Basin,7200,2,209.12,intermediate,3.521,4/13/1956 19:00,4/18/1956 18:55,49002,625,qcd_083033,-37.5696,146.2541
+4290,Southern Slopes (mainland),Murray Basin,7200,2,130.07,intermediate,3.7336,4/6/1974 13:35,4/11/1974 13:30,45462,587,qcd_074114,-35.1311,147.3091
+6409,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,122.56,intermediate,10.276,5/26/2000 12:05,5/31/2000 12:00,65517,1066,qcd_228365_151,-38.0636,145.4218
+6420,Southern Slopes (mainland),Southern Slopes (mainland),7200,1,196.69,intermediate,9.1753,10/2/1966 12:55,10/7/1966 12:50,49259,629,qcd_084005,-37.5035,148.1692
+6452,Southern Slopes (mainland),Southern Slopes (mainland),7200,1,374,intermediate,10.4246,5/12/2003 12:30,5/17/2003 12:25,120870,1950,qcd_568169_233,-34.4763,150.9065
+6453,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,126.04,intermediate,10.2993,7/24/1977 9:05,7/29/1977 9:00,50829,651,qcd_085240,-38.2456,145.9347
+6454,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,259.63,intermediate,13.7753,7/7/2001 2:40,7/12/2001 2:35,63159,1006,qcd_219033_77,-36.5703,149.4554
+6456,Southern Slopes (mainland),Southern Slopes (mainland),7200,2,127.01,intermediate,5.7207,3/18/1970 17:15,3/23/1970 17:10,52307,668,qcd_086245,-38.1167,145.1797
+6457,Southern Slopes (mainland),Southern Slopes (mainland),7200,3,526.5,intermediate,8.8561,6/7/1991 4:40,6/12/1991 4:35,120635,1945,qcd_568162_233,-34.3928,150.8703
+6458,Southern Slopes (mainland),Southern Slopes (mainland),7200,3,387.68,intermediate,7.8804,6/7/1964 15:20,6/12/1964 15:15,43135,558,qcd_068131,-34.4674,150.8813
+2643,Southern Slopes (mainland),Murray Basin,7200,1,253.98,rare,0.3154,3/17/1950 17:15,3/22/1950 17:10,43871,569,qcd_070015,-35.3,149.1
+2653,Southern Slopes (mainland),Murray Basin,7200,2,149.62,rare,2.0758,4/6/1974 15:15,4/11/1974 15:10,44947,582,qcd_072150,-35.1583,147.4575
+2689,Southern Slopes (mainland),Murray Basin,7200,2,196.74,rare,1.2694,3/10/1989 15:10,3/15/1989 15:05,129600,2032,qcd_570987_75,-35.2142,149.0939
+2692,Southern Slopes (mainland),Murray Basin,7200,2,195.72,rare,1.4396,3/10/1989 14:40,3/15/1989 14:35,130088,2037,qcd_570996_75,-35.2247,149.065
+2717,Southern Slopes (mainland),Murray Basin,7200,3,214.32,rare,1.8714,6/6/1995 4:35,6/11/1995 4:30,71855,1177,qcd_403233_74,-36.7215,146.882
+2727,Southern Slopes (mainland),Murray Basin,7200,1,140.27,rare,2.6136,7/12/1964 0:35,7/17/1964 0:30,44669,579,qcd_072060,-36.2254,148.1431
+4233,Southern Slopes (mainland),Southern Slopes (mainland),7200,1,353.5,rare,0.5181,1/31/1990 18:00,2/5/1990 17:55,55273,702,qcd_090087,-38.6636,143.4495
+6384,Southern Slopes (mainland),Southern Slopes (mainland),7200,3,669,rare,0.5913,6/7/1991 1:35,6/12/1991 1:30,121007,1952,qcd_568171_233,-34.5703,150.7684
+6436,Southern Slopes (mainland),Southern Slopes (Tasmania),7200,2,237.6,rare,2.1068,5/15/1975 15:45,5/20/1975 15:40,56947,745,qcd_097008,-42.0661,145.5681
+6447,Southern Slopes (mainland),Southern Slopes (Tasmania),7200,3,195.4,rare,2.3679,9/9/2005 5:10,9/14/2005 5:05,56303,736,qcd_094157,-43.1639,147.8333
+6466,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,149.49,frequent,14.8641,11/2/2004 6:50,11/8/2004 6:45,68741,1114,qcd_229690_151,-37.7958,145.3759
+6475,Southern Slopes (mainland),Southern Slopes (mainland),8640,1,129.67,frequent,30.4034,6/13/1978 6:50,6/19/1978 6:45,49504,633,qcd_084078,-37.7513,147.7301
+6476,Southern Slopes (mainland),Southern Slopes (mainland),8640,1,126.71,frequent,31.5488,10/25/1989 6:10,10/31/1989 6:05,68895,1117,qcd_229808_74,-37.8216,145.6485
+6477,Southern Slopes (mainland),Southern Slopes (mainland),8640,1,86.2,frequent,33.208,8/5/1941 19:15,8/11/1941 19:10,50173,642,qcd_085098,-38.2,146.4
+6479,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,232.11,frequent,22.9697,3/18/1963 15:45,3/24/1963 15:40,43224,560,qcd_068203,-35.085,150.23
+6480,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,120.6,frequent,23.5875,8/16/2001 13:25,8/22/2001 13:20,131497,2065,qcd_586196_151,-38.3643,145.8189
+6481,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,180.52,frequent,30.2055,7/16/1974 13:15,7/22/1974 13:10,55116,701,qcd_090083,-38.6357,143.5127
+6482,Southern Slopes (mainland),Southern Slopes (mainland),8640,3,128.89,frequent,14.6781,4/15/1935 5:55,4/21/1935 5:50,53245,678,qcd_087036,-37.4155,144.5569
+6483,Southern Slopes (mainland),Southern Slopes (mainland),8640,3,113.75,frequent,14.7749,1880-09-06 17:45:00,1880-09-12 17:40:00,51544,658,qcd_086071,-37.8075,144.97
+6485,Southern Slopes (mainland),Southern Slopes (mainland),8640,3,114.17,frequent,15.062,2/11/1972 15:05,2/17/1972 15:00,52507,670,qcd_086282,-37.6655,144.8321
+2814,Southern Slopes (mainland),Murray Basin,8640,3,146.78,intermediate,3.4623,4/6/1974 16:40,4/12/1974 16:35,44816,581,qcd_072099,-35.9111,148.2167
+6381,Southern Slopes (mainland),Southern Slopes (mainland),8640,3,123.53,intermediate,13.4291,12/22/1993 8:25,12/28/1993 8:20,130533,2046,qcd_586037_151,-37.7777,145.1609
+6404,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,151.61,intermediate,8.7935,3/18/1970 18:15,3/24/1970 18:10,53542,681,qcd_087075,-37.4964,144.5028
+6410,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,124.97,intermediate,10.0585,5/26/2000 9:55,6/1/2000 9:50,65517,1066,qcd_228365_151,-38.0636,145.4218
+6455,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,278.29,intermediate,11.5906,7/6/2001 12:05,7/12/2001 12:00,63159,1006,qcd_219033_77,-36.5703,149.4554
+6459,Southern Slopes (mainland),Southern Slopes (mainland),8640,3,402.61,intermediate,7.5088,6/6/1964 16:30,6/12/1964 16:25,43135,558,qcd_068131,-34.4674,150.8813
+6469,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,144.8,intermediate,13.1326,8/16/2001 12:35,8/22/2001 12:30,50577,648,qcd_085227,-38.5215,146.2041
+6471,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,123.52,intermediate,13.8942,7/14/1964 12:35,7/20/1964 12:30,50832,651,qcd_085240,-38.2456,145.9347
+6472,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,110.56,intermediate,4.8993,11/10/1970 9:35,11/16/1970 9:30,54624,694,qcd_089016,-37.711,142.8395
+6474,Southern Slopes (mainland),Southern Slopes (mainland),8640,3,117.09,intermediate,13.3226,2/11/1972 15:10,2/17/1972 15:05,51169,656,qcd_086038,-37.7276,144.9066
+2294,Southern Slopes (mainland),Central Slopes,8640,3,1132.21,rare,0.0056,4/30/1996 15:45,5/6/1996 15:40,110846,1782,qcd_540007_66,-28.2356,152.48
+2453,Southern Slopes (mainland),Central Slopes,8640,2,263.76,rare,0.9649,4/30/1996 16:40,5/6/1996 16:35,29867,394,qcd_041060,-28.0092,151.5861
+2654,Southern Slopes (mainland),Murray Basin,8640,2,154.36,rare,2.0622,4/6/1974 15:15,4/12/1974 15:10,44947,582,qcd_072150,-35.1583,147.4575
+2718,Southern Slopes (mainland),Murray Basin,8640,2,233.71,rare,1.2001,6/6/1995 2:45,6/12/1995 2:40,71855,1177,qcd_403233_74,-36.7215,146.882
+2728,Southern Slopes (mainland),Murray Basin,8640,2,146.31,rare,2.2048,7/10/1964 23:15,7/16/1964 23:10,44669,579,qcd_072060,-36.2254,148.1431
+2766,Southern Slopes (mainland),Murray Basin,8640,2,230.68,rare,2.4381,4/13/1956 19:00,4/19/1956 18:55,49002,625,qcd_083033,-37.5696,146.2541
+4234,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,369.44,rare,0.4239,1/31/1990 17:55,2/6/1990 17:50,55273,702,qcd_090087,-38.6636,143.4495
+4304,Southern Slopes (mainland),Southern Slopes (mainland),8640,2,639.58,rare,1.0276,6/6/1991 20:25,6/12/1991 20:20,119416,1926,qcd_568086_231,-35.0219,150.4631
+4322,Southern Slopes (mainland),Southern Slopes (mainland),8640,1,168.82,rare,2.8908,6/28/1980 19:35,7/4/1980 19:30,50834,651,qcd_085240,-38.2456,145.9347
+6437,Southern Slopes (mainland),Southern Slopes (Tasmania),8640,2,259.61,rare,1.839,5/14/1975 17:05,5/20/1975 17:00,56947,745,qcd_097008,-42.0661,145.5681
+6478,Southern Slopes (mainland),Southern Slopes (mainland),10080,1,96.64,frequent,22.4538,8/4/1941 20:40,8/11/1941 20:35,50173,642,qcd_085098,-38.2,146.4
+6502,Southern Slopes (mainland),Southern Slopes (mainland),10080,1,132.81,frequent,17.5676,7/23/2003 10:00,7/30/2003 9:55,131499,2065,qcd_586196_151,-38.3643,145.8189
+6503,Southern Slopes (mainland),Southern Slopes (mainland),10080,1,103.13,frequent,22.5859,4/14/1935 2:30,4/21/1935 2:25,51809,661,qcd_086096,-37.7214,145.0059
+6504,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,114.92,frequent,14.4811,11/1/2004 17:25,11/8/2004 17:20,130488,2045,qcd_586036_151,-37.9374,145.0146
+6505,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,161.49,frequent,17.2745,3/16/2001 21:25,3/23/2001 21:20,131287,2059,qcd_586178_151,-37.7638,145.6994
+6506,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,112.25,frequent,27.655,4/15/1965 21:10,4/22/1965 21:05,50680,649,qcd_085236,-38.3181,146.5645
+6507,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,196.17,frequent,27.7393,8/5/1978 16:40,8/12/1978 16:35,55120,701,qcd_090083,-38.6357,143.5127
+6508,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,127.48,frequent,15.3421,12/22/1993 3:05,12/29/1993 3:00,66378,1082,qcd_229249_151,-37.7823,145.3065
+6509,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,107.97,frequent,16.2887,10/18/2000 22:30,10/25/2000 22:25,69926,1130,qcd_231106_151,-37.6395,144.6563
+6510,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,213.9,frequent,16.439,11/1/1953 21:15,11/8/1953 21:10,55276,702,qcd_090087,-38.6636,143.4495
+2860,Southern Slopes (mainland),Murray Basin,10080,2,155.81,intermediate,3.7281,1/30/1973 12:10,2/6/1973 12:05,54011,687,qcd_088023,-37.2313,145.9124
+6269,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,175.4,intermediate,10.0381,2/8/2010 17:55,2/15/2010 17:50,44333,576,qcd_071042,-36.6022,148.4677
+6399,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,187.22,intermediate,4.6353,9/14/1959 4:35,9/21/1959 4:30,50726,650,qcd_085237,-37.8833,146
+6484,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,123.17,intermediate,11.1417,1880-09-06 08:00:00,1880-09-13 07:55:00,51544,658,qcd_086071,-37.8075,144.97
+6493,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,165.89,intermediate,5.6126,1/30/1973 17:00,2/6/1973 16:55,52258,667,qcd_086234,-37.7869,145.2847
+6495,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,188.1,intermediate,10.5631,7/13/1964 19:00,7/20/1964 18:55,50486,647,qcd_085176,-37.8283,146.18
+6496,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,122.74,intermediate,11.5891,4/14/1935 19:05,4/21/1935 19:00,53424,680,qcd_087061,-37.5706,144.7411
+6497,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,166.02,intermediate,9.8344,12/22/1993 9:20,12/29/1993 9:15,68743,1114,qcd_229690_151,-37.7958,145.3759
+6499,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,196.54,intermediate,8.3455,8/1/1976 4:20,8/8/1976 4:15,50492,647,qcd_085176,-37.8283,146.18
+6501,Southern Slopes (mainland),Southern Slopes (mainland),10080,3,113.6,intermediate,13.6579,10/18/2000 19:55,10/25/2000 19:50,69556,1125,qcd_230107_151,-37.5284,144.8557
+2614,Southern Slopes (mainland),Central Slopes,10080,3,228.48,rare,1.156,1/10/2004 8:15,1/17/2004 8:10,75703,1274,qcd_419016_77,-31.0598,151.1265
+2729,Southern Slopes (mainland),Murray Basin,10080,1,154.5,rare,1.5358,7/10/1964 13:55,7/17/1964 13:50,44669,579,qcd_072060,-36.2254,148.1431
+2784,Southern Slopes (mainland),Central Slopes,10080,3,196.6,rare,2.3513,1/10/2004 13:45,1/17/2004 13:40,34484,453,qcd_055136,-30.9672,151.3451
+2827,Southern Slopes (mainland),Central Slopes,10080,3,208.66,rare,1.5541,3/8/1956 21:30,3/15/1956 21:25,40642,527,qcd_062026,-32.8079,149.977
+2831,Southern Slopes (mainland),Murray Basin,10080,3,215.74,rare,2.7843,5/23/1999 19:40,5/30/1999 19:35,71509,1170,qcd_403205_74,-36.7267,146.9567
+4323,Southern Slopes (mainland),Southern Slopes (mainland),10080,1,208.97,rare,0.9386,6/28/1980 10:00,7/5/1980 9:55,50834,651,qcd_085240,-38.2456,145.9347
+4328,Southern Slopes (mainland),Southern Slopes (mainland),10080,2,175.35,rare,1.3344,1/30/1973 10:25,2/6/1973 10:20,52015,664,qcd_086147,-38.0333,145.1
+4332,Southern Slopes (mainland),S-SW Flatlands (East),10080,3,219.08,rare,1.3105,4/21/1971 5:35,4/28/1971 5:30,13905,193,qcd_023785,-35,138.7167
+6438,Southern Slopes (mainland),Southern Slopes (Tasmania),10080,3,281.24,rare,1.5928,5/13/1975 16:15,5/20/1975 16:10,56947,745,qcd_097008,-42.0661,145.5681
+6486,Southern Slopes (mainland),Southern Slopes (Tasmania),10080,3,226.89,rare,2.5062,10/5/1979 21:25,10/12/1979 21:20,40078,746,qcd_097047,-41.4892,145.2083
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

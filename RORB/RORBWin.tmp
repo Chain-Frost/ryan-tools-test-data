@@ -1,0 +1,28 @@
+ RORBWin Output File
+ *******************
+ 
+ Program version 6.52 (last updated 1st June 2023)
+ Copyright Monash University and Hydrology and Risk Consulting
+ 
+ Date run: 08 Aug 2026 22:30
+
+ Vector file       : E:\Library\Automation\ryan-tools\tests\test_data\RORB\Fig6_7.catg
+ Storm file        : E:\Library\Automation\ryan-tools\tests\test_data\RORB\areal-example\RORBWin.stm
+ Output information: Flows & all input data
+
+
+ Data checks:
+ ************
+ Next data to be read & checked:
+
+ Catchment name & reach type flag
+ Control vector & storage data
+ Code no.  18     7.0 Location read as                             
+ Sub-area areas
+ Impervious flag
+ Initial storm data
+ Rainfall burst times
+ Pluviograph 1
+ Sub-area rainfalls
+
+ Data check completed
