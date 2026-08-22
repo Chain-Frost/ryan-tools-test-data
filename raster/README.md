@@ -41,5 +41,5 @@ separators for DEV. Folder names and filename prefixes are examples, not a
 fixed schema; tests should exercise editable globs and parser-recognised tokens.
 The project names and every cell value are invented.
 
-Tests for scripts that modify inputs, especially `velocity_masker.py` and the
+Tests for scripts that modify inputs, especially `mask_velocity_by_depth.py` and the
 NoData utilities, should copy the fixture to a temporary directory first.
