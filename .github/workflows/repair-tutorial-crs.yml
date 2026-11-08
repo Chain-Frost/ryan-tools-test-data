@@ -1,0 +1,35 @@
+name: One-shot TUFLOW tutorial CRS metadata correction
+on:
+  push:
+    branches:
+      - fix/tutorial-example-crs-20261108
+    paths:
+      - .github/workflows/repair-tutorial-crs.yml
+permissions:
+  contents: write
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout test-data branch
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+      - name: Install narrow GIS metadata editors
+        run: python -m pip install --quiet "numpy<3" netCDF4 rasterio pyproj
+      - name: Add EPSG:32760 to the three tutorial inputs and rehash archive
+        run: python tools/one_shot_repair_crs.py
+      - name: Commit only the repaired archive, manifest and README
+        shell: bash
+        run: |
+          rm .github/workflows/repair-tutorial-crs.yml tools/one_shot_repair_crs.py
+          git add -A
+          git diff --cached --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Assign EPSG:32760 metadata to three tutorial inputs"
+          git push origin HEAD:fix/tutorial-example-crs-20261108
