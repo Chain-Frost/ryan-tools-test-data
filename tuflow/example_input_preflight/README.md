@@ -7,13 +7,13 @@ It is stored in the dedicated test-data repository and consumed by
 
 ## Files
 
-- `examples.zip` — input tree with 1,464 original files (15,137,122 compressed bytes).
+- `examples.zip` — input tree with 1,465 original files (15,102,735 compressed bytes).
 - `manifest.json` — relative paths, sizes and SHA-256 checksums for all archive members.
 - `baseline.csv` — the original 161-TCF / 174-run diagnostic baseline.
 
 ZIP SHA-256:
 
-`e374c8e072679fc6c4dc11e63b270caa1101b6aebb84d70060872cdd1b0aa7d6`
+`4f90b77044b3247cf7bdb5154d84d1a74da6c669cd1d28d3f2e6089063f2d141`
 
 The archive retains model, runs, BC and pit databases, original input bytes,
 geospatial files and the one restart file needed as an input. It excludes

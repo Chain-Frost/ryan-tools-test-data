@@ -1,7 +1,7 @@
 {
   "source": "User-supplied TUFLOW Example Model Dataset; input subset only",
   "created": "2026-10-22",
-  "archive_sha256": "e374c8e072679fc6c4dc11e63b270caa1101b6aebb84d70060872cdd1b0aa7d6",
+  "archive_sha256": "4f90b77044b3247cf7bdb5154d84d1a74da6c669cd1d28d3f2e6089063f2d141",
   "files": [
     {
       "path": "bc_dbase/EG00_001.csv",
@@ -50,8 +50,8 @@
     },
     {
       "path": "bc_dbase/EG03_011_rf.nc",
-      "size": 2124348,
-      "sha256": "167b277057f036d3e699cd726023d64247e987d0035c0624016b47ce73e20145"
+      "size": 2126004,
+      "sha256": "8953b9d6e7280f9badbb2c73b44572710dd78e80a464d32455111b8259a53f43"
     },
     {
       "path": "bc_dbase/EG03_012/EG03_2D_012_rf_t0.000.flt",
@@ -6360,8 +6360,8 @@
     },
     {
       "path": "model/grid/EG06_2D_002_IWL_h.tif",
-      "size": 11228,
-      "sha256": "0d06248ff17c4ef9fcd5bb3f37abb8db143d165b89f9707fc0f5ae57c02218ef"
+      "size": 12546,
+      "sha256": "0fb9e8f728c6b4bbd3f68f83e9e355d6faca8bc4e5a23d499a9f26e69cec2209"
     },
     {
       "path": "model/materials_depth_varying.csv",
@@ -7322,6 +7322,11 @@
       "path": "runs/Run_GPKG_Examples.bat",
       "size": 3897,
       "sha256": "3e10d991a1215d4a097d991a62093836b5c8f82c3b72a50269df575f98872f35"
+    },
+    {
+      "path": "model/gis/1d_mh_EG15_006_P.prj",
+      "size": 605,
+      "sha256": "e8498ecf57eef66781a49be17f81414f1139baffda2c337449aa5085564b06cd"
     }
   ]
 }
