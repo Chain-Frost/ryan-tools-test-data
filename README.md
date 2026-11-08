@@ -9,17 +9,21 @@ It is consumed as a Git submodule at the only supported location:
 ryan-tools/tests/test_data
 ```
 
-Clone the main repository and initialise all submodules with:
+Clone the parent repository, then initialise only this required test-data submodule:
 
 ```bash
-git clone --recurse-submodules https://github.com/Chain-Frost/ryan-tools.git
+git clone https://github.com/Chain-Frost/ryan-tools.git
+cd ryan-tools
+git submodule update --init tests/test_data
 ```
 
-For an existing clone:
+For an existing parent checkout:
 
 ```bash
-git submodule update --init --recursive
+git submodule update --init tests/test_data
 ```
+
+Do not use recursive submodule checkout: the parent repository's `unsorted` submodule is explicitly excluded from automated inspection and validation. Initialise any additional resources separately when needed.
 
 ## Updating test data
 
