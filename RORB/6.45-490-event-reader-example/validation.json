@@ -1,0 +1,6397 @@
+{
+  "tested_reader_commit": "598e5edea093df426cda64c3a528fd1c5784c612",
+  "reader_module": "ryan_library/functions/RORB/readers.py from exact detached PR233 checkout",
+  "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "native_execution": false,
+  "manifest_files_verified": 1472,
+  "batch_rows": 490,
+  "association_valid": true,
+  "counts": {
+    "corroborated": 490
+  },
+  "elapsed_seconds": 3.026,
+  "original_in_place_counts": {
+    "corroborated": 490
+  },
+  "source_vs_derivative_numeric_lines": "all lines without absolute Windows directory prefixes byte-identical; only directory prefixes replaced",
+  "events": [
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        1
+      ],
+      "batch_line": 26,
+      "csv": "RORB_14141_ aep63p2_du12hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        2
+      ],
+      "batch_line": 27,
+      "csv": "RORB_14141_ aep63p2_du12hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        3
+      ],
+      "batch_line": 28,
+      "csv": "RORB_14141_ aep63p2_du12hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        4
+      ],
+      "batch_line": 29,
+      "csv": "RORB_14141_ aep63p2_du12hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        5
+      ],
+      "batch_line": 30,
+      "csv": "RORB_14141_ aep63p2_du12hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        6
+      ],
+      "batch_line": 31,
+      "csv": "RORB_14141_ aep63p2_du12hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        7
+      ],
+      "batch_line": 32,
+      "csv": "RORB_14141_ aep63p2_du12hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        8
+      ],
+      "batch_line": 33,
+      "csv": "RORB_14141_ aep63p2_du12hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        9
+      ],
+      "batch_line": 34,
+      "csv": "RORB_14141_ aep63p2_du12hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        1,
+        "12",
+        "hour",
+        "63.2%",
+        10
+      ],
+      "batch_line": 35,
+      "csv": "RORB_14141_ aep63p2_du12hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        1
+      ],
+      "batch_line": 36,
+      "csv": "RORB_14141_ aep63p2_du18hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        2
+      ],
+      "batch_line": 37,
+      "csv": "RORB_14141_ aep63p2_du18hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        3
+      ],
+      "batch_line": 38,
+      "csv": "RORB_14141_ aep63p2_du18hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        4
+      ],
+      "batch_line": 39,
+      "csv": "RORB_14141_ aep63p2_du18hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        5
+      ],
+      "batch_line": 40,
+      "csv": "RORB_14141_ aep63p2_du18hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        6
+      ],
+      "batch_line": 41,
+      "csv": "RORB_14141_ aep63p2_du18hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        7
+      ],
+      "batch_line": 42,
+      "csv": "RORB_14141_ aep63p2_du18hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        8
+      ],
+      "batch_line": 43,
+      "csv": "RORB_14141_ aep63p2_du18hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        9
+      ],
+      "batch_line": 44,
+      "csv": "RORB_14141_ aep63p2_du18hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        2,
+        "18",
+        "hour",
+        "63.2%",
+        10
+      ],
+      "batch_line": 45,
+      "csv": "RORB_14141_ aep63p2_du18hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        1
+      ],
+      "batch_line": 46,
+      "csv": "RORB_14141_ aep63p2_du24hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        2
+      ],
+      "batch_line": 47,
+      "csv": "RORB_14141_ aep63p2_du24hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        3
+      ],
+      "batch_line": 48,
+      "csv": "RORB_14141_ aep63p2_du24hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        4
+      ],
+      "batch_line": 49,
+      "csv": "RORB_14141_ aep63p2_du24hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        5
+      ],
+      "batch_line": 50,
+      "csv": "RORB_14141_ aep63p2_du24hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        6
+      ],
+      "batch_line": 51,
+      "csv": "RORB_14141_ aep63p2_du24hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        7
+      ],
+      "batch_line": 52,
+      "csv": "RORB_14141_ aep63p2_du24hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        8
+      ],
+      "batch_line": 53,
+      "csv": "RORB_14141_ aep63p2_du24hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        9
+      ],
+      "batch_line": 54,
+      "csv": "RORB_14141_ aep63p2_du24hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        3,
+        "24",
+        "hour",
+        "63.2%",
+        10
+      ],
+      "batch_line": 55,
+      "csv": "RORB_14141_ aep63p2_du24hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        1
+      ],
+      "batch_line": 56,
+      "csv": "RORB_14141_ aep63p2_du36hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        2
+      ],
+      "batch_line": 57,
+      "csv": "RORB_14141_ aep63p2_du36hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        3
+      ],
+      "batch_line": 58,
+      "csv": "RORB_14141_ aep63p2_du36hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        4
+      ],
+      "batch_line": 59,
+      "csv": "RORB_14141_ aep63p2_du36hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        5
+      ],
+      "batch_line": 60,
+      "csv": "RORB_14141_ aep63p2_du36hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        6
+      ],
+      "batch_line": 61,
+      "csv": "RORB_14141_ aep63p2_du36hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        7
+      ],
+      "batch_line": 62,
+      "csv": "RORB_14141_ aep63p2_du36hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        8
+      ],
+      "batch_line": 63,
+      "csv": "RORB_14141_ aep63p2_du36hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        9
+      ],
+      "batch_line": 64,
+      "csv": "RORB_14141_ aep63p2_du36hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        4,
+        "36",
+        "hour",
+        "63.2%",
+        10
+      ],
+      "batch_line": 65,
+      "csv": "RORB_14141_ aep63p2_du36hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        1
+      ],
+      "batch_line": 66,
+      "csv": "RORB_14141_ aep63p2_du48hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        2
+      ],
+      "batch_line": 67,
+      "csv": "RORB_14141_ aep63p2_du48hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        3
+      ],
+      "batch_line": 68,
+      "csv": "RORB_14141_ aep63p2_du48hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        4
+      ],
+      "batch_line": 69,
+      "csv": "RORB_14141_ aep63p2_du48hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        5
+      ],
+      "batch_line": 70,
+      "csv": "RORB_14141_ aep63p2_du48hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        6
+      ],
+      "batch_line": 71,
+      "csv": "RORB_14141_ aep63p2_du48hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        7
+      ],
+      "batch_line": 72,
+      "csv": "RORB_14141_ aep63p2_du48hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        8
+      ],
+      "batch_line": 73,
+      "csv": "RORB_14141_ aep63p2_du48hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        9
+      ],
+      "batch_line": 74,
+      "csv": "RORB_14141_ aep63p2_du48hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        5,
+        "48",
+        "hour",
+        "63.2%",
+        10
+      ],
+      "batch_line": 75,
+      "csv": "RORB_14141_ aep63p2_du48hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        1
+      ],
+      "batch_line": 76,
+      "csv": "RORB_14141_ aep63p2_du72hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        2
+      ],
+      "batch_line": 77,
+      "csv": "RORB_14141_ aep63p2_du72hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        3
+      ],
+      "batch_line": 78,
+      "csv": "RORB_14141_ aep63p2_du72hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        4
+      ],
+      "batch_line": 79,
+      "csv": "RORB_14141_ aep63p2_du72hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        5
+      ],
+      "batch_line": 80,
+      "csv": "RORB_14141_ aep63p2_du72hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        6
+      ],
+      "batch_line": 81,
+      "csv": "RORB_14141_ aep63p2_du72hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        7
+      ],
+      "batch_line": 82,
+      "csv": "RORB_14141_ aep63p2_du72hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        8
+      ],
+      "batch_line": 83,
+      "csv": "RORB_14141_ aep63p2_du72hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        9
+      ],
+      "batch_line": 84,
+      "csv": "RORB_14141_ aep63p2_du72hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        6,
+        "72",
+        "hour",
+        "63.2%",
+        10
+      ],
+      "batch_line": 85,
+      "csv": "RORB_14141_ aep63p2_du72hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        1
+      ],
+      "batch_line": 86,
+      "csv": "RORB_14141_ aep63p2_du96hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        2
+      ],
+      "batch_line": 87,
+      "csv": "RORB_14141_ aep63p2_du96hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        3
+      ],
+      "batch_line": 88,
+      "csv": "RORB_14141_ aep63p2_du96hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        4
+      ],
+      "batch_line": 89,
+      "csv": "RORB_14141_ aep63p2_du96hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        5
+      ],
+      "batch_line": 90,
+      "csv": "RORB_14141_ aep63p2_du96hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        6
+      ],
+      "batch_line": 91,
+      "csv": "RORB_14141_ aep63p2_du96hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        7
+      ],
+      "batch_line": 92,
+      "csv": "RORB_14141_ aep63p2_du96hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        8
+      ],
+      "batch_line": 93,
+      "csv": "RORB_14141_ aep63p2_du96hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        9
+      ],
+      "batch_line": 94,
+      "csv": "RORB_14141_ aep63p2_du96hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        7,
+        "96",
+        "hour",
+        "63.2%",
+        10
+      ],
+      "batch_line": 95,
+      "csv": "RORB_14141_ aep63p2_du96hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        1
+      ],
+      "batch_line": 96,
+      "csv": "RORB_14141_ aep50_du12hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        2
+      ],
+      "batch_line": 97,
+      "csv": "RORB_14141_ aep50_du12hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        3
+      ],
+      "batch_line": 98,
+      "csv": "RORB_14141_ aep50_du12hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        4
+      ],
+      "batch_line": 99,
+      "csv": "RORB_14141_ aep50_du12hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        5
+      ],
+      "batch_line": 100,
+      "csv": "RORB_14141_ aep50_du12hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        6
+      ],
+      "batch_line": 101,
+      "csv": "RORB_14141_ aep50_du12hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        7
+      ],
+      "batch_line": 102,
+      "csv": "RORB_14141_ aep50_du12hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        8
+      ],
+      "batch_line": 103,
+      "csv": "RORB_14141_ aep50_du12hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        9
+      ],
+      "batch_line": 104,
+      "csv": "RORB_14141_ aep50_du12hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        8,
+        "12",
+        "hour",
+        "50%",
+        10
+      ],
+      "batch_line": 105,
+      "csv": "RORB_14141_ aep50_du12hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        1
+      ],
+      "batch_line": 106,
+      "csv": "RORB_14141_ aep50_du18hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        2
+      ],
+      "batch_line": 107,
+      "csv": "RORB_14141_ aep50_du18hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        3
+      ],
+      "batch_line": 108,
+      "csv": "RORB_14141_ aep50_du18hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        4
+      ],
+      "batch_line": 109,
+      "csv": "RORB_14141_ aep50_du18hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        5
+      ],
+      "batch_line": 110,
+      "csv": "RORB_14141_ aep50_du18hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        6
+      ],
+      "batch_line": 111,
+      "csv": "RORB_14141_ aep50_du18hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        7
+      ],
+      "batch_line": 112,
+      "csv": "RORB_14141_ aep50_du18hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        8
+      ],
+      "batch_line": 113,
+      "csv": "RORB_14141_ aep50_du18hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        9
+      ],
+      "batch_line": 114,
+      "csv": "RORB_14141_ aep50_du18hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        9,
+        "18",
+        "hour",
+        "50%",
+        10
+      ],
+      "batch_line": 115,
+      "csv": "RORB_14141_ aep50_du18hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        1
+      ],
+      "batch_line": 116,
+      "csv": "RORB_14141_ aep50_du24hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        2
+      ],
+      "batch_line": 117,
+      "csv": "RORB_14141_ aep50_du24hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        3
+      ],
+      "batch_line": 118,
+      "csv": "RORB_14141_ aep50_du24hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        4
+      ],
+      "batch_line": 119,
+      "csv": "RORB_14141_ aep50_du24hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        5
+      ],
+      "batch_line": 120,
+      "csv": "RORB_14141_ aep50_du24hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        6
+      ],
+      "batch_line": 121,
+      "csv": "RORB_14141_ aep50_du24hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        7
+      ],
+      "batch_line": 122,
+      "csv": "RORB_14141_ aep50_du24hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        8
+      ],
+      "batch_line": 123,
+      "csv": "RORB_14141_ aep50_du24hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        9
+      ],
+      "batch_line": 124,
+      "csv": "RORB_14141_ aep50_du24hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        10,
+        "24",
+        "hour",
+        "50%",
+        10
+      ],
+      "batch_line": 125,
+      "csv": "RORB_14141_ aep50_du24hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        1
+      ],
+      "batch_line": 126,
+      "csv": "RORB_14141_ aep50_du36hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        2
+      ],
+      "batch_line": 127,
+      "csv": "RORB_14141_ aep50_du36hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        3
+      ],
+      "batch_line": 128,
+      "csv": "RORB_14141_ aep50_du36hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        4
+      ],
+      "batch_line": 129,
+      "csv": "RORB_14141_ aep50_du36hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        5
+      ],
+      "batch_line": 130,
+      "csv": "RORB_14141_ aep50_du36hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        6
+      ],
+      "batch_line": 131,
+      "csv": "RORB_14141_ aep50_du36hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        7
+      ],
+      "batch_line": 132,
+      "csv": "RORB_14141_ aep50_du36hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        8
+      ],
+      "batch_line": 133,
+      "csv": "RORB_14141_ aep50_du36hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        9
+      ],
+      "batch_line": 134,
+      "csv": "RORB_14141_ aep50_du36hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        11,
+        "36",
+        "hour",
+        "50%",
+        10
+      ],
+      "batch_line": 135,
+      "csv": "RORB_14141_ aep50_du36hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        1
+      ],
+      "batch_line": 136,
+      "csv": "RORB_14141_ aep50_du48hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        2
+      ],
+      "batch_line": 137,
+      "csv": "RORB_14141_ aep50_du48hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        3
+      ],
+      "batch_line": 138,
+      "csv": "RORB_14141_ aep50_du48hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        4
+      ],
+      "batch_line": 139,
+      "csv": "RORB_14141_ aep50_du48hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        5
+      ],
+      "batch_line": 140,
+      "csv": "RORB_14141_ aep50_du48hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        6
+      ],
+      "batch_line": 141,
+      "csv": "RORB_14141_ aep50_du48hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        7
+      ],
+      "batch_line": 142,
+      "csv": "RORB_14141_ aep50_du48hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        8
+      ],
+      "batch_line": 143,
+      "csv": "RORB_14141_ aep50_du48hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        9
+      ],
+      "batch_line": 144,
+      "csv": "RORB_14141_ aep50_du48hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        12,
+        "48",
+        "hour",
+        "50%",
+        10
+      ],
+      "batch_line": 145,
+      "csv": "RORB_14141_ aep50_du48hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        1
+      ],
+      "batch_line": 146,
+      "csv": "RORB_14141_ aep50_du72hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        2
+      ],
+      "batch_line": 147,
+      "csv": "RORB_14141_ aep50_du72hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        3
+      ],
+      "batch_line": 148,
+      "csv": "RORB_14141_ aep50_du72hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        4
+      ],
+      "batch_line": 149,
+      "csv": "RORB_14141_ aep50_du72hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        5
+      ],
+      "batch_line": 150,
+      "csv": "RORB_14141_ aep50_du72hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        6
+      ],
+      "batch_line": 151,
+      "csv": "RORB_14141_ aep50_du72hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        7
+      ],
+      "batch_line": 152,
+      "csv": "RORB_14141_ aep50_du72hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        8
+      ],
+      "batch_line": 153,
+      "csv": "RORB_14141_ aep50_du72hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        9
+      ],
+      "batch_line": 154,
+      "csv": "RORB_14141_ aep50_du72hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        13,
+        "72",
+        "hour",
+        "50%",
+        10
+      ],
+      "batch_line": 155,
+      "csv": "RORB_14141_ aep50_du72hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        1
+      ],
+      "batch_line": 156,
+      "csv": "RORB_14141_ aep50_du96hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        2
+      ],
+      "batch_line": 157,
+      "csv": "RORB_14141_ aep50_du96hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        3
+      ],
+      "batch_line": 158,
+      "csv": "RORB_14141_ aep50_du96hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        4
+      ],
+      "batch_line": 159,
+      "csv": "RORB_14141_ aep50_du96hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        5
+      ],
+      "batch_line": 160,
+      "csv": "RORB_14141_ aep50_du96hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        6
+      ],
+      "batch_line": 161,
+      "csv": "RORB_14141_ aep50_du96hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        7
+      ],
+      "batch_line": 162,
+      "csv": "RORB_14141_ aep50_du96hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        8
+      ],
+      "batch_line": 163,
+      "csv": "RORB_14141_ aep50_du96hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        9
+      ],
+      "batch_line": 164,
+      "csv": "RORB_14141_ aep50_du96hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        14,
+        "96",
+        "hour",
+        "50%",
+        10
+      ],
+      "batch_line": 165,
+      "csv": "RORB_14141_ aep50_du96hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        1
+      ],
+      "batch_line": 166,
+      "csv": "RORB_14141_ aep20_du12hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        2
+      ],
+      "batch_line": 167,
+      "csv": "RORB_14141_ aep20_du12hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        3
+      ],
+      "batch_line": 168,
+      "csv": "RORB_14141_ aep20_du12hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        4
+      ],
+      "batch_line": 169,
+      "csv": "RORB_14141_ aep20_du12hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        5
+      ],
+      "batch_line": 170,
+      "csv": "RORB_14141_ aep20_du12hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        6
+      ],
+      "batch_line": 171,
+      "csv": "RORB_14141_ aep20_du12hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        7
+      ],
+      "batch_line": 172,
+      "csv": "RORB_14141_ aep20_du12hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        8
+      ],
+      "batch_line": 173,
+      "csv": "RORB_14141_ aep20_du12hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        9
+      ],
+      "batch_line": 174,
+      "csv": "RORB_14141_ aep20_du12hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        15,
+        "12",
+        "hour",
+        "20%",
+        10
+      ],
+      "batch_line": 175,
+      "csv": "RORB_14141_ aep20_du12hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        1
+      ],
+      "batch_line": 176,
+      "csv": "RORB_14141_ aep20_du18hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        2
+      ],
+      "batch_line": 177,
+      "csv": "RORB_14141_ aep20_du18hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        3
+      ],
+      "batch_line": 178,
+      "csv": "RORB_14141_ aep20_du18hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        4
+      ],
+      "batch_line": 179,
+      "csv": "RORB_14141_ aep20_du18hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        5
+      ],
+      "batch_line": 180,
+      "csv": "RORB_14141_ aep20_du18hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        6
+      ],
+      "batch_line": 181,
+      "csv": "RORB_14141_ aep20_du18hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        7
+      ],
+      "batch_line": 182,
+      "csv": "RORB_14141_ aep20_du18hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        8
+      ],
+      "batch_line": 183,
+      "csv": "RORB_14141_ aep20_du18hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        9
+      ],
+      "batch_line": 184,
+      "csv": "RORB_14141_ aep20_du18hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        16,
+        "18",
+        "hour",
+        "20%",
+        10
+      ],
+      "batch_line": 185,
+      "csv": "RORB_14141_ aep20_du18hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        1
+      ],
+      "batch_line": 186,
+      "csv": "RORB_14141_ aep20_du24hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        2
+      ],
+      "batch_line": 187,
+      "csv": "RORB_14141_ aep20_du24hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        3
+      ],
+      "batch_line": 188,
+      "csv": "RORB_14141_ aep20_du24hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        4
+      ],
+      "batch_line": 189,
+      "csv": "RORB_14141_ aep20_du24hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        5
+      ],
+      "batch_line": 190,
+      "csv": "RORB_14141_ aep20_du24hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        6
+      ],
+      "batch_line": 191,
+      "csv": "RORB_14141_ aep20_du24hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        7
+      ],
+      "batch_line": 192,
+      "csv": "RORB_14141_ aep20_du24hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        8
+      ],
+      "batch_line": 193,
+      "csv": "RORB_14141_ aep20_du24hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        9
+      ],
+      "batch_line": 194,
+      "csv": "RORB_14141_ aep20_du24hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        17,
+        "24",
+        "hour",
+        "20%",
+        10
+      ],
+      "batch_line": 195,
+      "csv": "RORB_14141_ aep20_du24hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        1
+      ],
+      "batch_line": 196,
+      "csv": "RORB_14141_ aep20_du36hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        2
+      ],
+      "batch_line": 197,
+      "csv": "RORB_14141_ aep20_du36hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        3
+      ],
+      "batch_line": 198,
+      "csv": "RORB_14141_ aep20_du36hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        4
+      ],
+      "batch_line": 199,
+      "csv": "RORB_14141_ aep20_du36hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        5
+      ],
+      "batch_line": 200,
+      "csv": "RORB_14141_ aep20_du36hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        6
+      ],
+      "batch_line": 201,
+      "csv": "RORB_14141_ aep20_du36hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        7
+      ],
+      "batch_line": 202,
+      "csv": "RORB_14141_ aep20_du36hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        8
+      ],
+      "batch_line": 203,
+      "csv": "RORB_14141_ aep20_du36hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        9
+      ],
+      "batch_line": 204,
+      "csv": "RORB_14141_ aep20_du36hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        18,
+        "36",
+        "hour",
+        "20%",
+        10
+      ],
+      "batch_line": 205,
+      "csv": "RORB_14141_ aep20_du36hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        1
+      ],
+      "batch_line": 206,
+      "csv": "RORB_14141_ aep20_du48hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        2
+      ],
+      "batch_line": 207,
+      "csv": "RORB_14141_ aep20_du48hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        3
+      ],
+      "batch_line": 208,
+      "csv": "RORB_14141_ aep20_du48hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        4
+      ],
+      "batch_line": 209,
+      "csv": "RORB_14141_ aep20_du48hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        5
+      ],
+      "batch_line": 210,
+      "csv": "RORB_14141_ aep20_du48hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        6
+      ],
+      "batch_line": 211,
+      "csv": "RORB_14141_ aep20_du48hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        7
+      ],
+      "batch_line": 212,
+      "csv": "RORB_14141_ aep20_du48hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        8
+      ],
+      "batch_line": 213,
+      "csv": "RORB_14141_ aep20_du48hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        9
+      ],
+      "batch_line": 214,
+      "csv": "RORB_14141_ aep20_du48hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        19,
+        "48",
+        "hour",
+        "20%",
+        10
+      ],
+      "batch_line": 215,
+      "csv": "RORB_14141_ aep20_du48hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        1
+      ],
+      "batch_line": 216,
+      "csv": "RORB_14141_ aep20_du72hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        2
+      ],
+      "batch_line": 217,
+      "csv": "RORB_14141_ aep20_du72hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        3
+      ],
+      "batch_line": 218,
+      "csv": "RORB_14141_ aep20_du72hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        4
+      ],
+      "batch_line": 219,
+      "csv": "RORB_14141_ aep20_du72hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        5
+      ],
+      "batch_line": 220,
+      "csv": "RORB_14141_ aep20_du72hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        6
+      ],
+      "batch_line": 221,
+      "csv": "RORB_14141_ aep20_du72hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        7
+      ],
+      "batch_line": 222,
+      "csv": "RORB_14141_ aep20_du72hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        8
+      ],
+      "batch_line": 223,
+      "csv": "RORB_14141_ aep20_du72hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        9
+      ],
+      "batch_line": 224,
+      "csv": "RORB_14141_ aep20_du72hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        20,
+        "72",
+        "hour",
+        "20%",
+        10
+      ],
+      "batch_line": 225,
+      "csv": "RORB_14141_ aep20_du72hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        1
+      ],
+      "batch_line": 226,
+      "csv": "RORB_14141_ aep20_du96hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        2
+      ],
+      "batch_line": 227,
+      "csv": "RORB_14141_ aep20_du96hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        3
+      ],
+      "batch_line": 228,
+      "csv": "RORB_14141_ aep20_du96hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        4
+      ],
+      "batch_line": 229,
+      "csv": "RORB_14141_ aep20_du96hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        5
+      ],
+      "batch_line": 230,
+      "csv": "RORB_14141_ aep20_du96hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        6
+      ],
+      "batch_line": 231,
+      "csv": "RORB_14141_ aep20_du96hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        7
+      ],
+      "batch_line": 232,
+      "csv": "RORB_14141_ aep20_du96hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        8
+      ],
+      "batch_line": 233,
+      "csv": "RORB_14141_ aep20_du96hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        9
+      ],
+      "batch_line": 234,
+      "csv": "RORB_14141_ aep20_du96hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        21,
+        "96",
+        "hour",
+        "20%",
+        10
+      ],
+      "batch_line": 235,
+      "csv": "RORB_14141_ aep20_du96hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        1
+      ],
+      "batch_line": 236,
+      "csv": "RORB_14141_ aep10_du12hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        2
+      ],
+      "batch_line": 237,
+      "csv": "RORB_14141_ aep10_du12hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        3
+      ],
+      "batch_line": 238,
+      "csv": "RORB_14141_ aep10_du12hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        4
+      ],
+      "batch_line": 239,
+      "csv": "RORB_14141_ aep10_du12hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        5
+      ],
+      "batch_line": 240,
+      "csv": "RORB_14141_ aep10_du12hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        6
+      ],
+      "batch_line": 241,
+      "csv": "RORB_14141_ aep10_du12hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        7
+      ],
+      "batch_line": 242,
+      "csv": "RORB_14141_ aep10_du12hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        8
+      ],
+      "batch_line": 243,
+      "csv": "RORB_14141_ aep10_du12hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        9
+      ],
+      "batch_line": 244,
+      "csv": "RORB_14141_ aep10_du12hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        22,
+        "12",
+        "hour",
+        "10%",
+        10
+      ],
+      "batch_line": 245,
+      "csv": "RORB_14141_ aep10_du12hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        1
+      ],
+      "batch_line": 246,
+      "csv": "RORB_14141_ aep10_du18hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        2
+      ],
+      "batch_line": 247,
+      "csv": "RORB_14141_ aep10_du18hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        3
+      ],
+      "batch_line": 248,
+      "csv": "RORB_14141_ aep10_du18hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        4
+      ],
+      "batch_line": 249,
+      "csv": "RORB_14141_ aep10_du18hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        5
+      ],
+      "batch_line": 250,
+      "csv": "RORB_14141_ aep10_du18hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        6
+      ],
+      "batch_line": 251,
+      "csv": "RORB_14141_ aep10_du18hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        7
+      ],
+      "batch_line": 252,
+      "csv": "RORB_14141_ aep10_du18hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        8
+      ],
+      "batch_line": 253,
+      "csv": "RORB_14141_ aep10_du18hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        9
+      ],
+      "batch_line": 254,
+      "csv": "RORB_14141_ aep10_du18hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        23,
+        "18",
+        "hour",
+        "10%",
+        10
+      ],
+      "batch_line": 255,
+      "csv": "RORB_14141_ aep10_du18hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        1
+      ],
+      "batch_line": 256,
+      "csv": "RORB_14141_ aep10_du24hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        2
+      ],
+      "batch_line": 257,
+      "csv": "RORB_14141_ aep10_du24hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        3
+      ],
+      "batch_line": 258,
+      "csv": "RORB_14141_ aep10_du24hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        4
+      ],
+      "batch_line": 259,
+      "csv": "RORB_14141_ aep10_du24hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        5
+      ],
+      "batch_line": 260,
+      "csv": "RORB_14141_ aep10_du24hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        6
+      ],
+      "batch_line": 261,
+      "csv": "RORB_14141_ aep10_du24hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        7
+      ],
+      "batch_line": 262,
+      "csv": "RORB_14141_ aep10_du24hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        8
+      ],
+      "batch_line": 263,
+      "csv": "RORB_14141_ aep10_du24hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        9
+      ],
+      "batch_line": 264,
+      "csv": "RORB_14141_ aep10_du24hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        24,
+        "24",
+        "hour",
+        "10%",
+        10
+      ],
+      "batch_line": 265,
+      "csv": "RORB_14141_ aep10_du24hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        1
+      ],
+      "batch_line": 266,
+      "csv": "RORB_14141_ aep10_du36hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        2
+      ],
+      "batch_line": 267,
+      "csv": "RORB_14141_ aep10_du36hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        3
+      ],
+      "batch_line": 268,
+      "csv": "RORB_14141_ aep10_du36hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        4
+      ],
+      "batch_line": 269,
+      "csv": "RORB_14141_ aep10_du36hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        5
+      ],
+      "batch_line": 270,
+      "csv": "RORB_14141_ aep10_du36hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        6
+      ],
+      "batch_line": 271,
+      "csv": "RORB_14141_ aep10_du36hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        7
+      ],
+      "batch_line": 272,
+      "csv": "RORB_14141_ aep10_du36hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        8
+      ],
+      "batch_line": 273,
+      "csv": "RORB_14141_ aep10_du36hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        9
+      ],
+      "batch_line": 274,
+      "csv": "RORB_14141_ aep10_du36hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        25,
+        "36",
+        "hour",
+        "10%",
+        10
+      ],
+      "batch_line": 275,
+      "csv": "RORB_14141_ aep10_du36hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        1
+      ],
+      "batch_line": 276,
+      "csv": "RORB_14141_ aep10_du48hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        2
+      ],
+      "batch_line": 277,
+      "csv": "RORB_14141_ aep10_du48hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        3
+      ],
+      "batch_line": 278,
+      "csv": "RORB_14141_ aep10_du48hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        4
+      ],
+      "batch_line": 279,
+      "csv": "RORB_14141_ aep10_du48hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        5
+      ],
+      "batch_line": 280,
+      "csv": "RORB_14141_ aep10_du48hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        6
+      ],
+      "batch_line": 281,
+      "csv": "RORB_14141_ aep10_du48hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        7
+      ],
+      "batch_line": 282,
+      "csv": "RORB_14141_ aep10_du48hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        8
+      ],
+      "batch_line": 283,
+      "csv": "RORB_14141_ aep10_du48hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        9
+      ],
+      "batch_line": 284,
+      "csv": "RORB_14141_ aep10_du48hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        26,
+        "48",
+        "hour",
+        "10%",
+        10
+      ],
+      "batch_line": 285,
+      "csv": "RORB_14141_ aep10_du48hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        1
+      ],
+      "batch_line": 286,
+      "csv": "RORB_14141_ aep10_du72hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        2
+      ],
+      "batch_line": 287,
+      "csv": "RORB_14141_ aep10_du72hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        3
+      ],
+      "batch_line": 288,
+      "csv": "RORB_14141_ aep10_du72hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        4
+      ],
+      "batch_line": 289,
+      "csv": "RORB_14141_ aep10_du72hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        5
+      ],
+      "batch_line": 290,
+      "csv": "RORB_14141_ aep10_du72hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        6
+      ],
+      "batch_line": 291,
+      "csv": "RORB_14141_ aep10_du72hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        7
+      ],
+      "batch_line": 292,
+      "csv": "RORB_14141_ aep10_du72hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        8
+      ],
+      "batch_line": 293,
+      "csv": "RORB_14141_ aep10_du72hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        9
+      ],
+      "batch_line": 294,
+      "csv": "RORB_14141_ aep10_du72hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        27,
+        "72",
+        "hour",
+        "10%",
+        10
+      ],
+      "batch_line": 295,
+      "csv": "RORB_14141_ aep10_du72hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        1
+      ],
+      "batch_line": 296,
+      "csv": "RORB_14141_ aep10_du96hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        2
+      ],
+      "batch_line": 297,
+      "csv": "RORB_14141_ aep10_du96hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        3
+      ],
+      "batch_line": 298,
+      "csv": "RORB_14141_ aep10_du96hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        4
+      ],
+      "batch_line": 299,
+      "csv": "RORB_14141_ aep10_du96hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        5
+      ],
+      "batch_line": 300,
+      "csv": "RORB_14141_ aep10_du96hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        6
+      ],
+      "batch_line": 301,
+      "csv": "RORB_14141_ aep10_du96hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        7
+      ],
+      "batch_line": 302,
+      "csv": "RORB_14141_ aep10_du96hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        8
+      ],
+      "batch_line": 303,
+      "csv": "RORB_14141_ aep10_du96hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        9
+      ],
+      "batch_line": 304,
+      "csv": "RORB_14141_ aep10_du96hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        28,
+        "96",
+        "hour",
+        "10%",
+        10
+      ],
+      "batch_line": 305,
+      "csv": "RORB_14141_ aep10_du96hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        1
+      ],
+      "batch_line": 306,
+      "csv": "RORB_14141_ aep5_du12hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        2
+      ],
+      "batch_line": 307,
+      "csv": "RORB_14141_ aep5_du12hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        3
+      ],
+      "batch_line": 308,
+      "csv": "RORB_14141_ aep5_du12hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        4
+      ],
+      "batch_line": 309,
+      "csv": "RORB_14141_ aep5_du12hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        5
+      ],
+      "batch_line": 310,
+      "csv": "RORB_14141_ aep5_du12hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        6
+      ],
+      "batch_line": 311,
+      "csv": "RORB_14141_ aep5_du12hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        7
+      ],
+      "batch_line": 312,
+      "csv": "RORB_14141_ aep5_du12hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        8
+      ],
+      "batch_line": 313,
+      "csv": "RORB_14141_ aep5_du12hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        9
+      ],
+      "batch_line": 314,
+      "csv": "RORB_14141_ aep5_du12hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        29,
+        "12",
+        "hour",
+        "5%",
+        10
+      ],
+      "batch_line": 315,
+      "csv": "RORB_14141_ aep5_du12hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        1
+      ],
+      "batch_line": 316,
+      "csv": "RORB_14141_ aep5_du18hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        2
+      ],
+      "batch_line": 317,
+      "csv": "RORB_14141_ aep5_du18hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        3
+      ],
+      "batch_line": 318,
+      "csv": "RORB_14141_ aep5_du18hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        4
+      ],
+      "batch_line": 319,
+      "csv": "RORB_14141_ aep5_du18hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        5
+      ],
+      "batch_line": 320,
+      "csv": "RORB_14141_ aep5_du18hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        6
+      ],
+      "batch_line": 321,
+      "csv": "RORB_14141_ aep5_du18hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        7
+      ],
+      "batch_line": 322,
+      "csv": "RORB_14141_ aep5_du18hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        8
+      ],
+      "batch_line": 323,
+      "csv": "RORB_14141_ aep5_du18hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        9
+      ],
+      "batch_line": 324,
+      "csv": "RORB_14141_ aep5_du18hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        30,
+        "18",
+        "hour",
+        "5%",
+        10
+      ],
+      "batch_line": 325,
+      "csv": "RORB_14141_ aep5_du18hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        1
+      ],
+      "batch_line": 326,
+      "csv": "RORB_14141_ aep5_du24hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        2
+      ],
+      "batch_line": 327,
+      "csv": "RORB_14141_ aep5_du24hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        3
+      ],
+      "batch_line": 328,
+      "csv": "RORB_14141_ aep5_du24hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        4
+      ],
+      "batch_line": 329,
+      "csv": "RORB_14141_ aep5_du24hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        5
+      ],
+      "batch_line": 330,
+      "csv": "RORB_14141_ aep5_du24hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        6
+      ],
+      "batch_line": 331,
+      "csv": "RORB_14141_ aep5_du24hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        7
+      ],
+      "batch_line": 332,
+      "csv": "RORB_14141_ aep5_du24hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        8
+      ],
+      "batch_line": 333,
+      "csv": "RORB_14141_ aep5_du24hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        9
+      ],
+      "batch_line": 334,
+      "csv": "RORB_14141_ aep5_du24hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        31,
+        "24",
+        "hour",
+        "5%",
+        10
+      ],
+      "batch_line": 335,
+      "csv": "RORB_14141_ aep5_du24hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        1
+      ],
+      "batch_line": 336,
+      "csv": "RORB_14141_ aep5_du36hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        2
+      ],
+      "batch_line": 337,
+      "csv": "RORB_14141_ aep5_du36hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        3
+      ],
+      "batch_line": 338,
+      "csv": "RORB_14141_ aep5_du36hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        4
+      ],
+      "batch_line": 339,
+      "csv": "RORB_14141_ aep5_du36hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        5
+      ],
+      "batch_line": 340,
+      "csv": "RORB_14141_ aep5_du36hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        6
+      ],
+      "batch_line": 341,
+      "csv": "RORB_14141_ aep5_du36hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        7
+      ],
+      "batch_line": 342,
+      "csv": "RORB_14141_ aep5_du36hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        8
+      ],
+      "batch_line": 343,
+      "csv": "RORB_14141_ aep5_du36hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        9
+      ],
+      "batch_line": 344,
+      "csv": "RORB_14141_ aep5_du36hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        32,
+        "36",
+        "hour",
+        "5%",
+        10
+      ],
+      "batch_line": 345,
+      "csv": "RORB_14141_ aep5_du36hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        1
+      ],
+      "batch_line": 346,
+      "csv": "RORB_14141_ aep5_du48hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        2
+      ],
+      "batch_line": 347,
+      "csv": "RORB_14141_ aep5_du48hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        3
+      ],
+      "batch_line": 348,
+      "csv": "RORB_14141_ aep5_du48hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        4
+      ],
+      "batch_line": 349,
+      "csv": "RORB_14141_ aep5_du48hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        5
+      ],
+      "batch_line": 350,
+      "csv": "RORB_14141_ aep5_du48hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        6
+      ],
+      "batch_line": 351,
+      "csv": "RORB_14141_ aep5_du48hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        7
+      ],
+      "batch_line": 352,
+      "csv": "RORB_14141_ aep5_du48hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        8
+      ],
+      "batch_line": 353,
+      "csv": "RORB_14141_ aep5_du48hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        9
+      ],
+      "batch_line": 354,
+      "csv": "RORB_14141_ aep5_du48hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        33,
+        "48",
+        "hour",
+        "5%",
+        10
+      ],
+      "batch_line": 355,
+      "csv": "RORB_14141_ aep5_du48hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        1
+      ],
+      "batch_line": 356,
+      "csv": "RORB_14141_ aep5_du72hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        2
+      ],
+      "batch_line": 357,
+      "csv": "RORB_14141_ aep5_du72hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        3
+      ],
+      "batch_line": 358,
+      "csv": "RORB_14141_ aep5_du72hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        4
+      ],
+      "batch_line": 359,
+      "csv": "RORB_14141_ aep5_du72hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        5
+      ],
+      "batch_line": 360,
+      "csv": "RORB_14141_ aep5_du72hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        6
+      ],
+      "batch_line": 361,
+      "csv": "RORB_14141_ aep5_du72hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        7
+      ],
+      "batch_line": 362,
+      "csv": "RORB_14141_ aep5_du72hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        8
+      ],
+      "batch_line": 363,
+      "csv": "RORB_14141_ aep5_du72hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        9
+      ],
+      "batch_line": 364,
+      "csv": "RORB_14141_ aep5_du72hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        34,
+        "72",
+        "hour",
+        "5%",
+        10
+      ],
+      "batch_line": 365,
+      "csv": "RORB_14141_ aep5_du72hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        1
+      ],
+      "batch_line": 366,
+      "csv": "RORB_14141_ aep5_du96hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        2
+      ],
+      "batch_line": 367,
+      "csv": "RORB_14141_ aep5_du96hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        3
+      ],
+      "batch_line": 368,
+      "csv": "RORB_14141_ aep5_du96hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        4
+      ],
+      "batch_line": 369,
+      "csv": "RORB_14141_ aep5_du96hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        5
+      ],
+      "batch_line": 370,
+      "csv": "RORB_14141_ aep5_du96hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        6
+      ],
+      "batch_line": 371,
+      "csv": "RORB_14141_ aep5_du96hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        7
+      ],
+      "batch_line": 372,
+      "csv": "RORB_14141_ aep5_du96hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        8
+      ],
+      "batch_line": 373,
+      "csv": "RORB_14141_ aep5_du96hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        9
+      ],
+      "batch_line": 374,
+      "csv": "RORB_14141_ aep5_du96hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        35,
+        "96",
+        "hour",
+        "5%",
+        10
+      ],
+      "batch_line": 375,
+      "csv": "RORB_14141_ aep5_du96hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        1
+      ],
+      "batch_line": 376,
+      "csv": "RORB_14141_ aep2_du12hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        2
+      ],
+      "batch_line": 377,
+      "csv": "RORB_14141_ aep2_du12hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        3
+      ],
+      "batch_line": 378,
+      "csv": "RORB_14141_ aep2_du12hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        4
+      ],
+      "batch_line": 379,
+      "csv": "RORB_14141_ aep2_du12hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        5
+      ],
+      "batch_line": 380,
+      "csv": "RORB_14141_ aep2_du12hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        6
+      ],
+      "batch_line": 381,
+      "csv": "RORB_14141_ aep2_du12hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        7
+      ],
+      "batch_line": 382,
+      "csv": "RORB_14141_ aep2_du12hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        8
+      ],
+      "batch_line": 383,
+      "csv": "RORB_14141_ aep2_du12hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        9
+      ],
+      "batch_line": 384,
+      "csv": "RORB_14141_ aep2_du12hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        36,
+        "12",
+        "hour",
+        "2%",
+        10
+      ],
+      "batch_line": 385,
+      "csv": "RORB_14141_ aep2_du12hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        1
+      ],
+      "batch_line": 386,
+      "csv": "RORB_14141_ aep2_du18hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        2
+      ],
+      "batch_line": 387,
+      "csv": "RORB_14141_ aep2_du18hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        3
+      ],
+      "batch_line": 388,
+      "csv": "RORB_14141_ aep2_du18hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        4
+      ],
+      "batch_line": 389,
+      "csv": "RORB_14141_ aep2_du18hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        5
+      ],
+      "batch_line": 390,
+      "csv": "RORB_14141_ aep2_du18hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        6
+      ],
+      "batch_line": 391,
+      "csv": "RORB_14141_ aep2_du18hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        7
+      ],
+      "batch_line": 392,
+      "csv": "RORB_14141_ aep2_du18hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        8
+      ],
+      "batch_line": 393,
+      "csv": "RORB_14141_ aep2_du18hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        9
+      ],
+      "batch_line": 394,
+      "csv": "RORB_14141_ aep2_du18hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        37,
+        "18",
+        "hour",
+        "2%",
+        10
+      ],
+      "batch_line": 395,
+      "csv": "RORB_14141_ aep2_du18hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        1
+      ],
+      "batch_line": 396,
+      "csv": "RORB_14141_ aep2_du24hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        2
+      ],
+      "batch_line": 397,
+      "csv": "RORB_14141_ aep2_du24hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        3
+      ],
+      "batch_line": 398,
+      "csv": "RORB_14141_ aep2_du24hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        4
+      ],
+      "batch_line": 399,
+      "csv": "RORB_14141_ aep2_du24hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        5
+      ],
+      "batch_line": 400,
+      "csv": "RORB_14141_ aep2_du24hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        6
+      ],
+      "batch_line": 401,
+      "csv": "RORB_14141_ aep2_du24hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        7
+      ],
+      "batch_line": 402,
+      "csv": "RORB_14141_ aep2_du24hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        8
+      ],
+      "batch_line": 403,
+      "csv": "RORB_14141_ aep2_du24hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        9
+      ],
+      "batch_line": 404,
+      "csv": "RORB_14141_ aep2_du24hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        38,
+        "24",
+        "hour",
+        "2%",
+        10
+      ],
+      "batch_line": 405,
+      "csv": "RORB_14141_ aep2_du24hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        1
+      ],
+      "batch_line": 406,
+      "csv": "RORB_14141_ aep2_du36hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        2
+      ],
+      "batch_line": 407,
+      "csv": "RORB_14141_ aep2_du36hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        3
+      ],
+      "batch_line": 408,
+      "csv": "RORB_14141_ aep2_du36hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        4
+      ],
+      "batch_line": 409,
+      "csv": "RORB_14141_ aep2_du36hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        5
+      ],
+      "batch_line": 410,
+      "csv": "RORB_14141_ aep2_du36hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        6
+      ],
+      "batch_line": 411,
+      "csv": "RORB_14141_ aep2_du36hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        7
+      ],
+      "batch_line": 412,
+      "csv": "RORB_14141_ aep2_du36hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        8
+      ],
+      "batch_line": 413,
+      "csv": "RORB_14141_ aep2_du36hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        9
+      ],
+      "batch_line": 414,
+      "csv": "RORB_14141_ aep2_du36hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        39,
+        "36",
+        "hour",
+        "2%",
+        10
+      ],
+      "batch_line": 415,
+      "csv": "RORB_14141_ aep2_du36hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        1
+      ],
+      "batch_line": 416,
+      "csv": "RORB_14141_ aep2_du48hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        2
+      ],
+      "batch_line": 417,
+      "csv": "RORB_14141_ aep2_du48hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        3
+      ],
+      "batch_line": 418,
+      "csv": "RORB_14141_ aep2_du48hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        4
+      ],
+      "batch_line": 419,
+      "csv": "RORB_14141_ aep2_du48hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        5
+      ],
+      "batch_line": 420,
+      "csv": "RORB_14141_ aep2_du48hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        6
+      ],
+      "batch_line": 421,
+      "csv": "RORB_14141_ aep2_du48hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        7
+      ],
+      "batch_line": 422,
+      "csv": "RORB_14141_ aep2_du48hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        8
+      ],
+      "batch_line": 423,
+      "csv": "RORB_14141_ aep2_du48hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        9
+      ],
+      "batch_line": 424,
+      "csv": "RORB_14141_ aep2_du48hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        40,
+        "48",
+        "hour",
+        "2%",
+        10
+      ],
+      "batch_line": 425,
+      "csv": "RORB_14141_ aep2_du48hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        1
+      ],
+      "batch_line": 426,
+      "csv": "RORB_14141_ aep2_du72hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        2
+      ],
+      "batch_line": 427,
+      "csv": "RORB_14141_ aep2_du72hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        3
+      ],
+      "batch_line": 428,
+      "csv": "RORB_14141_ aep2_du72hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        4
+      ],
+      "batch_line": 429,
+      "csv": "RORB_14141_ aep2_du72hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        5
+      ],
+      "batch_line": 430,
+      "csv": "RORB_14141_ aep2_du72hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        6
+      ],
+      "batch_line": 431,
+      "csv": "RORB_14141_ aep2_du72hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        7
+      ],
+      "batch_line": 432,
+      "csv": "RORB_14141_ aep2_du72hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        8
+      ],
+      "batch_line": 433,
+      "csv": "RORB_14141_ aep2_du72hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        9
+      ],
+      "batch_line": 434,
+      "csv": "RORB_14141_ aep2_du72hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        41,
+        "72",
+        "hour",
+        "2%",
+        10
+      ],
+      "batch_line": 435,
+      "csv": "RORB_14141_ aep2_du72hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        1
+      ],
+      "batch_line": 436,
+      "csv": "RORB_14141_ aep2_du96hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        2
+      ],
+      "batch_line": 437,
+      "csv": "RORB_14141_ aep2_du96hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        3
+      ],
+      "batch_line": 438,
+      "csv": "RORB_14141_ aep2_du96hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        4
+      ],
+      "batch_line": 439,
+      "csv": "RORB_14141_ aep2_du96hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        5
+      ],
+      "batch_line": 440,
+      "csv": "RORB_14141_ aep2_du96hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        6
+      ],
+      "batch_line": 441,
+      "csv": "RORB_14141_ aep2_du96hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        7
+      ],
+      "batch_line": 442,
+      "csv": "RORB_14141_ aep2_du96hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        8
+      ],
+      "batch_line": 443,
+      "csv": "RORB_14141_ aep2_du96hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        9
+      ],
+      "batch_line": 444,
+      "csv": "RORB_14141_ aep2_du96hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        42,
+        "96",
+        "hour",
+        "2%",
+        10
+      ],
+      "batch_line": 445,
+      "csv": "RORB_14141_ aep2_du96hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        1
+      ],
+      "batch_line": 446,
+      "csv": "RORB_14141_ aep1_du12hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        2
+      ],
+      "batch_line": 447,
+      "csv": "RORB_14141_ aep1_du12hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        3
+      ],
+      "batch_line": 448,
+      "csv": "RORB_14141_ aep1_du12hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        4
+      ],
+      "batch_line": 449,
+      "csv": "RORB_14141_ aep1_du12hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        5
+      ],
+      "batch_line": 450,
+      "csv": "RORB_14141_ aep1_du12hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        6
+      ],
+      "batch_line": 451,
+      "csv": "RORB_14141_ aep1_du12hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        7
+      ],
+      "batch_line": 452,
+      "csv": "RORB_14141_ aep1_du12hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        8
+      ],
+      "batch_line": 453,
+      "csv": "RORB_14141_ aep1_du12hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        9
+      ],
+      "batch_line": 454,
+      "csv": "RORB_14141_ aep1_du12hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        43,
+        "12",
+        "hour",
+        "1%",
+        10
+      ],
+      "batch_line": 455,
+      "csv": "RORB_14141_ aep1_du12hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        1
+      ],
+      "batch_line": 456,
+      "csv": "RORB_14141_ aep1_du18hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        2
+      ],
+      "batch_line": 457,
+      "csv": "RORB_14141_ aep1_du18hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        3
+      ],
+      "batch_line": 458,
+      "csv": "RORB_14141_ aep1_du18hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        4
+      ],
+      "batch_line": 459,
+      "csv": "RORB_14141_ aep1_du18hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        5
+      ],
+      "batch_line": 460,
+      "csv": "RORB_14141_ aep1_du18hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        6
+      ],
+      "batch_line": 461,
+      "csv": "RORB_14141_ aep1_du18hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        7
+      ],
+      "batch_line": 462,
+      "csv": "RORB_14141_ aep1_du18hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        8
+      ],
+      "batch_line": 463,
+      "csv": "RORB_14141_ aep1_du18hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        9
+      ],
+      "batch_line": 464,
+      "csv": "RORB_14141_ aep1_du18hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        44,
+        "18",
+        "hour",
+        "1%",
+        10
+      ],
+      "batch_line": 465,
+      "csv": "RORB_14141_ aep1_du18hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        1
+      ],
+      "batch_line": 466,
+      "csv": "RORB_14141_ aep1_du24hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        2
+      ],
+      "batch_line": 467,
+      "csv": "RORB_14141_ aep1_du24hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        3
+      ],
+      "batch_line": 468,
+      "csv": "RORB_14141_ aep1_du24hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        4
+      ],
+      "batch_line": 469,
+      "csv": "RORB_14141_ aep1_du24hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        5
+      ],
+      "batch_line": 470,
+      "csv": "RORB_14141_ aep1_du24hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        6
+      ],
+      "batch_line": 471,
+      "csv": "RORB_14141_ aep1_du24hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        7
+      ],
+      "batch_line": 472,
+      "csv": "RORB_14141_ aep1_du24hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        8
+      ],
+      "batch_line": 473,
+      "csv": "RORB_14141_ aep1_du24hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        9
+      ],
+      "batch_line": 474,
+      "csv": "RORB_14141_ aep1_du24hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        45,
+        "24",
+        "hour",
+        "1%",
+        10
+      ],
+      "batch_line": 475,
+      "csv": "RORB_14141_ aep1_du24hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        1
+      ],
+      "batch_line": 476,
+      "csv": "RORB_14141_ aep1_du36hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        2
+      ],
+      "batch_line": 477,
+      "csv": "RORB_14141_ aep1_du36hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        3
+      ],
+      "batch_line": 478,
+      "csv": "RORB_14141_ aep1_du36hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        4
+      ],
+      "batch_line": 479,
+      "csv": "RORB_14141_ aep1_du36hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        5
+      ],
+      "batch_line": 480,
+      "csv": "RORB_14141_ aep1_du36hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        6
+      ],
+      "batch_line": 481,
+      "csv": "RORB_14141_ aep1_du36hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        7
+      ],
+      "batch_line": 482,
+      "csv": "RORB_14141_ aep1_du36hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        8
+      ],
+      "batch_line": 483,
+      "csv": "RORB_14141_ aep1_du36hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        9
+      ],
+      "batch_line": 484,
+      "csv": "RORB_14141_ aep1_du36hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        46,
+        "36",
+        "hour",
+        "1%",
+        10
+      ],
+      "batch_line": 485,
+      "csv": "RORB_14141_ aep1_du36hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        1
+      ],
+      "batch_line": 486,
+      "csv": "RORB_14141_ aep1_du48hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        2
+      ],
+      "batch_line": 487,
+      "csv": "RORB_14141_ aep1_du48hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        3
+      ],
+      "batch_line": 488,
+      "csv": "RORB_14141_ aep1_du48hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        4
+      ],
+      "batch_line": 489,
+      "csv": "RORB_14141_ aep1_du48hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        5
+      ],
+      "batch_line": 490,
+      "csv": "RORB_14141_ aep1_du48hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        6
+      ],
+      "batch_line": 491,
+      "csv": "RORB_14141_ aep1_du48hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        7
+      ],
+      "batch_line": 492,
+      "csv": "RORB_14141_ aep1_du48hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        8
+      ],
+      "batch_line": 493,
+      "csv": "RORB_14141_ aep1_du48hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        9
+      ],
+      "batch_line": 494,
+      "csv": "RORB_14141_ aep1_du48hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        47,
+        "48",
+        "hour",
+        "1%",
+        10
+      ],
+      "batch_line": 495,
+      "csv": "RORB_14141_ aep1_du48hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        1
+      ],
+      "batch_line": 496,
+      "csv": "RORB_14141_ aep1_du72hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        2
+      ],
+      "batch_line": 497,
+      "csv": "RORB_14141_ aep1_du72hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        3
+      ],
+      "batch_line": 498,
+      "csv": "RORB_14141_ aep1_du72hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        4
+      ],
+      "batch_line": 499,
+      "csv": "RORB_14141_ aep1_du72hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        5
+      ],
+      "batch_line": 500,
+      "csv": "RORB_14141_ aep1_du72hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        6
+      ],
+      "batch_line": 501,
+      "csv": "RORB_14141_ aep1_du72hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        7
+      ],
+      "batch_line": 502,
+      "csv": "RORB_14141_ aep1_du72hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        8
+      ],
+      "batch_line": 503,
+      "csv": "RORB_14141_ aep1_du72hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        9
+      ],
+      "batch_line": 504,
+      "csv": "RORB_14141_ aep1_du72hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        48,
+        "72",
+        "hour",
+        "1%",
+        10
+      ],
+      "batch_line": 505,
+      "csv": "RORB_14141_ aep1_du72hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        1
+      ],
+      "batch_line": 506,
+      "csv": "RORB_14141_ aep1_du96hourtp1.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        2
+      ],
+      "batch_line": 507,
+      "csv": "RORB_14141_ aep1_du96hourtp2.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        3
+      ],
+      "batch_line": 508,
+      "csv": "RORB_14141_ aep1_du96hourtp3.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        4
+      ],
+      "batch_line": 509,
+      "csv": "RORB_14141_ aep1_du96hourtp4.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        5
+      ],
+      "batch_line": 510,
+      "csv": "RORB_14141_ aep1_du96hourtp5.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        6
+      ],
+      "batch_line": 511,
+      "csv": "RORB_14141_ aep1_du96hourtp6.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        7
+      ],
+      "batch_line": 512,
+      "csv": "RORB_14141_ aep1_du96hourtp7.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        8
+      ],
+      "batch_line": 513,
+      "csv": "RORB_14141_ aep1_du96hourtp8.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        9
+      ],
+      "batch_line": 514,
+      "csv": "RORB_14141_ aep1_du96hourtp9.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    },
+    {
+      "event_key": [
+        49,
+        "96",
+        "hour",
+        "1%",
+        10
+      ],
+      "batch_line": 515,
+      "csv": "RORB_14141_ aep1_du96hourtp10.csv",
+      "status": "corroborated",
+      "reason": "Event filename, CSV signature, output reference, site labels and rounded peaks agree; time origin unverified."
+    }
+  ],
+  "limitations": [
+    "Not authenticated as the historical 420-pair dataset.",
+    "Version is the report banner; executable hash/build is unknown.",
+    "Catchment CATG file not available; this is reader acceptance data, not a rerunnable numerical model.",
+    "No native selection rule, physical site identity or numerical equivalence is established.",
+    "No native executable run, wheel/software change, merge or release."
+  ]
+}

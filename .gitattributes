@@ -1,0 +1,2 @@
+# Retained RORB 6.45 fixtures and provenance hashes require exact checkout bytes.
+/RORB/6.45-490-event-reader-example/** -text

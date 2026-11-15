@@ -1,0 +1,24 @@
+RORB_1: 12 hour 20% Design Storm No.5 Temporal Pattern
+DESIGN
+C  
+C  Date run           : 13 Jul 2022 14:14
+C  Catchment file     : .\RORB_14141.catg
+C  Storm area (km²)   :      94.46
+C  Storm ARI (yr)     : 20%
+C  Storm duration     : 12 hour
+C  Temporal pattern   : ARR2016 pattern 5 (areal temporal patterns, standard area = 100 km²)
+C  Spatial pattern    : Uniform
+C  Burst depth (mm)   :    78.50
+C  Areal Red. Fact.   :     0.94 (ARR2016 approach)
+C  ARF*BurDepth(mm)   :    73.66
+C  
+C  
+   0.50000,500, 1,  1, 1, -99
+ 0,  24
+Temporal pattern (% of depth)
+  3.49, 14.37, 13.07, 10.63, 16.19,  4.43,  0.00,  0.00,  1.29,  5.62,  4.61,  0.37,  0.37,
+  0.00,  0.00,  0.00,  0.00,  5.45,  1.10,  1.11,  2.08,  6.21,  4.53,  5.08,-99.00
+C  Sub-area rainfall depths (areally weighted average depth =      73.66 mm)
+  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,
+  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,  73.66,
+  73.66,  73.66,  73.66,  73.66, -99.00

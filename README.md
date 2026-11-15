@@ -1,5 +1,9 @@
 # ryan-tools test data
 
+Public original RORBWin 6.45 batch/CSV/report/storm reader fixtures and their
+hash manifest are available in
+[the 490-event reader example](RORB/6.45-490-event-reader-example/README.md).
+
 This repository contains the large test datasets used by
 [`Chain-Frost/ryan-tools`](https://github.com/Chain-Frost/ryan-tools).
 
